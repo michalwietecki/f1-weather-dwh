@@ -1,108 +1,108 @@
-Round,Country,City,Circuit Name,GP Name,Race Date,First GP,Number of Laps,Circuit Length(km),Race Distance(km),Lap Record,Record Owner,Record Year,Turns,DRS Zones,CircuitLocationID
-1,Austria,Spielberg,Red Bull Ring,Austria,05/07/2020,1970,71,4.318,306.452,1:05.619,Carlos Sainz,2020,10,3,174
-2,Austria,Spielberg,Red Bull Ring,Styria,12/07/2020,1970,71,4.318,306.452,1:05.619,Carlos Sainz,2020,10,3,174
-3,Hungary,Budapest,Hungaroring,Hungary,19/07/2020,1986,70,4.381,306.63,1:17.103,Max Verstappen,2019,14,2,131
-4,Great Britain,Silverstone,Silverstone Circuit,Great Britain,02/08/2020,1950,52,5.891,306.198,1:27.097,Max Verstappen,2020,18,2,202
-5,Great Britain,Silverstone,Sliverstone Circuit,70th Anniversary,09/08/2020,1950,52,5.891,306.198,1:27.097,Max Verstappen,2020,18,2,202
-6,Spain,Catalunya,Circuit de Barcelona-Catalunya,Spain,16/08/2020,1991,66,4.655,307.104,1:18.183,Valtteri Bottas,2020,16,2,54
-7,Belgium,Spa-Francorchamps,Circuit de Spa-Francorchamps,Belgium,30/08/2020,1950,44,7.004,308.052,1:46.286,Valtteri Bottas,2018,19,2,74
-8,Italy,Monza,Autodromo Nazionale Monza,Italy,06/09/2020,1950,53,5.793,306.72,1:21.046,Rubens Barrichello,2004,11,2,26
-9,Italy,Tuscany,Mugello,Tuscany,13/09/2020,2020,59,5.245,309.497,1:18.833,Lewis Hamilton,2020,15,1,17
-10,Russia,Sochi,Sochi Autodrom,Russia,27/09/2020,2014,53,5.848,309.745,1:35.761,Lewis Hamilton,2019,18,2,203
-11,Germany,Nurburg,Nurburgring,Eifel,11/10/2020,1951,60,5.148,308.617,1:28.139,Max Verstappen,2020,15,2,167
-12,Portugal,Portimao,Autodromo Internacional do Algarve,Portugal,25/10/2020,2020,66,4.653,306.826,1:18.750,Lewis Hamilton,2020,15,1,9
-13,Italy,Imola,Autodromo Enzo e Dino Ferrari,Emilia Romagna,01/11/2020,1980,63,4.909,309.049,1:15.484,Lewis Hamilton,2020,19,1,19
-14,Turkey,Istanbul,Intercity Istanbul Park,Turkey,15/11/2020,2005,58,5.338,309.396,1:24.770,Juan Pablo Montoya,2005,14,2,135
-15,Bahrain,Sakhir,Bahrain International Circuit,Bahrain,29/11/2020,2004,57,5.412,308.238,1:31.447,Pedro de la Rosa,2005,15,3,34
-16,Bahrain,Sakhir,Bahrain International Circuit - Outer Track,Sakhir,06/12/2020,2020,87,3.543,307.995,0:55.404,George Russell,2020,11,2,34
-17,Abu Dhabi,Yas Island,Yas Marina Circuit,Abu Dhabi,13/12/2020,2009,55,5.554,305.355,1:39.283,Lewis Hamilton,2019,21,2,210
-1,Bahrain,Sakhir,Bahrain International Circuit,Bahrain,28/03/2021,2004,57,5.412,308.238,1:31.447,Pedro de la Rosa,2005,15,3,34
-2,Italy,Imola,Autodromo Enzo e Dino Ferrari,Emilia Romagna,18/04/2021,1980,63,4.909,309.049,1:15.484,Lewis Hamilton,2020,19,1,19
-3,Portugal,Portimao,Autodromo Internacional do Algarve,Portugal,02/05/2021,2020,66,4.653,306.826,1:18.750,Lewis Hamilton,2020,15,1,9
-4,Spain,Catalunya,Circuit de Barcelona-Catalunya,Spain,09/05/2021,1991,66,4.675,308.424,1:18.149,Max Verstappen,2021,16,2,54
-5,Monaco,Monte Carlo,Circuit de Monaco,Monaco,23/05/2021,1950,78,3.337,260.286,1:12.909,Lewis Hamilton,2021,19,1,57
-6,Azerbaijan,Baku,Baku City Circuit,Azerbaijan,06/06/2021,2016,51,6.003,306.049,1:43.009,Charles Leclerc,2019,20,2,36
-7,France,Le Castellet,Circuit Paul Ricard,France,20/06/2021,1971,53,5.842,309.69,1:32.740,Sebastian Vettel,2019,15,2,96
-8,Austria,Spielberg,Red Bull Ring,Styria,04/07/2021,1970,71,4.318,306.452,1:05.619,Carlos Sainz,2020,10,3,174
-9,Austria,Spielberg,Red Bull Ring,Austria,18/07/2021,1970,71,4.318,306.452,1:05.619,Carlos Sainz,2020,10,3,174
-10,Great Britain,Siverstone,Silverstone Circuit,Great Britain,18/07/2021,1950,52,5.891,306.198,1:27.097,Max Verstappen,2020,18,2,202
-11,Hungary,Budapest,Hungaroring,Hungary,01/08/2021,1986,70,4.381,306.63,1:16:627,Lewis Hamilton,2020,14,1,131
-12,Belgium,Spa-Francorchamps,Circuit de Spa-Francorchamps,Belgium,29/08/2021,1950,44,7.004,308.052,1:48.286,Valtteri Bottas,2018,19,2,74
-13,Netherlands,Zandvoort,Circuit Zandvoort,Dutch,05/09/2021,1952,72,4.259,306.587,1:11.097,Lewis Hamilton,2021,14,2,101
-14,Italy,Monza,Autodromo Nazionale Monza,Italy,12/09/2021,1950,53,5.793,306.72,1:21.046,Rubens Barrichello,2004,11,2,26
-15,Russia,Sochi,Sochi Autodrom,Russia,26/09/2021,2014,53,5.848,309.745,1:35.761,Lewis Hamilton,2019,18,2,203
-16,Turkey,Istanbul,Intercity Istanbul Park,Turkey,10/10/2021,2005,58,5.338,309.396,1:24.770,Juan Pablo Montoya,2005,14,2,135
-17,United States,Austin,Circuit of the Americas,United States,24/10/2021,2012,56,5.513,308.405,1:36.169,Charles Leclerc,2019,20,2,87
-18,Mexico,Mexico City,Autodromo Hermanos Rodriguez,Mexico,07/11/2021,1963,71,4.304,305.354,1:17.774,Valtteri Bottas,2021,17,3,14
-19,Brazil,Sao Paulo,Autodromo José Carlos Pace,Sao Paulo,14/11/2021,1973,71,4.309,305.879,1:10.540,Valtteri Bottas,2018,15,2,24
-20,Qatar,Losail,Losail International Circuit,Qatar,21/11/2021,2021,57,5.38,306.66,1:23.196,Max Verstappen,2021,16,1,143
-21,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,Saudi Arabia,05/12/2021,2021,50,6.174,308.45,1:30.734,Lewis Hmailton,2021,27,3,136
-22,Abu Dhabi,Yas Island,Yas Marina Circuit,Abu Dhabi,12/12/2021,2009,58,5.281,306.183,1:26.103,Max Verstappen,2021,16,2,210
-1,Bahrain,Sakhir,Bahrain International Circuit,Gulf Air Bahrain GP,20/03/2022,2004,57,5.412,308.238,1:31.447,Pedro de la Rosa,2005,15,3,34
-2,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,STC Saudi Arabian GP,27/03/2022,2021,50,6.174,308.45,1:30.774,Lewis Hamilton,2021,27,3,136
-3,Australia,Melbourne,Albert Park Circuit,Heineken Australian GP,10/04/2022,1996,58,5.278,306.124,1:20.260,Charles Leclerc,2022,14,2,8
-4,Italy,Imola,Autodromo Enzo e Dino Ferrari,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,24/04/2022,1980,63,4.909,309.049,1:15.484,Lewis Hamilton,2020,18,1,19
-5,United States,Miami,Miami International Autodrome,Crypto.com Miami GP,08/05/2022,2022,57,5.412,308.326,1:31.361,Max Verstappen,2022,19,3,147
-6,Spain,Catalunya,Circuit de Barcelona-Catalunya,Pirelli Gran Premio de España,22/05/2022,1991,66,4.675,308.424,1:18.149,Max Verstappen,2021,16,2,54
-7,Monaco,Monte Carlo,Circuit de Monaco,Grand Prix de Monaco,29/05/2022,1950,78,3.337,260.286,1:12.909,Lewis Hamilton,2021,19,1,57
-8,Azerbaijan,Baku,Baku City Circuit,Azerbaijan GP,12/06/2022,2016,51,6.003,306.049,1:43.009,Charles Leclerc,2019,20,2,36
-9,Canada,Montréal,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada,19/06/2022,1978,70,4.361,305.27,1:13.078,Valtteri Bottas,2019,14,3,83
-10,Great Britain,Silverstone,Silverstone Circuit,Lenovo British GP,03/07/2022,1950,52,5.891,306.198,1:27.097,Max Verstappen,2020,18,2,202
-11,Austria,Spielberg,Red Bull Ring,Rolex Grosser Preis von Österreich,10/07/2022,1970,71,4.318,306.452,1:05.619,Carlos Sainz,2020,10,3,174
-12,France,Le Castellet,Circuit Paul Ricard,Lenovo Grand Prix de France,24/07/2022,1971,53,5.842,309.69,1:32.740,Sebastian Vettel,2019,15,2,96
-13,Hungary,Budapest,Hungaroring,Aramco Magyar Nagydij,31/07/2022,1986,70,4.381,306.63,1:16.627,Lewis Hamilton,2020,14,1,131
-14,Belgium,Spa-Francorchamps,Circuit de Spa-Francorchamps,Rolex Belgian GP,28/08/2022,1950,44,7.004,308.052,1:46.286,Valtter Bottas,2018,19,2,74
-15,Netherlands,Zandvoort,Circuit Zandvoort,Heineken Dutch GP,04/09/2022,1952,72,4.259,306.587,1:11.097,Lewis Hamilton,2021,14,2,101
-16,Italy,Monza,Autodromo Nazionale Monza,Pirelli Gran Premio D'Italia,11/09/2022,1950,53,5.793,306.72,1:21.046,Rubens Barrichello,2004,11,2,26
-17,Singapore,Singapore,Marina Bay Street Circuit,Singapore Airlines Singapore GP,02/10/2022,2008,61,5.063,308.706,1:41.905,Kevin Magnussen,2018,23,3,146
-18,Japan,Suzuka,Suzuka International Racing Course,Honda Japanese GP,09/10/2022,1987,53,5.807,307.471,1:30.983,Lewis Hamilton,2019,18,1,206
-19,United States,Austin,Circuit of the Americas,Aramco United States GP,23/10/2022,2012,56,5.513,308.405,1:36.169,Charles Leclerc,2019,20,2,87
-20,Mexico,Mexico City,Autodromo Hermanos Rodriguez,Gran Premio de la Ciudad de México,30/10/2022,1963,71,4.304,305.354,1:17.774,Valtteri Bottas,2021,17,3,14
-21,Brazil,São Paulo,Autodromo Jose Carlos Pace,Heineken Gran Prêmio de São Paulo,13/11/2022,1973,71,4.309,305.879,1:10.540,Valtteri Bottas,2018,15,2,24
-22,Abu Dhabi,Yas Island,Yas Marina Circuit,Etihad Airways Abu Dhabi GP,20/11/2022,2009,58,5.281,306.183,1:26.103,Max Verstappen,2021,16,2,210
-1,Bahrain,Sakhir,Bahrain International Circuit,Gulf Air Bahrain GP,05/03/2023,2004,57,5.412,308.238,1:31.447,Pedro de la Rosa,2005,15,3,34
-2,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,STC Saudi Arabian GP,19/03/2023,2021,50,6.174,308.45,1:30.734,Lewis Hamilton,2021,27,3,136
-3,Australia,Melbourne,Melbourne Grand Prix Circuit,Rolex Australian GP,02/04/2023,1996,58,5.278,306.124,1:20.235,Sergio Perez,2023,14,4,8
-4,Azerbaijan,Baku,Baku City Circuit,Azerbaijan GP,30/04/2023,2016,51,6.003,306.049,1:43.009,Charles Leclerc,2019,20,2,36
-5,United States,Miami,Miami International Autodrome,Crypto.com Miami GP,07/05/2023,2022,57,5.412,308.326,1:29.708,Max Verstappen,2023,19,3,147
-7,Monaco,Monaco,Circuit de Monaco,Grand Prix de Monaco,28/05/2023,1950,78,3.337,260.286,1:12.909,Lewis Hamilton,2021,19,1,57
-8,Spain,Catalunya,Circuit de Barcelona-Catalunya,AWS Gran Premio de España,04/06/2023,1991,66,4.657,307.236,1:16.330,Max Verstappen,2023,14,2,54
-9,Canada,Montréal,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada,18/06/2023,1978,70,4.361,305.27,1:13.078,Valtteri Bottas,2018,14,3,83
-10,Austria,Spielberg,Red Bull Ring,Rolex Grosser Preis Von Österreich,02/07/2023,1970,71,4.318,306.452,1:05.619,Carlos Sainz,2020,10,3,174
-11,Great Britain,Silverstone,Silverstone Circuit,Aramco British GP,09/07/2023,1950,52,5.891,306.198,1:27.097,Max Verstappen,2020,18,2,202
-12,Hungary,Budapest,Hungaroring,Qatar Airways Hungarian GP,23/07/2023,1986,70,4.381,306.63,1:16.627,Lewis Hamilton,2020,14,2,131
-13,Belgium,Spa-Francorchamps,Circuit de Spa-Francorchamps,MSC Cruises Belgian GP,30/07/2023,1950,44,7.004,308.052,1:46.286,Valtteri Bottas,2018,19,2,74
-14,Netherlands,Zandvoort,Circuit Zandvoort,Heineken Dutch GP,27/08/2023,1952,72,4.259,306.587,1:11.097,Lewis Hamilton,2021,14,2,101
-15,Italy,Monza,Autodromo Nazionale Monza,Pirelli Gran Premio D'Italia,03/09/2023,1950,53,5.793,306.72,1:21.046,Rubens Barrichello,2004,11,2,26
-16,Singapore,Singapore,Marina Bay Street Circuit,Singapore Airlines Singapore GP,17/09/2023,2008,62,4.94,306.143,1:35.867,Lewis Hamilton,2023,19,3,146
-17,Japan,Suzuka,Suzuka International Racing Course,Lenovo Japanese GP,24/09/2023,1987,53,5.807,307.471,1:30.983,Lewis Hamilton,2019,18,1,206
-18,Qatar,Lusail,Lusail International Circuit,Qatar Airways Qatar GP,08/10/2023,2021,57,5.419,308.611,1:24.319,Max Verstappen,2023,16,1,144
-19,United States,Austin,Circuit of The Americas,Lenovo United States GP,22/10/2023,2012,56,5.513,308.405,1:36.169,Charles Leclerc,2019,20,2,87
-20,Mexico,Mexico City,Autodromo Hermanos Rodriguez,Gran Premio de la Ciudad de México,29/10/2023,1963,71,4.304,305.354,1:17.774,Valtteri Bottas,2021,17,3,14
-21,Brazil,São Paulo,Autodromo Jose Carlos Pace,Rolex Grande Prêmio de São Paulo,05/11/2023,1973,71,4.309,305.879,1:10.540,Valtteri Bottas,2018,15,2,24
-22,United States,Las Vegas,Las Vegas Strip Circuit,Heineken Silver Las Vegas GP,18/11/2023,2023,50,6.201,309.958,1:35.490,Oscar Piastri,2023,17,2,141
-23,Abu Dhabi,Yas Island,Yas Marina Circuit,Etihad Airways Abu Dhabi GP,26/11/2023,2009,58,5.281,306.183,1:26.103,Max Verstappen,2021,16,2,210
-1,Bahrain,Sakhir,Bahrain International Circuit,Gulf Air Bahrain GP,02/03/2024,2004,57,5.412,308.238,1:31.447,Pedro de la Rosa,2005,15,3,34
-2,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,STC Saudi Arabian GP,09/03/2024,2021,50,6.174,308.45,1:30.734,Lewis Hamilton,2021,27,3,136
-3,Australia,Melbourne,Albert Park Grand Prix Circuit,Rolex Australian GP,24/03/2024,1996,58,5.278,306.124,1:19.813,Charles Leclerc,2024,14,4,8
-4,Japan,Suzuka,Suzuka Circuit,MSC Cruises Japanese GP,07/04/2024,1987,53,5.807,307.471,1:30.983,Lewis Hamilton,2019,18,1,206
-5,China,Shanghai,Shanghai International Circuit,Lenovo Chinese GP,21/04/2024,2004,56,5.451,305.066,1:32.238,Michael Schumacher,2004,16,2,185
-6,United States,Miami,Miami International Autodrome,Crypto.com Miami GP,05/05/2024,2022,57,5.412,308.326,1:29.708,Max Verstappen,2023,19,3,147
-7,Italy,Imola,Autodromo Internazionale Enzo e Dino Ferrari,MSC Cruises Gran Premio Del Made in Italy e Dell'Emilia-Romagna,19/05/2024,1980,63,4.909,309.049,1:15.484,Lewis Hamilton,2020,19,1,20
-8,Monaco,Monaco,Circuit de Monaco,Grand Prix de Monaco,26/05/2024,1950,78,3.337,260.286,1:12.909,Lewis Hamilton,2021,19,1,57
-9,Canada,Montréal,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada,09/06/2024,1978,70,4.361,305.27,1:13.078,Valtteri Bottas,2019,14,3,83
-10,Spain,Barcelona,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España,23/06/2024,1991,66,4.657,307.236,1:16.330,Max Verstappen,2023,14,2,54
-11,Austria,Spielberg,Red Bull Ring,Qatar Airways Austrian GP,30/06/2024,1970,71,4.318,306.452,1:05.619,Carlos Sainz,2020,10,3,174
-12,Great Britain,Silverstone,Silverstone Circuit,Qatar Airways British GP,07/07/2024,1950,52,5.891,306.198,1:27.097,Max Verstappen,2020,18,2,202
-13,Hungary,Budapest,Hungaroring,Hungarian GP,21/07/2024,1986,70,4.381,306.63,1:16.627,Lewis Hamilton,2020,14,2,131
-14,Belgium,Spa-Francorchamps,Circuit de Spa-Francorchamps,Rolex Belgian GP,28/07/2024,1950,44,7.004,308.052,1:44.701,Sergio Perez,2024,19,2,74
-15,Netherlands,Zandvoort,Circuit Zandvoort,Heineken Dutch GP,25/08/2024,1952,72,4.259,306.587,1:11.097,Lewis Hamilton,2021,14,2,101
-16,Italy,Monza,Autodromo Nazionale Monza,Pirelli Gran Premio D'Italia,01/09/2024,1950,53,5.793,306.72,1:21.046,Rubens Barrichello,2004,11,2,26
-17,Azerbaijan,Baku,Baku City Circuit,Qatar Airways Azerbaijan GP,15/09/2024,2016,51,6.003,306.049,1:43.009,Charles Leclerc,2019,20,2,36
-18,Singapore,Singapore,Marina Bay Street Circuit,Singapore Airlines Singapore GP,22/09/2024,2008,62,4.94,306.143,1:34.486,Daniel Ricciardo,2024,19,4,146
-19,United States,Austin,Circuit of the Americas,Pirelli United States GP,20/10/2024,2012,56,5.513,308.405,1:36.169,Charles Leclerc,2019,20,2,87
-20,Mexico,Mexico City,Autodromo Hermanos Rodriguez,Gran Premio de la Ciudad de México,27/10/2024,1963,71,4.304,305.354,1:17.774,Valtteri Bottas,2021,17,3,14
-21,Brazil,São Paulo,Autodromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo,03/11/2024,1973,71,4.309,305.879,1:10.540,Valtteri Bottas,2018,15,2,24
-22,United States,Las Vegas,Las Vegas Strip Circuit,Heineken Silver Las Vegas GP,23/11/2024,2023,50,6.201,309.958,1:34.876,Lando Norris,2024,17,2,141
-23,Qatar,Qatar,Lusail International Circuit,Qatar Airways Qatar GP,01/12/2024,2021,57,5.419,308.611,1:22.384,Lando Norris,2024,16,1,144
-24,United Arab Emirates,Yas Island,Yas Marina Circuit,Etihad Airways Abu Dhabi GP,08/12/2024,2009,58,5.281,306.183,1:25.637,Kevin Magnussen,2024,16,2,210
+Race Date,CircuitLocationID_x,Round,Latitude,Longitude,temperature,wind,rain,humidity
+20200705,174,1,47.2197,14.7647,19.6,8.9,0.0,68.6
+20200712,174,2,47.2197,14.7647,14.5,11.5,0.0,67.6
+20200719,131,3,47.5822,19.2511,17.1,15.8,6.6,87.8
+20200802,202,4,52.0711,-1.0161,16.6,18.0,0.1,60.8
+20200809,202,5,52.0711,-1.0161,20.5,22.7,0.0,74.8
+20200816,54,6,41.57,2.2611,24.3,14.7,2.6,77.7
+20200830,74,7,50.4372,5.9714,13.2,23.9,12.6,87.3
+20200906,26,8,45.6206,9.2894,20.9,14.1,13.6,74.6
+20200913,17,9,43.9975,11.3719,23.9,15.5,0.0,55.9
+20200927,203,10,43.4103,39.9683,25.0,11.6,0.0,61.3
+20201011,167,11,50.3356,6.9475,5.8,14.2,0.1,82.9
+20201025,9,12,37.2319,-8.6319,16.4,27.1,3.5,84.8
+20201101,19,13,44.3411,11.7133,14.4,10.7,0.0,82.4
+20201115,135,14,40.9517,29.405,10.2,10.1,0.5,90.8
+20201129,34,15,26.0325,50.5106,24.1,28.0,0.1,67.9
+20201206,34,16,26.0325,50.5106,22.2,30.8,0.0,70.6
+20201213,210,17,24.4672,54.6031,21.6,19.9,0.0,57.7
+20210328,34,1,26.0325,50.5106,21.2,43.3,0.0,52.4
+20210418,19,2,44.3411,11.7133,9.0,15.6,0.7,68.0
+20210502,9,3,37.2319,-8.6319,13.8,24.4,0.0,62.2
+20210509,54,4,41.57,2.2611,17.7,19.8,2.5,71.8
+20210523,57,5,43.7347,7.4206,18.4,20.6,0.0,67.8
+20210606,36,6,40.3725,49.8533,21.0,31.3,0.0,72.3
+20210620,96,7,43.2506,5.7917,23.0,29.7,1.9,68.7
+20210704,174,8,47.2197,14.7647,17.8,9.9,3.6,75.7
+20210718,174,9,47.2197,14.7647,18.7,15.8,2.3,81.1
+20210718,202,10,52.0711,-1.0161,22.4,9.4,0.0,69.5
+20210801,131,11,47.5822,19.2511,24.0,25.2,0.6,64.7
+20210829,74,12,50.4372,5.9714,12.7,26.4,8.2,95.9
+20210905,101,13,52.3889,4.5408,16.1,12.3,0.0,80.1
+20210912,26,14,45.6206,9.2894,23.2,8.0,0.0,54.0
+20210926,203,15,43.4103,39.9683,16.3,17.1,1.6,77.4
+20211010,135,16,40.9517,29.405,16.3,24.7,0.4,87.3
+20211024,87,17,30.1328,-97.6411,24.2,21.1,0.7,82.0
+20211107,14,18,19.4061,-99.0925,14.5,25.4,0.0,62.2
+20211114,24,19,-23.7011,-46.6972,16.4,30.7,0.0,81.5
+20211121,143,20,25.49,51.4542,25.7,23.3,0.0,73.2
+20211205,136,21,21.6319,39.1044,26.8,18.6,0.0,75.4
+20211212,210,22,24.4672,54.6031,23.3,18.6,0.0,63.8
+20220320,34,1,26.0325,50.5106,20.6,26.0,0.0,45.9
+20220327,136,2,21.6319,39.1044,25.4,26.1,0.0,53.7
+20220410,8,3,-37.8497,144.9683,20.7,27.7,1.5,66.0
+20220424,19,4,44.3411,11.7133,12.8,21.8,2.4,75.5
+20220508,147,5,25.9581,-80.2389,25.9,14.3,4.9,74.4
+20220522,54,6,41.57,2.2611,25.7,23.6,0.0,34.6
+20220529,57,7,43.7347,7.4206,21.9,16.9,3.5,70.4
+20220612,36,8,40.3725,49.8533,24.2,21.1,0.0,61.5
+20220619,83,9,45.5006,-73.5225,15.4,26.2,0.0,47.7
+20220703,202,10,52.0711,-1.0161,13.9,16.6,0.9,76.7
+20220710,174,11,47.2197,14.7647,15.5,17.3,2.9,71.5
+20220724,96,12,43.2506,5.7917,27.2,14.7,0.0,50.6
+20220731,131,13,47.5822,19.2511,17.6,29.5,7.9,79.8
+20220828,74,14,50.4372,5.9714,16.3,14.5,0.5,66.9
+20220904,101,15,52.3889,4.5408,19.5,13.0,0.2,78.2
+20220911,26,16,45.6206,9.2894,20.0,10.4,0.0,71.3
+20221002,146,17,1.2915,103.8638,26.4,12.8,6.4,86.0
+20221009,206,18,34.8417,136.5389,17.8,19.9,30.1,89.8
+20221023,87,19,30.1328,-97.6411,24.8,34.4,0.0,61.8
+20221030,14,20,19.4061,-99.0925,16.9,22.4,1.1,67.0
+20221113,24,21,-23.7011,-46.6972,19.8,24.2,0.0,87.8
+20221120,210,22,24.4672,54.6031,27.5,27.3,0.0,62.6
+20230305,34,1,26.0325,50.5106,24.8,11.5,0.0,38.0
+20230319,136,2,21.6319,39.1044,24.9,27.9,0.0,48.3
+20230402,8,3,-37.8497,144.9683,12.7,17.9,0.0,79.6
+20230430,36,4,40.3725,49.8533,20.2,32.4,1.5,68.9
+20230507,147,5,25.9581,-80.2389,24.1,25.6,2.1,75.3
+20230528,57,7,43.7347,7.4206,21.5,11.4,6.9,71.3
+20230604,54,8,41.57,2.2611,19.1,12.0,10.8,81.2
+20230618,83,9,45.5006,-73.5225,15.7,22.1,1.4,78.9
+20230702,174,10,47.2197,14.7647,18.1,11.6,0.3,72.1
+20230709,202,11,52.0711,-1.0161,17.6,22.7,0.3,74.8
+20230723,131,12,47.5822,19.2511,22.8,16.4,0.0,57.0
+20230730,74,13,50.4372,5.9714,15.5,29.2,2.5,77.5
+20230827,101,14,52.3889,4.5408,15.4,24.5,4.4,79.5
+20230903,26,15,45.6206,9.2894,22.6,10.7,0.0,76.5
+20230917,146,16,1.2915,103.8638,28.4,15.4,2.7,75.5
+20230924,206,17,34.8417,136.5389,23.5,22.9,0.0,66.1
+20231008,144,18,25.49,51.4542,32.7,26.0,0.0,60.1
+20231022,87,19,30.1328,-97.6411,26.0,20.8,0.1,60.9
+20231029,14,20,19.4061,-99.0925,17.1,20.5,0.3,70.0
+20231105,24,21,-23.7011,-46.6972,17.8,21.1,0.3,81.1
+20231118,141,22,36.11,-115.1622,14.7,23.0,0.0,61.1
+20231126,210,23,24.4672,54.6031,24.4,21.2,0.0,59.9
+20240302,34,1,26.0325,50.5106,16.8,14.8,0.0,54.7
+20240309,136,2,21.6319,39.1044,23.6,28.6,0.0,60.5
+20240324,8,3,-37.8497,144.9683,16.3,20.4,0.0,66.6
+20240407,206,4,34.8417,136.5389,16.0,12.3,0.3,80.1
+20240421,185,5,31.3389,121.2197,16.2,11.3,1.7,83.0
+20240505,147,6,25.9581,-80.2389,25.3,21.1,0.3,71.7
+20240519,20,7,44.3411,11.7133,18.7,10.4,0.2,78.4
+20240526,57,8,43.7347,7.4206,18.0,8.5,0.0,81.8
+20240609,83,9,45.5006,-73.5225,16.5,25.6,4.4,76.0
+20240623,54,10,41.57,2.2611,20.0,17.5,2.8,79.5
+20240630,174,11,47.2197,14.7647,22.7,13.8,0.0,68.8
+20240707,202,12,52.0711,-1.0161,12.6,20.9,2.0,77.4
+20240721,131,13,47.5822,19.2511,23.8,10.9,0.2,70.0
+20240728,74,14,50.4372,5.9714,15.9,12.1,0.0,78.6
+20240825,101,15,52.3889,4.5408,16.8,26.9,3.1,65.8
+20240901,26,16,45.6206,9.2894,24.9,21.4,19.1,68.7
+20240915,36,17,40.3725,49.8533,23.1,25.9,0.0,47.4
+20240922,146,18,1.2915,103.8638,29.6,16.3,0.0,74.3
+20241020,87,19,30.1328,-97.6411,23.2,15.5,0.0,55.5
+20241027,14,20,19.4061,-99.0925,15.0,21.8,1.8,71.5
+20241103,24,21,-23.7011,-46.6972,20.4,15.2,16.6,93.0
+20241123,141,22,36.11,-115.1622,13.0,23.1,0.0,22.0
+20241201,144,23,25.49,51.4542,19.7,28.6,0.0,60.0
+20241208,210,24,24.4672,54.6031,23.6,16.3,0.0,51.5
