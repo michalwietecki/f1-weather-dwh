@@ -1,0 +1,2140 @@
+Position,Team,Starting Grid,Total Time/Gap/Retirement,Points,Fastest Lap,DateID,DriverID,CircuitLocationID_x
+1,Mercedes,1.0,1:30:55.739,25.0,No,20200705,2,174
+2,Ferrari,7.0,+2.700,18.0,No,20200705,8,174
+3,McLaren Renault,3.0,+5.491,16.0,Yes,20200705,9,174
+4,Mercedes,5.0,+5.689,12.0,No,20200705,1,174
+5,McLaren Renault,8.0,+8.903,10.0,No,20200705,6,174
+6,Racing Point BWT Mercedes,6.0,+15.092,8.0,No,20200705,4,174
+7,AlphaTauri Honda,12.0,+16.682,6.0,No,20200705,10,174
+8,Renault,14.0,+17.456,4.0,No,20200705,12,174
+9,Alfa Romeo Racing Ferrari,18.0,+21.146,2.0,No,20200705,17,174
+10,Ferrari,11.0,+24.545,1.0,No,20200705,13,174
+11,Williams Mercedes,20.0,+31.650,0.0,No,20200705,21,174
+NC,AlphaTauri Honda,13.0,DNF,0.0,No,20200705,14,174
+NC,Red Bull Racing Honda,4.0,DNF,0.0,No,20200705,7,174
+NC,Alfa Romeo Racing Ferrari,19.0,DNF,0.0,No,20200705,16,174
+NC,Williams Mercedes,17.0,DNF,0.0,No,20200705,18,174
+NC,Haas Ferrari,15.0,DNF,0.0,No,20200705,19,174
+NC,Haas Ferrari,16.0,DNF,0.0,No,20200705,20,174
+NC,Racing Point BWT Mercedes,9.0,DNF,0.0,No,20200705,11,174
+NC,Renault,10.0,DNF,0.0,No,20200705,5,174
+NC,Red Bull Racing Honda,2.0,DNF,0.0,No,20200705,3,174
+1,Mercedes,1.0,1:22:50.683,25.0,No,20200712,1,174
+2,Mercedes,4.0,+13.719,18.0,No,20200712,2,174
+3,Red Bull Racing Honda,2.0,+33.698,15.0,No,20200712,3,174
+4,Red Bull Racing Honda,6.0,+44.400,12.0,No,20200712,7,174
+5,McLaren Renault,9.0,+61.470,10.0,No,20200712,9,174
+6,Racing Point BWT Mercedes,17.0,+62.387,8.0,No,20200712,4,174
+7,Racing Point BWT Mercedes,12.0,+62.453,6.0,No,20200712,11,174
+8,Renault,8.0,+62.591,4.0,No,20200712,5,174
+9,McLaren Renault,3.0,+1 lap,3.0,Yes,20200712,6,174
+10,AlphaTauri Honda,13.0,+1 lap,1.0,No,20200712,14,174
+11,Alfa Romeo Racing Ferrari,16.0,+1 lap,0.0,No,20200712,16,174
+12,Haas Ferrari,15.0,+1 lap,0.0,No,20200712,20,174
+13,Haas Ferrari,20.0,+1 lap,0.0,No,20200712,19,174
+14,Alfa Romeo Racing Ferrari,19.0,+1 lap,0.0,No,20200712,17,174
+15,AlphaTauri Honda,7.0,+1 lap,0.0,No,20200712,10,174
+16,Williams Mercedes,11.0,+2 laps,0.0,No,20200712,18,174
+17,Williams Mercedes,18.0,+2 laps,0.0,No,20200712,21,174
+NC,Renault,5.0,DNF,0.0,No,20200712,12,174
+NC,Ferrari,14.0,DNF,0.0,No,20200712,8,174
+NC,Ferrari,10.0,DNF,0.0,No,20200712,13,174
+1,Mercedes,1.0,1:36:12.473,26.0,Yes,20200719,1,131
+2,Red Bull Racing Honda,7.0,+8.702,18.0,No,20200719,3,131
+3,Mercedes,2.0,+9.452,15.0,No,20200719,2,131
+4,Racing Point BWT Mercedes,3.0,+57.579,12.0,No,20200719,11,131
+5,Red Bull Racing Honda,13.0,+78.316,10.0,No,20200719,7,131
+6,Ferrari,5.0,+1 lap,8.0,No,20200719,13,131
+7,Racing Point BWT Mercedes,4.0,+1 lap,6.0,No,20200719,4,131
+8,Renault,11.0,+1 lap,4.0,No,20200719,5,131
+9,McLaren Renault,9.0,+1 lap,2.0,No,20200719,6,131
+10,Haas Ferrari,16.0,+1 lap,1.0,No,20200719,20,131
+11,Ferrari,6.0,+1 lap,0.0,No,20200719,8,131
+12,AlphaTauri Honda,17.0,+1 lap,0.0,No,20200719,14,131
+13,McLaren Renault,8.0,+1 lap,0.0,No,20200719,9,131
+14,Renault,14.0,+1 lap,0.0,No,20200719,12,131
+15,Alfa Romeo Racing Ferrari,20.0,+1 lap,0.0,No,20200719,16,131
+16,Haas Ferrari,18.0,+1 lap,0.0,No,20200719,19,131
+17,Alfa Romeo Racing Ferrari,19.0,+1 lap,0.0,No,20200719,17,131
+18,Williams Mercedes,12.0,+1 lap,0.0,No,20200719,18,131
+19,Williams Mercedes,15.0,+5 laps,0.0,No,20200719,21,131
+NC,AlphaTauri Honda,10.0,DNF,0.0,No,20200719,10,131
+1,Mercedes,1.0,1:28:01.283,25.0,No,20200802,1,202
+2,Red Bull Racing Honda,3.0,+5.856,19.0,Yes,20200802,3,202
+3,Ferrari,4.0,+18.474,15.0,No,20200802,8,202
+4,Renault,8.0,+19.650,12.0,No,20200802,5,202
+5,McLaren Renault,5.0,+22.277,10.0,No,20200802,9,202
+6,Renault,9.0,+26.937,8.0,No,20200802,12,202
+7,AlphaTauri Honda,11.0,+31.188,6.0,No,20200802,10,202
+8,Red Bull Racing Honda,12.0,+32.670,4.0,No,20200802,7,202
+9,Racing Point BWT Mercedes,6.0,+37.311,2.0,No,20200802,11,202
+10,Ferrari,10.0,+41.857,1.0,No,20200802,13,202
+11,Mercedes,2.0,+42.167,0.0,No,20200802,2,202
+12,Williams Mercedes,20.0,+52.004,0.0,No,20200802,18,202
+13,McLaren Renault,7.0,+53.370,0.0,No,20200802,6,202
+14,Alfa Romeo Racing Ferrari,15.0,+54.205,0.0,No,20200802,17,202
+15,Williams Mercedes,18.0,+54.549,0.0,No,20200802,21,202
+16,Haas Ferrari,17.0,+55.050,0.0,No,20200802,19,202
+17,Alfa Romeo Racing Ferrari,16.0,+1 lap,0.0,No,20200802,16,202
+NC,AlphaTauri Honda,19.0,DNF,0.0,No,20200802,14,202
+NC,Haas Ferrari,14.0,DNF,0.0,No,20200802,20,202
+NC,Racing Point BWT Mercedes,13.0,DNF,0.0,No,20200802,15,202
+1,Red Bull Racing Honda,4.0,1:19:41.993,25.0,No,20200809,3,202
+2,Mercedes,2.0,+11.326,19.0,Yes,20200809,1,202
+3,Mercedes,1.0,+19.231,15.0,No,20200809,2,202
+4,Ferrari,8.0,+29.289,12.0,No,20200809,8,202
+5,Red Bull Racing Honda,9.0,+39.146,10.0,No,20200809,7,202
+6,Racing Point BWT Mercedes,6.0,+42.538,8.0,No,20200809,11,202
+7,Racing Point BWT Mercedes,3.0,+55.951,6.0,No,20200809,15,202
+8,Renault,14.0,+64.773,4.0,No,20200809,12,202
+9,McLaren Renault,10.0,+65.544,2.0,No,20200809,9,202
+10,AlphaTauri Honda,16.0,+69.669,1.0,No,20200809,14,202
+11,AlphaTauri Honda,7.0,+70.642,0.0,No,20200809,10,202
+12,Ferrari,11.0,+73.370,0.0,No,20200809,13,202
+13,McLaren Renault,12.0,+74.070,0.0,No,20200809,6,202
+14,Renault,5.0,+1 lap,0.0,No,20200809,5,202
+15,Alfa Romeo Racing Ferrari,20.0,+1 lap,0.0,No,20200809,16,202
+16,Haas Ferrari,13.0,+1 lap,0.0,No,20200809,19,202
+17,Alfa Romeo Racing Ferrari,19.0,+1 lap,0.0,No,20200809,17,202
+18,Williams Mercedes,15.0,+1 lap,0.0,No,20200809,18,202
+19,Williams Mercedes,18.0,+1 lap,0.0,No,20200809,21,202
+NC,Haas Ferrari,17.0,DNF,0.0,No,20200809,20,202
+1,Mercedes,1.0,1:31:45.279,25.0,No,20200816,1,54
+2,Red Bull Racing Honda,3.0,+24.177,18.0,No,20200816,3,54
+3,Mercedes,2.0,+44.752,16.0,Yes,20200816,2,54
+4,Racing Point BWT Mercedes,5.0,+1 lap,12.0,No,20200816,11,54
+5,Racing Point BWT Mercedes,4.0,+1 lap,10.0,No,20200816,4,54
+6,McLaren Renault,7.0,+1 lap,8.0,No,20200816,6,54
+7,Ferrari,11.0,+1 lap,6.0,No,20200816,13,54
+8,Red Bull Racing Honda,6.0,+1 lap,4.0,No,20200816,7,54
+9,AlphaTauri Honda,10.0,+1 lap,2.0,No,20200816,10,54
+10,McLaren Renault,8.0,+1 lap,1.0,No,20200816,9,54
+11,Renault,13.0,+1 lap,0.0,No,20200816,5,54
+12,AlphaTauri Honda,12.0,+1 lap,0.0,No,20200816,14,54
+13,Renault,15.0,+1 lap,0.0,No,20200816,12,54
+14,Alfa Romeo Racing Ferrari,14.0,+1 lap,0.0,No,20200816,16,54
+15,Haas Ferrari,16.0,+1 lap,0.0,No,20200816,20,54
+16,Alfa Romeo Racing Ferrari,20.0,+1 lap,0.0,No,20200816,17,54
+17,Williams Mercedes,18.0,+1 lap,0.0,No,20200816,18,54
+18,Williams Mercedes,19.0,+2 laps,0.0,No,20200816,21,54
+19,Haas Ferrari,17.0,+2 laps,0.0,No,20200816,19,54
+NC,Ferrari,9.0,DNF,0.0,No,20200816,8,54
+1,Mercedes,1.0,1:24:08.761,25.0,No,20200830,1,74
+2,Mercedes,2.0,+8.448,18.0,No,20200830,2,74
+3,Red Bull Racing Honda,3.0,+15.455,15.0,No,20200830,3,74
+4,Renault,4.0,+18.877,13.0,Yes,20200830,5,74
+5,Renault,6.0,+40.650,10.0,No,20200830,12,74
+6,Red Bull Racing Honda,5.0,+42.712,8.0,No,20200830,7,74
+7,McLaren Renault,10.0,+43.774,6.0,No,20200830,9,74
+8,AlphaTauri Honda,12.0,+47.371,4.0,No,20200830,10,74
+9,Racing Point BWT Mercedes,9.0,+52.603,2.0,No,20200830,11,74
+10,Racing Point BWT Mercedes,8.0,+53.179,1.0,No,20200830,4,74
+11,AlphaTauri Honda,11.0,+70.200,0.0,No,20200830,14,74
+12,Alfa Romeo Racing Ferrari,16.0,+71.504,0.0,No,20200830,16,74
+13,Ferrari,14.0,+72.894,0.0,No,20200830,13,74
+14,Ferrari,13.0,+74.920,0.0,No,20200830,8,74
+15,Haas Ferrari,17.0,+76.793,0.0,No,20200830,19,74
+16,Williams Mercedes,19.0,+77.795,0.0,No,20200830,21,74
+17,Haas Ferrari,20.0,+85.540,0.0,No,20200830,20,74
+NC,Alfa Romeo Racing Ferrari,18.0,DNF,0.0,No,20200830,17,74
+NC,Williams Mercedes,15.0,DNF,0.0,No,20200830,18,74
+NC,McLaren Renault,7.0,DNF,0.0,No,20200830,6,74
+1,AlphaTauri Honda,1.0,1:47:06.056,25.0,No,20200906,10,26
+2,McLaren Renault,3.0,+0.415,18.0,No,20200906,6,26
+3,Racing Point BWT Mercedes,8.0,+3.358,15.0,No,20200906,11,26
+4,McLaren Renault,6.0,+6.000,12.0,No,20200906,9,26
+5,Mercedes,2.0,+7.108,10.0,No,20200906,2,26
+6,Renault,7.0,+8.391,8.0,No,20200906,5,26
+7,Mercedes,1.0,+17.245,7.0,Yes,20200906,1,26
+8,Renault,12.0,+18.691,4.0,No,20200906,12,26
+9,AlphaTauri Honda,11.0,+22.208,2.0,No,20200906,14,26
+10,Racing Point BWT Mercedes,4.0,+23.224,1.0,No,20200906,4,26
+11,Williams Mercedes,20.0,+32.876,0.0,No,20200906,21,26
+12,Haas Ferrari,16.0,+35.164,0.0,No,20200906,19,26
+13,Alfa Romeo Racing Ferrari,14.0,+36.312,0.0,No,20200906,16,26
+14,Williams Mercedes,19.0,+36.593,0.0,No,20200906,18,26
+15,Red Bull Racing Honda,9.0,+37.533,0.0,No,20200906,7,26
+16,Alfa Romeo Racing Ferrari,18.0,+55.199,0.0,No,20200906,17,26
+NC,Red Bull Racing Honda,5.0,DNF,0.0,No,20200906,3,26
+NC,Ferrari,13.0,DNF,0.0,No,20200906,8,26
+NC,Haas Ferrari,15.0,DNF,0.0,No,20200906,20,26
+NC,Ferrari,17.0,DNF,0.0,No,20200906,13,26
+1,Mercedes,1.0,2:19:35.060,26.0,Yes,20200913,1,17
+2,Mercedes,2.0,+4.880,18.0,No,20200913,2,17
+3,Red Bull Racing Honda,4.0,+8.064,15.0,No,20200913,7,17
+4,Renault,8.0,+10.417,12.0,No,20200913,5,17
+5,Racing Point BWT Mercedes,7.0,+15.650,10.0,No,20200913,4,17
+6,McLaren Renault,11.0,+18.883,8.0,No,20200913,9,17
+7,AlphaTauri Honda,12.0,+21.756,6.0,No,20200913,14,17
+8,Ferrari,5.0,+28.345,4.0,No,20200913,8,17
+9,Alfa Romeo Racing Ferrari,13.0,+29.770,2.0,No,20200913,16,17
+10,Ferrari,14.0,+29.983,1.0,No,20200913,13,17
+11,Williams Mercedes,18.0,+32.404,0.0,No,20200913,18,17
+12,Haas Ferrari,15.0,+42.036,0.0,No,20200913,19,17
+NC,Racing Point BWT Mercedes,6.0,DNF,0.0,No,20200913,11,17
+NC,Renault,10.0,DNF,0.0,No,20200913,12,17
+NC,Williams Mercedes,19.0,DNF,0.0,No,20200913,21,17
+NC,Haas Ferrari,20.0,DNF,0.0,No,20200913,20,17
+NC,Alfa Romeo Racing Ferrari,17.0,DNF,0.0,No,20200913,17,17
+NC,McLaren Renault,9.0,DNF,0.0,No,20200913,6,17
+NC,Red Bull Racing Honda,3.0,DNF,0.0,No,20200913,3,17
+NC,AlphaTauri Honda,16.0,DNF,0.0,No,20200913,10,17
+1,Mercedes,3.0,1:34:00.364,26.0,Yes,20200927,2,203
+2,Red Bull Racing Honda,2.0,+7.729,18.0,No,20200927,3,203
+3,Mercedes,1.0,+22.729,15.0,No,20200927,1,203
+4,Racing Point BWT Mercedes,4.0,+30.558,12.0,No,20200927,4,203
+5,Renault,5.0,+52.065,10.0,No,20200927,5,203
+6,Ferrari,10.0,+62.186,8.0,No,20200927,8,203
+7,Renault,7.0,+68.006,6.0,No,20200927,12,203
+8,AlphaTauri Honda,11.0,+68.740,4.0,No,20200927,14,203
+9,AlphaTauri Honda,9.0,+89.766,2.0,No,20200927,10,203
+10,Red Bull Racing Honda,15.0,+97.860,1.0,No,20200927,7,203
+11,Alfa Romeo Racing Ferrari,17.0,+1 lap,0.0,No,20200927,17,203
+12,Haas Ferrari,18.0,+1 lap,0.0,No,20200927,20,203
+13,Ferrari,14.0,+1 lap,0.0,No,20200927,13,203
+14,Alfa Romeo Racing Ferrari,19.0,+1 lap,0.0,No,20200927,16,203
+15,McLaren Renault,8.0,+1 lap,0.0,No,20200927,9,203
+16,Williams Mercedes,20.0,+1 lap,0.0,No,20200927,21,203
+17,Haas Ferrari,16.0,+1 lap,0.0,No,20200927,19,203
+18,Williams Mercedes,13.0,+1 lap,0.0,No,20200927,18,203
+NC,McLaren Renault,6.0,DNF,0.0,No,20200927,6,203
+NC,Racing Point BWT Mercedes,12.0,DNF,0.0,No,20200927,11,203
+1,Mercedes,2.0,1:35:49.641,25.0,No,20201011,1,167
+2,Red Bull Racing Honda,3.0,+4.470,19.0,Yes,20201011,3,167
+3,Renault,6.0,+14.631,15.0,No,20201011,5,167
+4,Racing Point BWT Mercedes,9.0,+16.070,12.0,No,20201011,4,167
+5,McLaren Renault,10.0,+21.905,10.0,No,20201011,6,167
+6,AlphaTauri Honda,12.0,+22.766,8.0,No,20201011,10,167
+7,Ferrari,4.0,+30.841,6.0,No,20201011,8,167
+8,Racing Point BWT Mercedes,20.0,+32.596,4.0,No,20201011,15,167
+9,Haas Ferrari,16.0,+39.081,2.0,No,20201011,19,167
+10,Alfa Romeo Racing Ferrari,14.0,+40.035,1.0,No,20201011,17,167
+11,Ferrari,11.0,+40.810,0.0,No,20201011,13,167
+12,Alfa Romeo Racing Ferrari,19.0,+41.476,0.0,No,20201011,16,167
+13,Haas Ferrari,15.0,+49.585,0.0,No,20201011,20,167
+14,Williams Mercedes,18.0,+54.449,0.0,No,20201011,21,167
+15,AlphaTauri Honda,13.0,+55.588,0.0,No,20201011,14,167
+NC,McLaren Renault,8.0,DNF,0.0,No,20201011,9,167
+NC,Red Bull Racing Honda,5.0,DNF,0.0,No,20201011,7,167
+NC,Renault,7.0,DNF,0.0,No,20201011,12,167
+NC,Mercedes,1.0,DNF,0.0,No,20201011,2,167
+NC,Williams Mercedes,17.0,DNF,0.0,No,20201011,18,167
+1,Mercedes,1.0,1:29:56.828,26.0,Yes,20201025,1,9
+2,Mercedes,2.0,+25.592,18.0,No,20201025,2,9
+3,Red Bull Racing Honda,3.0,+34.508,15.0,No,20201025,3,9
+4,Ferrari,4.0,+65.312,12.0,No,20201025,8,9
+5,AlphaTauri Honda,9.0,+1 lap,10.0,No,20201025,10,9
+6,McLaren Renault,7.0,+1 lap,8.0,No,20201025,6,9
+7,Racing Point BWT Mercedes,5.0,+1 lap,6.0,No,20201025,4,9
+8,Renault,11.0,+1 lap,4.0,No,20201025,12,9
+9,Renault,10.0,+1 lap,2.0,No,20201025,5,9
+10,Ferrari,15.0,+1 lap,1.0,No,20201025,13,9
+11,Alfa Romeo Racing Ferrari,16.0,+1 lap,0.0,No,20201025,16,9
+12,Red Bull Racing Honda,6.0,+1 lap,0.0,No,20201025,7,9
+13,McLaren Renault,8.0,+1 lap,0.0,No,20201025,9,9
+14,Williams Mercedes,14.0,+1 lap,0.0,No,20201025,18,9
+15,Alfa Romeo Racing Ferrari,17.0,+1 lap,0.0,No,20201025,17,9
+16,Haas Ferrari,19.0,+1 lap,0.0,No,20201025,20,9
+17,Haas Ferrari,18.0,+1 lap,0.0,No,20201025,19,9
+18,Williams Mercedes,20.0,+2 laps,0.0,No,20201025,21,9
+19,AlphaTauri Honda,13.0,+2 laps,0.0,No,20201025,14,9
+NC,Racing Point BWT Mercedes,12.0,DNF,0.0,No,20201025,11,9
+1,Mercedes,2.0,1:28:32.430,26.0,Yes,20201101,1,19
+2,Mercedes,1.0,+5.783,18.0,No,20201101,2,19
+3,Renault,5.0,+14.320,15.0,No,20201101,5,19
+4,AlphaTauri Honda,8.0,+15.141,12.0,No,20201101,14,19
+5,Ferrari,7.0,+19.111,10.0,No,20201101,8,19
+6,Racing Point BWT Mercedes,11.0,+19.652,8.0,No,20201101,4,19
+7,McLaren Renault,10.0,+20.230,6.0,No,20201101,6,19
+8,McLaren Renault,9.0,+21.131,4.0,No,20201101,9,19
+9,Alfa Romeo Racing Ferrari,18.0,+22.224,2.0,No,20201101,16,19
+10,Alfa Romeo Racing Ferrari,20.0,+26.398,1.0,No,20201101,17,19
+11,Williams Mercedes,19.0,+27.135,0.0,No,20201101,21,19
+12,Ferrari,14.0,+28.453,0.0,No,20201101,13,19
+13,Racing Point BWT Mercedes,15.0,+29.163,0.0,No,20201101,11,19
+14,Haas Ferrari,16.0,+32.935,0.0,No,20201101,19,19
+15,Red Bull Racing Honda,6.0,+57.284,0.0,No,20201101,7,19
+NC,Williams Mercedes,13.0,DNF,0.0,No,20201101,18,19
+NC,Red Bull Racing Honda,3.0,DNF,0.0,No,20201101,3,19
+NC,Haas Ferrari,17.0,DNF,0.0,No,20201101,20,19
+NC,Renault,12.0,DNF,0.0,No,20201101,12,19
+NC,AlphaTauri Honda,4.0,DNF,0.0,No,20201101,10,19
+1,Mercedes,6.0,1:42:19.313,25.0,No,20201115,1,135
+2,Racing Point BWT Mercedes,3.0,+31.633,18.0,No,20201115,4,135
+3,Ferrari,11.0,+31.960,15.0,No,20201115,13,135
+4,Ferrari,12.0,+33.858,12.0,No,20201115,8,135
+5,McLaren Renault,15.0,+34.363,10.0,No,20201115,6,135
+6,Red Bull Racing Honda,2.0,+44.873,8.0,No,20201115,3,135
+7,Red Bull Racing Honda,4.0,+46.484,6.0,No,20201115,7,135
+8,McLaren Renault,14.0,+61.259,5.0,Yes,20201115,9,135
+9,Racing Point BWT Mercedes,1.0,+72.353,2.0,No,20201115,11,135
+10,Renault,5.0,+95.460,1.0,No,20201115,5,135
+11,Renault,7.0,+1 lap,0.0,No,20201115,12,135
+12,AlphaTauri Honda,16.0,+1 lap,0.0,No,20201115,14,135
+13,AlphaTauri Honda,19.0,+1 lap,0.0,No,20201115,10,135
+14,Mercedes,9.0,+1 lap,0.0,No,20201115,2,135
+15,Alfa Romeo Racing Ferrari,8.0,+1 lap,0.0,No,20201115,16,135
+16,Williams Mercedes,20.0,+1 lap,0.0,No,20201115,18,135
+NC,Haas Ferrari,13.0,DNF,0.0,No,20201115,20,135
+NC,Haas Ferrari,17.0,DNF,0.0,No,20201115,19,135
+NC,Williams Mercedes,18.0,DNF,0.0,No,20201115,21,135
+NC,Alfa Romeo Racing Ferrari,10.0,DNF,0.0,No,20201115,17,135
+1,Mercedes,1.0,2:59:47.515,25.0,No,20201129,1,34
+2,Red Bull Racing Honda,3.0,+1.254,19.0,Yes,20201129,3,34
+3,Red Bull Racing Honda,4.0,+8.005,15.0,No,20201129,7,34
+4,McLaren Renault,9.0,+11.337,12.0,No,20201129,9,34
+5,McLaren Renault,15.0,+11.787,10.0,No,20201129,6,34
+6,AlphaTauri Honda,8.0,+11.942,8.0,No,20201129,10,34
+7,Renault,6.0,+19.368,6.0,No,20201129,5,34
+8,Mercedes,2.0,+19.680,4.0,No,20201129,2,34
+9,Renault,7.0,+22.803,2.0,No,20201129,12,34
+10,Ferrari,12.0,+1 lap,1.0,No,20201129,8,34
+11,AlphaTauri Honda,10.0,+1 lap,0.0,No,20201129,14,34
+12,Williams Mercedes,14.0,+1 lap,0.0,No,20201129,18,34
+13,Ferrari,11.0,+1 lap,0.0,No,20201129,13,34
+14,Williams Mercedes,20.0,+1 lap,0.0,No,20201129,21,34
+15,Alfa Romeo Racing Ferrari,17.0,+1 lap,0.0,No,20201129,16,34
+16,Alfa Romeo Racing Ferrari,16.0,+1 lap,0.0,No,20201129,17,34
+17,Haas Ferrari,18.0,+1 lap,0.0,No,20201129,20,34
+NC,Racing Point BWT Mercedes,5.0,DNF,0.0,No,20201129,4,34
+NC,Racing Point BWT Mercedes,13.0,DNF,0.0,No,20201129,11,34
+NC,Haas Ferrari,19.0,DNF,0.0,No,20201129,19,34
+1,Racing Point BWT Mercedes,5.0,1:31:15.114,25.0,No,20201206,4,34
+2,Renault,11.0,+10.518,18.0,No,20201206,12,34
+3,Racing Point BWT Mercedes,10.0,+11.869,15.0,No,20201206,11,34
+4,McLaren Renault,8.0,+12.580,12.0,No,20201206,6,34
+5,Renault,7.0,+13.330,10.0,No,20201206,5,34
+6,Red Bull Racing Honda,12.0,+13.842,8.0,No,20201206,7,34
+7,AlphaTauri Honda,6.0,+14.534,6.0,No,20201206,14,34
+8,Mercedes,1.0,+15.389,4.0,No,20201206,2,34
+9,Mercedes,2.0,+18.556,3.0,Yes,20201206,18,34
+10,McLaren Renault,15.0,+19.541,1.0,No,20201206,9,34
+11,AlphaTauri Honda,9.0,+20.527,0.0,No,20201206,10,34
+12,Ferrari,13.0,+22.611,0.0,No,20201206,13,34
+13,Alfa Romeo Racing Ferrari,14.0,+24.111,0.0,No,20201206,17,34
+14,Alfa Romeo Racing Ferrari,19.0,+26.153,0.0,No,20201206,16,34
+15,Haas Ferrari,16.0,+32.370,0.0,No,20201206,20,34
+16,Williams Mercedes,18.0,+33.674,0.0,No,20201206,22,34
+17,Haas Ferrari,20.0,+36.858,0.0,No,20201206,23,34
+NC,Williams Mercedes,17.0,DNF,0.0,No,20201206,21,34
+NC,Red Bull Racing Honda,3.0,DNF,0.0,No,20201206,3,34
+NC,Ferrari,4.0,DNF,0.0,No,20201206,8,34
+1,Red Bull Racing Honda,1.0,1:36:28.645,25.0,No,20201213,3,210
+2,Mercedes,2.0,+15.976,18.0,No,20201213,2,210
+3,Mercedes,3.0,+18.415,15.0,No,20201213,1,210
+4,Red Bull Racing Honda,5.0,+19.987,12.0,No,20201213,7,210
+5,McLaren Renault,4.0,+60.729,10.0,No,20201213,9,210
+6,McLaren Renault,6.0,+65.662,8.0,No,20201213,6,210
+7,Renault,11.0,+73.748,7.0,Yes,20201213,5,210
+8,AlphaTauri Honda,9.0,+89.718,4.0,No,20201213,10,210
+9,Renault,10.0,+101.069,2.0,No,20201213,12,210
+10,Racing Point BWT Mercedes,8.0,+102.738,1.0,No,20201213,11,210
+11,AlphaTauri Honda,7.0,+1 lap,0.0,No,20201213,14,210
+12,Alfa Romeo Racing Ferrari,15.0,+1 lap,0.0,No,20201213,16,210
+13,Ferrari,12.0,+1 lap,0.0,No,20201213,8,210
+14,Ferrari,13.0,+1 lap,0.0,No,20201213,13,210
+15,Williams Mercedes,16.0,+1 lap,0.0,No,20201213,18,210
+16,Alfa Romeo Racing Ferrari,14.0,+1 lap,0.0,No,20201213,17,210
+17,Williams Mercedes,18.0,+1 lap,0.0,No,20201213,21,210
+18,Haas Ferrari,20.0,+1 lap,0.0,No,20201213,20,210
+19,Haas Ferrari,17.0,+2 laps,0.0,No,20201213,23,210
+NC,Racing Point BWT Mercedes,19.0,DNF,0.0,No,20201213,4,210
+1,Mercedes,2.0,1:32:03.897,25.0,No,20210328,1,34
+2,Red Bull Racing Honda,1.0,+0.745,18.0,No,20210328,3,34
+3,Mercedes,3.0,+37.383,16.0,Yes,20210328,2,34
+4,McLaren Mercedes,7.0,+46.466,12.0,No,20210328,9,34
+5,Red Bull Racing Honda,11.0,+52.047,10.0,No,20210328,4,34
+6,Ferrari,4.0,+59.090,8.0,No,20210328,8,34
+7,McLaren Mercedes,6.0,+66.004,6.0,No,20210328,5,34
+8,Ferrari,8.0,+67.100,4.0,No,20210328,6,34
+9,AlphaTauri Honda,13.0,+85.692,2.0,No,20210328,25,34
+10,Aston Martin Mercedes,10.0,+86.713,1.0,No,20210328,11,34
+11,Alfa Romeo Racing Ferrari,14.0,+88.864,0.0,No,20210328,16,34
+12,Alfa Romeo Racing Ferrari,12.0,+1 lap,0.0,No,20210328,17,34
+13,Alpine Renault,16.0,+1 lap,0.0,No,20210328,12,34
+14,Williams Mercedes,15.0,+1 lap,0.0,No,20210328,18,34
+15,Aston Martin Mercedes,20.0,+1 lap,0.0,No,20210328,13,34
+16,Haas Ferrari,18.0,+1 lap,0.0,No,20210328,26,34
+NC,AlphaTauri Honda,5.0,DNF,0.0,No,20210328,10,34
+NC,Williams Mercedes,17.0,DNF,0.0,No,20210328,21,34
+NC,Alpine Renault,9.0,DNF,0.0,No,20210328,24,34
+NC,Haas Ferrari,19.0,DNF,0.0,No,20210328,27,34
+1,Red Bull Racing Honda,2.0,2:02:34.598,25.0,No,20210418,3,19
+2,Mercedes,1.0,+22.000,19.0,Yes,20210418,1,19
+3,McLaren Mercedes,7.0,+23.702,15.0,No,20210418,9,19
+4,Ferrari,4.0,+25.579,12.0,No,20210418,8,19
+5,Ferrari,11.0,+27.036,10.0,No,20210418,6,19
+6,McLaren Mercedes,6.0,+51.220,8.0,No,20210418,5,19
+7,AlphaTauri Honda,5.0,+52.818,6.0,No,20210418,10,19
+8,Aston Martin Mercedes,10.0,+56.909,4.0,No,20210418,11,19
+9,Alpine Renault,9.0,+65.704,2.0,No,20210418,12,19
+10,Alpine Renault,15.0,+66.561,1.0,No,20210418,24,19
+11,Red Bull Racing Honda,2.0,+67.151,0.0,No,20210418,4,19
+12,AlphaTauri Honda,20.0,+73.184,0.0,No,20210418,25,19
+13,Alfa Romeo Racing Ferrari,16.0,+94.773,0.0,No,20210418,16,19
+14,Alfa Romeo Racing Ferrari,17.0,+1 lap,0.0,No,20210418,17,19
+NC,Aston Martin Mercedes,13.0,DNF,0.0,No,20210418,13,19
+16,Haas Ferrari,18.0,+2 laps,0.0,No,20210418,26,19
+17,Haas Ferrari,19.0,+2 laps,0.0,No,20210418,27,19
+NC,Mercedes,8.0,DNF,0.0,No,20210418,2,19
+NC,Williams Mercedes,12.0,DNF,0.0,No,20210418,18,19
+NC,Williams Mercedes,14.0,DNF,0.0,No,20210418,21,19
+1,Mercedes,2.0,1:34:31.421,25.0,No,20210502,1,9
+2,Red Bull Racing Honda,3.0,+29.148,18.0,No,20210502,3,9
+3,Mercedes,1.0,+33.530,16.0,Yes,20210502,2,9
+4,Red Bull Racing Honda,4.0,+39.735,12.0,No,20210502,4,9
+5,McLaren Mercedes,7.0,+51.369,10.0,No,20210502,9,9
+6,Ferrari,8.0,+55.781,8.0,No,20210502,8,9
+7,Alpine Renault,6.0,+63.749,6.0,No,20210502,12,9
+8,Alpine Renault,13.0,+64.808,4.0,No,20210502,24,9
+9,McLaren Mercedes,16.0,+75.369,2.0,No,20210502,5,9
+10,AlphaTauri Honda,9.0,+76.463,1.0,No,20210502,10,9
+11,Ferrari,5.0,+78.955,0.0,No,20210502,6,9
+12,Alfa Romeo Racing Ferrari,12.0,+1 lap,0.0,No,20210502,17,9
+13,Aston Martin Mercedes,10.0,+1 lap,0.0,No,20210502,13,9
+14,Aston Martin Mercedes,17.0,+1 lap,0.0,No,20210502,11,9
+15,AlphaTauri Honda,14.0,+1 lap,0.0,No,20210502,25,9
+16,Williams Mercedes,11.0,+1 lap,0.0,No,20210502,18,9
+17,Haas Ferrari,19.0,+2 laps,0.0,No,20210502,26,9
+18,Williams Mercedes,18.0,+2 laps,0.0,No,20210502,21,9
+19,Haas Ferrari,20.0,+2 laps,0.0,No,20210502,27,9
+NC,Alfa Romeo Racing Ferrari,15.0,DNF,0.0,No,20210502,16,9
+1,Mercedes,1.0,1:33:07.680,25.0,No,20210509,1,54
+2,Red Bull Racing Honda,2.0,+15.841,19.0,Yes,20210509,3,54
+3,Mercedes,3.0,+26.610,15.0,No,20210509,2,54
+4,Ferrari,4.0,+54.616,12.0,No,20210509,8,54
+5,Red Bull Racing Honda,8.0,+63.671,10.0,No,20210509,4,54
+6,McLaren Mercedes,7.0,+73.768,8.0,No,20210509,5,54
+7,Ferrari,6.0,+74.670,6.0,No,20210509,6,54
+8,McLaren Mercedes,9.0,+1 lap,4.0,No,20210509,9,54
+9,Alpine Renault,5.0,+1 lap,2.0,No,20210509,12,54
+10,AlphaTauri Honda,12.0,+1 lap,1.0,No,20210509,10,54
+11,Aston Martin Mercedes,11.0,+1 lap,0.0,No,20210509,11,54
+12,Alfa Romeo Racing Ferrari,17.0,+1 lap,0.0,No,20210509,16,54
+13,Aston Martin Mercedes,13.0,+1 lap,0.0,No,20210509,13,54
+14,Williams Mercedes,15.0,+1 lap,0.0,No,20210509,18,54
+15,Alfa Romeo Racing Ferrari,14.0,+1 lap,0.0,No,20210509,17,54
+16,Williams Mercedes,19.0,+1 lap,0.0,No,20210509,21,54
+17,Alpine Renault,10.0,+1 lap,0.0,No,20210509,24,54
+18,Haas Ferrari,18.0,+2 laps,0.0,No,20210509,26,54
+19,Haas Ferrari,20.0,+2 laps,0.0,No,20210509,27,54
+NC,AlphaTauri Honda,16.0,DNF,0.0,No,20210509,25,54
+1,Red Bull Racing Honda,2.0,1:38:56.820,25.0,No,20210523,3,57
+2,Ferrari,4.0,+8.968,18.0,No,20210523,6,57
+3,McLaren Mercedes,5.0,+19.427,15.0,No,20210523,9,57
+4,Red Bull Racing Honda,9.0,+20.490,12.0,No,20210523,4,57
+5,Aston Martin Mercedes,8.0,+52.591,10.0,No,20210523,13,57
+6,AlphaTauri Honda,6.0,+53.896,8.0,No,20210523,10,57
+7,Mercedes,7.0,+68.231,7.0,Yes,20210523,1,57
+8,Aston Martin Mercedes,13.0,+1 lap,4.0,No,20210523,11,57
+9,Alpine Renault,11.0,+1 lap,2.0,No,20210523,12,57
+10,Alfa Romeo Racing Ferrari,10.0,+1 lap,1.0,No,20210523,17,57
+11,Alfa Romeo Racing Ferrari,14.0,+1 lap,0.0,No,20210523,16,57
+12,McLaren Mercedes,12.0,+1 lap,0.0,No,20210523,5,57
+13,Alpine Renault,17.0,+1 lap,0.0,No,20210523,24,57
+14,Williams Mercedes,15.0,+1 lap,0.0,No,20210523,18,57
+15,Williams Mercedes,18.0,+1 lap,0.0,No,20210523,21,57
+16,AlphaTauri Honda,16.0,+1 lap,0.0,No,20210523,25,57
+17,Haas Ferrari,19.0,+3 laps,0.0,No,20210523,27,57
+18,Haas Ferrari,20.0,+3 laps,0.0,No,20210523,26,57
+NC,Mercedes,3.0,DNF,0.0,No,20210523,2,57
+NC,Ferrari,1.0,DNF,0.0,No,20210523,8,57
+1,Red Bull Racing Honda,6.0,2:13:36.410,25.0,No,20210606,4,36
+2,Aston Martin Mercedes,11.0,+1.385,18.0,No,20210606,13,36
+3,AlphaTauri Honda,4.0,+2.762,15.0,No,20210606,10,36
+4,Ferrari,1.0,+3.828,12.0,No,20210606,8,36
+5,McLaren Mercedes,9.0,+4.754,10.0,No,20210606,9,36
+6,Alpine Renault,8.0,+6.382,8.0,No,20210606,24,36
+7,AlphaTauri Honda,7.0,+6.624,6.0,No,20210606,25,36
+8,Ferrari,5.0,+7.709,4.0,No,20210606,6,36
+9,McLaren Mercedes,13.0,+8.874,2.0,No,20210606,5,36
+10,Alfa Romeo Racing Ferrari,14.0,+9.576,1.0,No,20210606,16,36
+11,Alfa Romeo Racing Ferrari,20.0,+10.254,0.0,No,20210606,17,36
+12,Mercedes,10.0,+11.264,0.0,No,20210606,2,36
+13,Haas Ferrari,17.0,+14.241,0.0,No,20210606,26,36
+14,Haas Ferrari,18.0,+14.315,0.0,No,20210606,27,36
+15,Mercedes,2.0,+17.668,0.0,No,20210606,1,36
+16,Williams Mercedes,16.0,+42.379,0.0,No,20210606,21,36
+NC,Williams Mercedes,15.0,DNF,0.0,No,20210606,18,36
+NC,Red Bull Racing Honda,3.0,DNF,0.0,No,20210606,3,36
+NC,Aston Martin Mercedes,19.0,DNF,0.0,No,20210606,11,36
+NC,Alpine Renault,12.0,DNF,0.0,No,20210606,12,36
+1,Red Bull Racing Honda,1.0,1:27:25.770,26.0,Yes,20210620,3,96
+2,Mercedes,2.0,+2.904,18.0,No,20210620,1,96
+3,Red Bull Racing Honda,4.0,+8.811,15.0,No,20210620,4,96
+4,Mercedes,3.0,+14.618,12.0,No,20210620,2,96
+5,McLaren Mercedes,8.0,+64.032,10.0,No,20210620,9,96
+6,McLaren Mercedes,10.0,+75.857,8.0,No,20210620,5,96
+7,AlphaTauri Honda,6.0,+76.596,6.0,No,20210620,10,96
+8,Alpine Renault,9.0,+77.695,4.0,No,20210620,24,96
+9,Aston Martin Mercedes,12.0,+79.666,2.0,No,20210620,13,96
+10,Aston Martin Mercedes,19.0,+91.946,1.0,No,20210620,11,96
+11,Ferrari,5.0,+99.337,0.0,No,20210620,6,96
+12,Williams Mercedes,14.0,+1 lap,0.0,No,20210620,18,96
+13,AlphaTauri Honda,20.0,+1 lap,0.0,No,20210620,25,96
+14,Alpine Renault,11.0,+1 lap,0.0,No,20210620,12,96
+15,Alfa Romeo Racing Ferrari,13.0,+1 lap,0.0,No,20210620,17,96
+16,Ferrari,7.0,+1 lap,0.0,No,20210620,8,96
+17,Alfa Romeo Racing Ferrari,17.0,+1 lap,0.0,No,20210620,16,96
+18,Williams Mercedes,16.0,+1 lap,0.0,No,20210620,21,96
+19,Haas Ferrari,15.0,+1 lap,0.0,No,20210620,26,96
+20,Haas Ferrari,18.0,+1 lap,0.0,No,20210620,27,96
+1,Red Bull Racing Honda,1.0,1:22:18.925,25.0,No,20210704,3,174
+2,Mercedes,2.0,+35.743,19.0,Yes,20210704,1,174
+3,Mercedes,5.0,+46.907,15.0,No,20210704,2,174
+4,Red Bull Racing Honda,4.0,+47.434,12.0,No,20210704,4,174
+5,McLaren Mercedes,3.0,+1 lap,10.0,No,20210704,9,174
+6,Ferrari,12.0,+1 lap,8.0,No,20210704,6,174
+7,Ferrari,7.0,+1 lap,6.0,No,20210704,8,174
+8,Aston Martin Mercedes,9.0,+1 lap,4.0,No,20210704,11,174
+9,Alpine Renault,8.0,+1 lap,2.0,No,20210704,24,174
+10,AlphaTauri Honda,11.0,+1 lap,1.0,No,20210704,25,174
+11,Alfa Romeo Racing Ferrari,18.0,+1 lap,0.0,No,20210704,16,174
+12,Aston Martin Mercedes,14.0,+1 lap,0.0,No,20210704,13,174
+13,McLaren Mercedes,13.0,+1 lap,0.0,No,20210704,5,174
+14,Alpine Renault,17.0,+1 lap,0.0,No,20210704,12,174
+15,Alfa Romeo Racing Ferrari,15.0,+1 lap,0.0,No,20210704,17,174
+16,Haas Ferrari,19.0,+2 laps,0.0,No,20210704,26,174
+17,Williams Mercedes,16.0,+3 laps,0.0,No,20210704,21,174
+18,Haas Ferrari,20.0,+3 laps,0.0,No,20210704,27,174
+NC,Williams Mercedes,10.0,DNF,0.0,No,20210704,18,174
+NC,AlphaTauri Honda,6.0,DNF,0.0,No,20210704,10,174
+1,Red Bull Racing Honda,1.0,1:23:54.543,26.0,Yes,20210718,3,202
+2,Mercedes,5.0,+17.973,18.0,No,20210718,2,202
+3,McLaren Mercedes,2.0,+20.019,15.0,No,20210718,9,202
+4,Mercedes,4.0,+46.452,12.0,No,20210718,1,202
+5,Ferrari,10.0,+57.144,10.0,No,20210718,6,202
+6,Red Bull Racing Honda,3.0,+57.915,8.0,No,20210718,4,202
+7,McLaren Mercedes,13.0,+60.395,6.0,No,20210718,5,202
+8,Ferrari,12.0,+61.195,4.0,No,20210718,8,202
+9,AlphaTauri Honda,6.0,+61.844,2.0,No,20210718,10,202
+10,Alpine Renault,14.0,+1 lap,1.0,No,20210718,24,202
+11,Williams Mercedes,8.0,+1 lap,0.0,No,20210718,18,202
+12,AlphaTauri Honda,7.0,+1 lap,0.0,No,20210718,25,202
+13,Aston Martin Mercedes,9.0,+1 lap,0.0,No,20210718,11,202
+14,Alfa Romeo Racing Ferrari,15.0,+1 lap,0.0,No,20210718,17,202
+15,Alfa Romeo Racing Ferrari,16.0,+1 lap,0.0,No,20210718,16,202
+16,Williams Mercedes,18.0,+1 lap,0.0,No,20210718,21,202
+NC,Aston Martin Mercedes,11.0,DNF,0.0,No,20210718,13,202
+18,Haas Ferrari,19.0,+2 laps,0.0,No,20210718,26,202
+19,Haas Ferrari,20.0,+2 laps,0.0,No,20210718,27,202
+NC,Alpine Renault,17.0,DNF,0.0,No,20210718,12,202
+1,Mercedes,2.0,1:58:23.284,25.0,No,20210718,1,202
+2,Ferrari,4.0,+3.871,18.0,No,20210718,8,202
+3,Mercedes,3.0,+11.215,15.0,No,20210718,2,202
+4,McLaren Mercedes,5.0,+28.573,12.0,No,20210718,9,202
+5,McLaren Mercedes,6.0,+42.624,10.0,No,20210718,5,202
+6,Ferrari,10.0,+43.454,8.0,No,20210718,6,202
+7,Alpine Renault,7.0,+72.093,6.0,No,20210718,24,202
+8,Aston Martin Mercedes,14.0,+74.289,4.0,No,20210718,11,202
+9,Alpine Renault,9.0,+76.162,2.0,No,20210718,12,202
+10,AlphaTauri Honda,,+82.065,1.0,No,20210718,25,202
+11,AlphaTauri Honda,11.0,+85.327,0.0,No,20210718,10,202
+12,Williams Mercedes,12.0,+1 lap,0.0,No,20210718,18,202
+13,Alfa Romeo Racing Ferrari,15.0,+1 lap,0.0,No,20210718,17,202
+14,Williams Mercedes,17.0,+1 lap,0.0,No,20210718,21,202
+15,Alfa Romeo Racing Ferrari,13.0,+1 lap,0.0,No,20210718,16,202
+16,Red Bull Racing Honda,20.0,+1 lap,0.0,No,20210718,4,202
+17,Haas Ferrari,19.0,+1 lap,0.0,No,20210718,27,202
+18,Haas Ferrari,18.0,+1 lap,0.0,No,20210718,26,202
+NC,Aston Martin Mercedes,8.0,DNF,0.0,No,20210718,13,202
+NC,Red Bull Racing Honda,1.0,DNF,0.0,No,20210718,3,202
+1,Alpine Renault,8.0,2:04:43.199,25.0,No,20210801,12,131
+DQ,Aston Martin Mercedes,10.0,+1.859,0.0,No,20210801,13,131
+2,Mercedes,1.0,+2.736,18.0,No,20210801,1,131
+3,Ferrari,15.0,+15.018,15.0,No,20210801,6,131
+4,Alpine Renault,9.0,+15.651,12.0,No,20210801,24,131
+5,AlphaTauri Honda,5.0,+63.614,11.0,Yes,20210801,10,131
+6,AlphaTauri Honda,16.0,+75.803,8.0,No,20210801,25,131
+7,Williams Mercedes,18.0,+77.910,6.0,No,20210801,21,131
+8,Williams Mercedes,17.0,+79.094,4.0,No,20210801,18,131
+9,Red Bull Racing Honda,3.0,+80.244,2.0,No,20210801,3,131
+10,Alfa Romeo Racing Ferrari,13.0,+1 lap,1.0,No,20210801,16,131
+11,McLaren Mercedes,11.0,+1 lap,0.0,No,20210801,5,131
+12,Haas Ferrari,20.0,+1 lap,0.0,No,20210801,26,131
+13,Alfa Romeo Racing Ferrari,14.0,+1 lap,0.0,No,20210801,17,131
+NC,Haas Ferrari,19.0,DNF,0.0,No,20210801,27,131
+NC,McLaren Mercedes,6.0,DNF,0.0,No,20210801,9,131
+NC,Mercedes,2.0,DNF,0.0,No,20210801,2,131
+NC,Red Bull Racing Honda,4.0,DNF,0.0,No,20210801,4,131
+NC,Ferrari,7.0,DNF,0.0,No,20210801,8,131
+NC,Aston Martin Mercedes,12.0,DNF,0.0,No,20210801,11,131
+1,Red Bull Racing Honda,1.0,0:03:27.071,,No,20210829,3,74
+2,Williams Mercedes,2.0,+1.995,9.0,No,20210829,18,74
+3,Mercedes,3.0,+2.601,,No,20210829,1,74
+4,McLaren Mercedes,4.0,+4.496,6.0,No,20210829,5,74
+5,Aston Martin Mercedes,5.0,+7.479,5.0,No,20210829,13,74
+6,AlphaTauri Honda,6.0,+10.177,4.0,No,20210829,10,74
+7,Alpine Renault,8.0,+11.579,3.0,No,20210829,12,74
+8,Ferrari,9.0,+12.608,2.0,No,20210829,8,74
+9,Williams Mercedes,10.0,+15.484,1.0,No,20210829,21,74
+10,Ferrari,11.0,+16.166,,No,20210829,6,74
+11,Alpine Renault,12.0,+20.590,0.0,No,20210829,24,74
+12,Mercedes,13.0,+22.414,0.0,No,20210829,2,74
+13,Alfa Romeo Racing Ferrari,14.0,+24.163,0.0,No,20210829,17,74
+14,McLaren Mercedes,15.0,+27.109,0.0,No,20210829,9,74
+15,AlphaTauri Honda,16.0,+28.329,0.0,No,20210829,25,74
+16,Haas Ferrari,17.0,+29.507,0.0,No,20210829,26,74
+17,Haas Ferrari,18.0,+31.993,0.0,No,20210829,27,74
+18,Alfa Romeo Racing Ferrari,20.0,+36.054,0.0,No,20210829,16,74
+19,Red Bull Racing Honda,7.0,+38.205,0.0,No,20210829,4,74
+20,Aston Martin Mercedes,19.0,+44.108,0.0,No,20210829,11,74
+1,Red Bull Racing Honda,1.0,1:30:05.395,25.0,No,20210905,3,101
+2,Mercedes,2.0,+20.932,19.0,Yes,20210905,1,101
+3,Mercedes,3.0,+56.460,15.0,No,20210905,2,101
+4,AlphaTauri Honda,4.0,+1 lap,12.0,No,20210905,10,101
+5,Ferrari,5.0,+1 lap,10.0,No,20210905,8,101
+6,Alpine Renault,9.0,+1 lap,8.0,No,20210905,24,101
+7,Ferrari,6.0,+1 lap,6.0,No,20210905,6,101
+8,Red Bull Racing Honda,20.0,+1 lap,4.0,No,20210905,4,101
+9,Alpine Renault,8.0,+1 lap,2.0,No,20210905,12,101
+10,McLaren Mercedes,13.0,+1 lap,1.0,No,20210905,9,101
+11,McLaren Mercedes,10.0,+1 lap,0.0,No,20210905,5,101
+12,Aston Martin Mercedes,12.0,+2 laps,0.0,No,20210905,11,101
+13,Aston Martin Mercedes,15.0,+2 laps,0.0,No,20210905,13,101
+14,Alfa Romeo Racing Ferrari,7.0,+2 laps,0.0,No,20210905,17,101
+15,Alfa Romeo Racing Ferrari,16.0,+2 laps,0.0,No,20210905,28,101
+16,Williams Mercedes,19.0,+2 laps,0.0,No,20210905,21,101
+NC,Williams Mercedes,11.0,DNF,0.0,No,20210905,18,101
+18,Haas Ferrari,17.0,+3 laps,0.0,No,20210905,26,101
+NC,AlphaTauri Honda,14.0,DNF,0.0,No,20210905,25,101
+NC,Haas Ferrari,18.0,DNF,0.0,No,20210905,27,101
+1,McLaren Mercedes,2.0,1:21:54.365,26.0,Yes,20210912,5,26
+2,McLaren Mercedes,3.0,+1.747,18.0,No,20210912,9,26
+3,Mercedes,19.0,+4.921,15.0,No,20210912,2,26
+4,Ferrari,5.0,+7.309,12.0,No,20210912,8,26
+5,Red Bull Racing Honda,8.0,+8.723,10.0,No,20210912,4,26
+6,Ferrari,6.0,+10.535,8.0,No,20210912,6,26
+7,Aston Martin Mercedes,9.0,+15.804,6.0,No,20210912,11,26
+8,Alpine Renault,10.0,+17.201,4.0,No,20210912,24,26
+9,Williams Mercedes,14.0,+19.742,2.0,No,20210912,18,26
+10,Alpine Renault,12.0,+20.868,1.0,No,20210912,12,26
+11,Williams Mercedes,13.0,+23.743,0.0,No,20210912,21,26
+12,Aston Martin Mercedes,11.0,+24.601,0.0,No,20210912,13,26
+13,Alfa Romeo Racing Ferrari,7.0,+27.216,0.0,No,20210912,17,26
+14,Alfa Romeo Racing Ferrari,17.0,+29.769,0.0,No,20210912,28,26
+15,Haas Ferrari,18.0,+51.088,0.0,No,20210912,26,26
+NC,Haas Ferrari,16.0,DNF,0.0,No,20210912,27,26
+NC,Mercedes,4.0,DNF,0.0,No,20210912,1,26
+NC,Red Bull Racing Honda,1.0,DNF,0.0,No,20210912,3,26
+NC,AlphaTauri Honda,20.0,DNF,0.0,No,20210912,10,26
+NC,AlphaTauri Honda,15.0,DNF,0.0,No,20210912,25,26
+1,Mercedes,4.0,1:30:41.001,25.0,No,20210926,1,203
+2,Red Bull Racing Honda,20.0,+53.271,18.0,No,20210926,3,203
+3,Ferrari,2.0,+62.475,15.0,No,20210926,6,203
+4,McLaren Mercedes,5.0,+65.607,12.0,No,20210926,5,203
+5,Mercedes,16.0,+67.533,10.0,No,20210926,2,203
+6,Alpine Renault,6.0,+81.321,8.0,No,20210926,24,203
+7,McLaren Mercedes,1.0,+87.224,7.0,Yes,20210926,9,203
+8,Alfa Romeo Racing Ferrari,13.0,+88.955,4.0,No,20210926,16,203
+9,Red Bull Racing Honda,8.0,+90.076,2.0,No,20210926,4,203
+10,Williams Mercedes,3.0,+100.551,1.0,No,20210926,18,203
+11,Aston Martin Mercedes,7.0,+116.198,0.0,No,20210926,11,203
+12,Aston Martin Mercedes,10.0,+1 lap,0.0,No,20210926,13,203
+13,AlphaTauri Honda,11.0,+1 lap,0.0,No,20210926,10,203
+14,Alpine Renault,9.0,+1 lap,0.0,No,20210926,12,203
+15,Ferrari,19.0,+1 lap,0.0,No,20210926,8,203
+16,Alfa Romeo Racing Ferrari,17.0,+1 lap,0.0,No,20210926,17,203
+17,AlphaTauri Honda,12.0,+1 lap,0.0,No,20210926,25,203
+18,Haas Ferrari,15.0,+2 laps,0.0,No,20210926,27,203
+NC,Williams Mercedes,18.0,DNF,0.0,No,20210926,21,203
+NC,Haas Ferrari,14.0,DNF,0.0,No,20210926,26,203
+1,Mercedes,1.0,1:31:04.103,26.0,Yes,20211010,2,135
+2,Red Bull Racing Honda,2.0,+14.584,18.0,No,20211010,3,135
+3,Red Bull Racing Honda,6.0,+33.471,15.0,No,20211010,4,135
+4,Ferrari,3.0,+37.814,12.0,No,20211010,8,135
+5,Mercedes,11.0,+41.812,10.0,No,20211010,1,135
+6,AlphaTauri Honda,4.0,+44.292,8.0,No,20211010,10,135
+7,McLaren Mercedes,7.0,+47.213,6.0,No,20211010,9,135
+8,Ferrari,19.0,+51.526,4.0,No,20211010,6,135
+9,Aston Martin Mercedes,8.0,+82.018,2.0,No,20211010,11,135
+10,Alpine Renault,12.0,+1 lap,1.0,No,20211010,12,135
+11,Alfa Romeo Racing Ferrari,16.0,+1 lap,0.0,No,20211010,17,135
+12,Alfa Romeo Racing Ferrari,17.0,+1 lap,0.0,No,20211010,16,135
+13,McLaren Mercedes,20.0,+1 lap,0.0,No,20211010,5,135
+14,AlphaTauri Honda,9.0,+1 lap,0.0,No,20211010,25,135
+15,Williams Mercedes,13.0,+1 lap,0.0,No,20211010,18,135
+16,Alpine Renault,5.0,+1 lap,0.0,No,20211010,24,135
+17,Williams Mercedes,15.0,+1 lap,0.0,No,20211010,21,135
+18,Aston Martin Mercedes,10.0,+1 lap,0.0,No,20211010,13,135
+19,Haas Ferrari,14.0,+2 laps,0.0,No,20211010,26,135
+20,Haas Ferrari,18.0,+2 laps,0.0,No,20211010,27,135
+1,Red Bull Racing Honda,1.0,1:34:36.552,25.0,No,20211024,3,87
+2,Mercedes,2.0,+1.333,19.0,Yes,20211024,1,87
+3,Red Bull Racing Honda,3.0,+42.223,15.0,No,20211024,4,87
+4,Ferrari,4.0,+52.246,12.0,No,20211024,8,87
+5,McLaren Mercedes,6.0,+76.854,10.0,No,20211024,5,87
+6,Mercedes,9.0,+80.128,8.0,No,20211024,2,87
+7,Ferrari,5.0,+83.545,6.0,No,20211024,6,87
+8,McLaren Mercedes,7.0,+94.395,4.0,No,20211024,9,87
+9,AlphaTauri Honda,10.0,+1 lap,2.0,No,20211024,25,87
+10,Aston Martin Mercedes,18.0,+1 lap,1.0,No,20211024,13,87
+11,Alfa Romeo Racing Ferrari,12.0,+1 lap,0.0,No,20211024,17,87
+12,Aston Martin Mercedes,13.0,+1 lap,0.0,No,20211024,11,87
+13,Alfa Romeo Racing Ferrari,15.0,+1 lap,0.0,No,20211024,16,87
+14,Williams Mercedes,20.0,+1 lap,0.0,No,20211024,18,87
+15,Williams Mercedes,14.0,+1 lap,0.0,No,20211024,21,87
+16,Haas Ferrari,16.0,+2 laps,0.0,No,20211024,26,87
+17,Haas Ferrari,17.0,+2 laps,0.0,No,20211024,27,87
+NC,Alpine Renault,19.0,DNF,0.0,No,20211024,24,87
+NC,Alpine Renault,11.0,DNF,0.0,No,20211024,12,87
+NC,AlphaTauri Honda,8.0,DNF,0.0,No,20211024,10,87
+1,Red Bull Racing Honda,3.0,1:38:39.086,25.0,No,20211107,3,14
+2,Mercedes,2.0,+16.555,18.0,No,20211107,1,14
+3,Red Bull Racing Honda,4.0,+17.752,15.0,No,20211107,4,14
+4,AlphaTauri Honda,5.0,+63.845,12.0,No,20211107,10,14
+5,Ferrari,8.0,+81.037,10.0,No,20211107,8,14
+6,Ferrari,6.0,+1 lap,8.0,No,20211107,6,14
+7,Aston Martin Mercedes,9.0,+1 lap,6.0,No,20211107,13,14
+8,Alfa Romeo Racing Ferrari,10.0,+1 lap,4.0,No,20211107,16,14
+9,Alpine Renault,12.0,+1 lap,2.0,No,20211107,24,14
+10,McLaren Mercedes,18.0,+1 lap,1.0,No,20211107,9,14
+11,Alfa Romeo Racing Ferrari,11.0,+1 lap,0.0,No,20211107,17,14
+12,McLaren Mercedes,7.0,+1 lap,0.0,No,20211107,5,14
+13,Alpine Renault,19.0,+1 lap,0.0,No,20211107,12,14
+14,Aston Martin Mercedes,20.0,+2 laps,0.0,No,20211107,11,14
+15,Mercedes,1.0,+2 laps,0.0,No,20211107,2,14
+16,Williams Mercedes,16.0,+2 laps,0.0,No,20211107,18,14
+17,Williams Mercedes,13.0,+2 laps,0.0,No,20211107,21,14
+18,Haas Ferrari,15.0,+3 laps,0.0,No,20211107,27,14
+NC,Haas Ferrari,14.0,DNF,0.0,No,20211107,26,14
+NC,AlphaTauri Honda,17.0,DNF,0.0,No,20211107,25,14
+1,Mercedes,10.0,1:32:22.851,25.0,No,20211114,1,24
+2,Red Bull Racing Honda,2.0,+10.496,18.0,No,20211114,3,24
+3,Mercedes,1.0,+13.576,15.0,No,20211114,2,24
+4,Red Bull Racing Honda,4.0,+39.940,13.0,Yes,20211114,4,24
+5,Ferrari,6.0,+49.517,10.0,No,20211114,8,24
+6,Ferrari,3.0,+51.820,8.0,No,20211114,6,24
+7,AlphaTauri Honda,7.0,+1 lap,6.0,No,20211114,10,24
+8,Alpine Renault,8.0,+1 lap,4.0,No,20211114,12,24
+9,Alpine Renault,12.0,+1 lap,2.0,No,20211114,24,24
+10,McLaren Mercedes,5.0,+1 lap,1.0,No,20211114,9,24
+11,Aston Martin Mercedes,9.0,+1 lap,0.0,No,20211114,13,24
+12,Alfa Romeo Racing Ferrari,20.0,+1 lap,0.0,No,20211114,16,24
+13,Williams Mercedes,17.0,+1 lap,0.0,No,20211114,18,24
+14,Alfa Romeo Racing Ferrari,13.0,+1 lap,0.0,No,20211114,17,24
+15,AlphaTauri Honda,15.0,+1 lap,0.0,No,20211114,25,24
+16,Williams Mercedes,16.0,+1 lap,0.0,No,20211114,21,24
+17,Haas Ferrari,19.0,+2 laps,0.0,No,20211114,27,24
+18,Haas Ferrari,18.0,+2 laps,0.0,No,20211114,26,24
+NC,McLaren Mercedes,11.0,DNF,0.0,No,20211114,5,24
+NC,Aston Martin Mercedes,14.0,DNF,0.0,No,20211114,11,24
+1,Mercedes,1.0,1:24:28.471,25.0,No,20211121,1,143
+2,Red Bull Racing Honda,7.0,+25.743,19.0,Yes,20211121,3,143
+3,Alpine Renault,3.0,+59.457,15.0,No,20211121,24,143
+4,Red Bull Racing Honda,11.0,+62.306,12.0,No,20211121,4,143
+5,Alpine Renault,9.0,+80.570,10.0,No,20211121,12,143
+6,Aston Martin Mercedes,12.0,+81.274,8.0,No,20211121,11,143
+7,Ferrari,5.0,+81.911,6.0,No,20211121,6,143
+8,Ferrari,13.0,+83.126,4.0,No,20211121,8,143
+9,McLaren Mercedes,4.0,+1 lap,2.0,No,20211121,9,143
+10,Aston Martin Mercedes,10.0,+1 lap,1.0,No,20211121,13,143
+11,AlphaTauri Honda,2.0,+1 lap,0.0,No,20211121,10,143
+12,McLaren Mercedes,14.0,+1 lap,0.0,No,20211121,5,143
+13,AlphaTauri Honda,8.0,+1 lap,0.0,No,20211121,25,143
+14,Alfa Romeo Racing Ferrari,16.0,+1 lap,0.0,No,20211121,16,143
+15,Alfa Romeo Racing Ferrari,18.0,+1 lap,0.0,No,20211121,17,143
+16,Haas Ferrari,19.0,+1 lap,0.0,No,20211121,26,143
+17,Williams Mercedes,15.0,+2 laps,0.0,No,20211121,18,143
+18,Haas Ferrari,20.0,+2 laps,0.0,No,20211121,27,143
+NC,Williams Mercedes,17.0,DNF,0.0,No,20211121,21,143
+NC,Mercedes,6.0,DNF,0.0,No,20211121,2,143
+1,Mercedes,1.0,2:06:15.118,26.0,Yes,20211205,1,136
+2,Red Bull Racing Honda,3.0,+21.825,18.0,No,20211205,3,136
+3,Mercedes,2.0,+27.531,15.0,No,20211205,2,136
+4,Alpine Renault,9.0,+27.633,12.0,No,20211205,12,136
+5,McLaren Mercedes,11.0,+40.121,10.0,No,20211205,5,136
+6,AlphaTauri Honda,6.0,+41.613,8.0,No,20211205,10,136
+7,Ferrari,4.0,+44.475,6.0,No,20211205,8,136
+8,Ferrari,15.0,+46.606,4.0,No,20211205,6,136
+9,Alfa Romeo Racing Ferrari,10.0,+58.505,2.0,No,20211205,17,136
+10,McLaren Mercedes,7.0,+61.358,1.0,No,20211205,9,136
+11,Aston Martin Mercedes,18.0,+77.212,0.0,No,20211205,11,136
+12,Williams Mercedes,16.0,+83.249,0.0,No,20211205,21,136
+13,Alpine Renault,13.0,+1 lap,0.0,No,20211205,24,136
+14,AlphaTauri Honda,8.0,+1 lap,0.0,No,20211205,25,136
+15,Alfa Romeo Racing Ferrari,12.0,+1 lap,0.0,No,20211205,16,136
+NC,Aston Martin Mercedes,17.0,DNF,0.0,No,20211205,13,136
+NC,Red Bull Racing Honda,5.0,DNF,0.0,No,20211205,4,136
+NC,Haas Ferrari,20.0,DNF,0.0,No,20211205,27,136
+NC,Williams Mercedes,14.0,DNF,0.0,No,20211205,18,136
+NC,Haas Ferrari,19.0,DNF,0.0,No,20211205,26,136
+1,Red Bull Racing Honda,1.0,1:30:17.345,26.0,Yes,20211212,3,210
+2,Mercedes,2.0,+2.256,18.0,No,20211212,1,210
+3,Ferrari,5.0,+5.173,15.0,No,20211212,6,210
+4,AlphaTauri Honda,8.0,+5.692,12.0,No,20211212,25,210
+5,AlphaTauri Honda,12.0,+6.531,10.0,No,20211212,10,210
+6,Mercedes,6.0,+7.463,8.0,No,20211212,2,210
+7,McLaren Mercedes,3.0,+59.200,6.0,No,20211212,9,210
+8,Alpine Renault,11.0,+61.708,4.0,No,20211212,24,210
+9,Alpine Renault,9.0,+64.026,2.0,No,20211212,12,210
+10,Ferrari,7.0,+66.057,1.0,No,20211212,8,210
+11,Aston Martin Mercedes,15.0,+67.527,0.0,No,20211212,13,210
+12,McLaren Mercedes,10.0,+1 lap,0.0,No,20211212,5,210
+13,Aston Martin Mercedes,13.0,+1 lap,0.0,No,20211212,11,210
+14,Haas Ferrari,19.0,+1 lap,0.0,No,20211212,26,210
+NC,Red Bull Racing Honda,4.0,DNF,0.0,No,20211212,4,210
+NC,Williams Mercedes,16.0,DNF,0.0,No,20211212,21,210
+NC,Alfa Romeo Racing Ferrari,14.0,DNF,0.0,No,20211212,17,210
+NC,Williams Mercedes,17.0,DNF,0.0,No,20211212,18,210
+NC,Alfa Romeo Racing Ferrari,18.0,DNF,0.0,No,20211212,16,210
+NC,Haas Ferrari,20.0,DNF,0.0,No,20211212,27,210
+1,Ferrari,1.0,1:37:33.584,26.0,Yes,20220320,8,34
+2,Ferrari,3.0,+5.598,18.0,No,20220320,6,34
+3,Mercedes,5.0,+9.675,15.0,No,20220320,1,34
+4,Mercedes,9.0,+11.211,12.0,No,20220320,18,34
+5,Haas Ferrari,7.0,+14.754,10.0,No,20220320,20,34
+6,Alfa Romeo Ferrari,6.0,+16.119,8.0,No,20220320,2,34
+7,Alpine Renault,11.0,+19.423,6.0,No,20220320,12,34
+8,AlphaTauri RBPT,16.0,+20.386,4.0,No,20220320,25,34
+9,Alpine Renault,8.0,+22.390,2.0,No,20220320,24,34
+10,Alfa Romeo Ferrari,15.0,+23.064,1.0,No,20220320,30,34
+11,Haas Ferrari,12.0,+32.574,0.0,No,20220320,26,34
+12,Aston Martin Aramco Mercedes,19.0,+45.873,0.0,No,20220320,11,34
+13,Williams Mercedes,14.0,+53.932,0.0,No,20220320,7,34
+14,McLaren Mercedes,18.0,+54.975,0.0,No,20220320,5,34
+15,McLaren Mercedes,13.0,+56.335,0.0,No,20220320,9,34
+16,Williams Mercedes,20.0,+61.795,0.0,No,20220320,21,34
+17,Aston Martin Aramco Mercedes,17.0,+63.829,0.0,No,20220320,15,34
+NC,Red Bull Racing RBPT,4.0,DNF,0.0,No,20220320,4,34
+NC,Red Bull Racing RBPT,2.0,DNF,0.0,No,20220320,3,34
+NC,AlphaTauri RBPT,10.0,DNF,0.0,No,20220320,10,34
+1,Red Bull Racing RBPT,4.0,1:24:19.293,25.0,No,20220327,3,136
+2,Ferrari,2.0,+0.549,19.0,Yes,20220327,8,136
+3,Ferrari,3.0,+8.097,15.0,No,20220327,6,136
+4,Red Bull Racing RBPT,1.0,+10.800,12.0,No,20220327,4,136
+5,Mercedes,6.0,+32.732,10.0,No,20220327,18,136
+6,Alpine Renault,5.0,+56.017,8.0,No,20220327,12,136
+7,McLaren Mercedes,11.0,+56.124,6.0,No,20220327,9,136
+8,AlphaTauri RBPT,9.0,+62.946,4.0,No,20220327,10,136
+9,Haas Ferrari,10.0,+64.308,2.0,No,20220327,20,136
+10,Mercedes,15.0,+73.948,1.0,No,20220327,1,136
+11,Alfa Romeo Ferrari,12.0,+82.215,0.0,No,20220327,30,136
+12,Aston Martin Aramco Mercedes,17.0,+91.742,0.0,No,20220327,15,136
+13,Aston Martin Aramco Mercedes,13.0,+1 lap,0.0,No,20220327,11,136
+NC,Williams Mercedes,16.0,DNF,0.0,No,20220327,7,136
+NC,Alfa Romeo Ferrari,8.0,DNF,0.0,No,20220327,2,136
+NC,Alpine Renault,7.0,DNF,0.0,No,20220327,24,136
+NC,McLaren Mercedes,14.0,DNF,0.0,No,20220327,5,136
+NC,Williams Mercedes,18.0,DNF,0.0,No,20220327,21,136
+NC,AlphaTauri RBPT,19.0,DNF,0.0,No,20220327,25,136
+NC,Haas Ferrari,20.0,DNF,0.0,No,20220327,26,136
+1,Ferrari,1.0,1:27:46.548,26.0,Yes,20220410,8,8
+2,Red Bull Racing RBPT,3.0,+20.524,18.0,No,20220410,4,8
+3,Mercedes,6.0,+25.593,15.0,No,20220410,18,8
+4,Mercedes,5.0,+28.543,12.0,No,20220410,1,8
+5,McLaren Mercedes,4.0,+53.303,10.0,No,20220410,9,8
+6,McLaren Mercedes,7.0,+53.737,8.0,No,20220410,5,8
+7,Alpine Renault,8.0,+61.683,6.0,No,20220410,12,8
+8,Alfa Romeo Ferrari,12.0,+68.439,4.0,No,20220410,2,8
+9,AlphaTauri RBPT,11.0,+76.221,2.0,No,20220410,10,8
+10,Williams Mercedes,20.0,+79.382,1.0,No,20220410,7,8
+11,Alfa Romeo Ferrari,14.0,+81.695,0.0,No,20220410,30,8
+12,Aston Martin Aramco Mercedes,19.0,+88.598,0.0,No,20220410,11,8
+13,Haas Ferrari,15.0,+1 lap,0.0,No,20220410,26,8
+14,Haas Ferrari,16.0,+1 lap,0.0,No,20220410,20,8
+15,AlphaTauri RBPT,13.0,+1 lap,0.0,No,20220410,25,8
+16,Williams Mercedes,18.0,+1 lap,0.0,No,20220410,21,8
+17,Alpine Renault,10.0,+1 lap,0.0,No,20220410,24,8
+NC,Red Bull Racing RBPT,2.0,DNF,0.0,No,20220410,3,8
+NC,Aston Martin Aramco Mercedes,17.0,DNF,0.0,No,20220410,13,8
+NC,Ferrari,9.0,DNF,0.0,No,20220410,6,8
+1,Red Bull Racing RBPT,1.0,1:32:07.986,26.0,Yes,20220424,3,19
+2,Red Bull Racing RBPT,3.0,+16.527,18.0,No,20220424,4,19
+3,McLaren Mercedes,5.0,+34.834,15.0,No,20220424,9,19
+4,Mercedes,11.0,+42.506,12.0,No,20220424,18,19
+5,Alfa Romeo Ferrari,7.0,+43.181,10.0,No,20220424,2,19
+6,Ferrari,2.0,+56.072,8.0,No,20220424,8,19
+7,AlphaTauri RBPT,12.0,+61.110,6.0,No,20220424,25,19
+8,Aston Martin Aramco Mercedes,13.0,+70.892,4.0,No,20220424,13,19
+9,Haas Ferrari,8.0,+75.260,2.0,No,20220424,20,19
+10,Aston Martin Aramco Mercedes,15.0,+1 lap,1.0,No,20220424,11,19
+11,Williams Mercedes,18.0,+1 lap,0.0,No,20220424,7,19
+12,AlphaTauri RBPT,17.0,+1 lap,0.0,No,20220424,10,19
+13,Mercedes,14.0,+1 lap,0.0,No,20220424,1,19
+14,Alpine Renault,16.0,+1 lap,0.0,No,20220424,12,19
+15,Alfa Romeo Ferrari,20.0,+1 lap,0.0,No,20220424,30,19
+16,Williams Mercedes,19.0,+1 lap,0.0,No,20220424,21,19
+17,Haas Ferrari,10.0,+1 lap,0.0,No,20220424,26,19
+18,McLaren Mercedes,6.0,+1 lap,0.0,No,20220424,5,19
+NC,Alpine Renault,9.0,DNF,0.0,No,20220424,24,19
+NC,Ferrari,4.0,DNF,0.0,No,20220424,6,19
+1,Red Bull Racing RBPT,3.0,1:34:24.258,26.0,Yes,20220508,3,147
+2,Ferrari,1.0,+3.786,18.0,No,20220508,8,147
+3,Ferrari,2.0,+8.229,15.0,No,20220508,6,147
+4,Red Bull Racing RBPT,4.0,+10.638,12.0,No,20220508,4,147
+5,Mercedes,12.0,+18.582,10.0,No,20220508,18,147
+6,Mercedes,6.0,+21.368,8.0,No,20220508,1,147
+7,Alfa Romeo Ferrari,5.0,+25.073,6.0,No,20220508,2,147
+8,Alpine Renault,20.0,+28.386,4.0,No,20220508,12,147
+9,Williams Mercedes,18.0,+32.365,2.0,No,20220508,7,147
+10,Aston Martin Aramco Mercedes,10.0,+37.026,1.0,No,20220508,11,147
+11,Alpine Renault,11.0,+37.128,0.0,No,20220508,24,147
+12,AlphaTauri RBPT,9.0,+40.146,0.0,No,20220508,25,147
+13,McLaren Mercedes,14.0,+40.902,0.0,No,20220508,5,147
+14,Williams Mercedes,19.0,+49.936,0.0,No,20220508,21,147
+15,Haas Ferrari,15.0,+73.305,0.0,No,20220508,26,147
+NC,Haas Ferrari,16.0,DNF,0.0,No,20220508,20,147
+NC,Aston Martin Aramco Mercedes,13.0,DNF,0.0,No,20220508,13,147
+NC,AlphaTauri RBPT,7.0,DNF,0.0,No,20220508,10,147
+NC,McLaren Mercedes,8.0,DNF,0.0,No,20220508,9,147
+NC,Alfa Romeo Ferrari,17.0,DNF,0.0,No,20220508,30,147
+1,Red Bull Racing RBPT,2.0,1:37:20.475,25.0,No,20220522,3,54
+2,Red Bull Racing RBPT,5.0,+13.072,19.0,Yes,20220522,4,54
+3,Mercedes,4.0,+32.927,15.0,No,20220522,18,54
+4,Ferrari,3.0,+45.208,12.0,No,20220522,6,54
+5,Mercedes,6.0,+54.534,10.0,No,20220522,1,54
+6,Alfa Romeo Ferrari,7.0,+59.976,8.0,No,20220522,2,54
+7,Alpine Renault,12.0,+75.397,6.0,No,20220522,12,54
+8,McLaren Mercedes,11.0,+83.235,4.0,No,20220522,9,54
+9,Alpine Renault,20.0,+1 lap,2.0,No,20220522,24,54
+10,AlphaTauri RBPT,13.0,+1 lap,1.0,No,20220522,25,54
+11,Aston Martin Aramco Mercedes,16.0,+1 lap,0.0,No,20220522,13,54
+12,McLaren Mercedes,9.0,+1 lap,0.0,No,20220522,5,54
+13,AlphaTauri RBPT,14.0,+1 lap,0.0,No,20220522,10,54
+14,Haas Ferrari,10.0,+1 lap,0.0,No,20220522,26,54
+15,Aston Martin Aramco Mercedes,17.0,+1 lap,0.0,No,20220522,11,54
+16,Williams Mercedes,19.0,+2 laps,0.0,No,20220522,21,54
+17,Haas Ferrari,8.0,+2 laps,0.0,No,20220522,20,54
+18,Williams Mercedes,18.0,+2 laps,0.0,No,20220522,7,54
+NC,Alfa Romeo Ferrari,15.0,DNF,0.0,No,20220522,30,54
+NC,Ferrari,1.0,DNF,0.0,No,20220522,8,54
+1,Red Bull Racing RBPT,3.0,1:56:30.265,25.0,No,20220529,4,57
+2,Ferrari,2.0,+1.154,18.0,No,20220529,6,57
+3,Red Bull Racing RBPT,4.0,+1.491,15.0,No,20220529,3,57
+4,Ferrari,1.0,+2.922,12.0,No,20220529,8,57
+5,Mercedes,6.0,+11.968,10.0,No,20220529,18,57
+6,McLaren Mercedes,5.0,+12.231,9.0,Yes,20220529,9,57
+7,Alpine Renault,7.0,+46.358,6.0,No,20220529,24,57
+8,Mercedes,8.0,+50.388,4.0,No,20220529,1,57
+9,Alfa Romeo Ferrari,12.0,+52.525,2.0,No,20220529,2,57
+10,Aston Martin Aramco Mercedes,9.0,+53.536,1.0,No,20220529,13,57
+11,AlphaTauri RBPT,17.0,+54.289,0.0,No,20220529,10,57
+12,Alpine Renault,10.0,+55.644,0.0,No,20220529,12,57
+13,McLaren Mercedes,14.0,+57.635,0.0,No,20220529,5,57
+14,Aston Martin Aramco Mercedes,18.0,+60.802,0.0,No,20220529,11,57
+15,Williams Mercedes,19.0,+1 lap,0.0,No,20220529,21,57
+16,Alfa Romeo Ferrari,20.0,+1 lap,0.0,No,20220529,30,57
+17,AlphaTauri RBPT,11.0,+1 lap,0.0,No,20220529,25,57
+NC,Williams Mercedes,16.0,DNF,0.0,No,20220529,7,57
+NC,Haas Ferrari,15.0,DNF,0.0,No,20220529,26,57
+NC,Haas Ferrari,13.0,DNF,0.0,No,20220529,20,57
+1,Red Bull Racing RBPT,3.0,1:34:05.941,25.0,No,20220612,3,36
+2,Red Bull Racing RBPT,2.0,+20.823,19.0,Yes,20220612,4,36
+3,Mercedes,5.0,+45.995,15.0,No,20220612,18,36
+4,Mercedes,7.0,+71.679,12.0,No,20220612,1,36
+5,AlphaTauri RBPT,6.0,+77.299,10.0,No,20220612,10,36
+6,Aston Martin Aramco Mercedes,9.0,+84.099,8.0,No,20220612,13,36
+7,Alpine Renault,10.0,+88.596,6.0,No,20220612,24,36
+8,McLaren Mercedes,12.0,+92.207,4.0,No,20220612,5,36
+9,McLaren Mercedes,11.0,+92.556,2.0,No,20220612,9,36
+10,Alpine Renault,13.0,+108.184,1.0,No,20220612,12,36
+11,Alfa Romeo Ferrari,15.0,+1 lap,0.0,No,20220612,2,36
+12,Williams Mercedes,17.0,+1 lap,0.0,No,20220612,7,36
+13,AlphaTauri RBPT,8.0,+1 lap,0.0,No,20220612,25,36
+14,Haas Ferrari,20.0,+1 lap,0.0,No,20220612,26,36
+15,Williams Mercedes,18.0,+1 lap,0.0,No,20220612,21,36
+NC,Aston Martin Aramco Mercedes,19.0,DNF,0.0,No,20220612,11,36
+NC,Haas Ferrari,16.0,DNF,0.0,No,20220612,20,36
+NC,Alfa Romeo Ferrari,14.0,DNF,0.0,No,20220612,30,36
+NC,Ferrari,1.0,DNF,0.0,No,20220612,8,36
+NC,Ferrari,4.0,DNF,0.0,No,20220612,6,36
+1,Red Bull Racing RBPT,1.0,1:36:21.757,25.0,No,20220619,3,83
+2,Ferrari,3.0,+0.993,19.0,Yes,20220619,6,83
+3,Mercedes,4.0,+7.006,15.0,No,20220619,1,83
+4,Mercedes,8.0,+12.313,12.0,No,20220619,18,83
+5,Ferrari,19.0,+15.168,10.0,No,20220619,8,83
+6,Alpine Renault,7.0,+23.890,8.0,No,20220619,12,83
+7,Alfa Romeo Ferrari,11.0,+25.247,6.0,No,20220619,2,83
+8,Alfa Romeo Ferrari,10.0,+26.952,4.0,No,20220619,30,83
+9,Alpine Renault,2.0,+29.945,2.0,No,20220619,24,83
+10,Aston Martin Aramco Mercedes,17.0,+38.222,1.0,No,20220619,11,83
+11,McLaren Mercedes,9.0,+43.047,0.0,No,20220619,5,83
+12,Aston Martin Aramco Mercedes,16.0,+44.245,0.0,No,20220619,13,83
+13,Williams Mercedes,12.0,+44.893,0.0,No,20220619,7,83
+14,AlphaTauri RBPT,15.0,+45.183,0.0,No,20220619,10,83
+15,McLaren Mercedes,14.0,+52.145,0.0,No,20220619,9,83
+16,Williams Mercedes,18.0,+59.978,0.0,No,20220619,21,83
+17,Haas Ferrari,5.0,+68.180,0.0,No,20220619,20,83
+NC,AlphaTauri RBPT,20.0,DNF,0.0,No,20220619,25,83
+NC,Haas Ferrari,6.0,DNF,0.0,No,20220619,26,83
+NC,Red Bull Racing RBPT,13.0,DNF,0.0,No,20220619,4,83
+1,Ferrari,1.0,2:17:50.311,25.0,No,20220703,6,202
+2,Red Bull Racing RBPT,4.0,+3.779,18.0,No,20220703,4,202
+3,Mercedes,5.0,+6.225,16.0,Yes,20220703,1,202
+4,Ferrari,3.0,+8.546,12.0,No,20220703,8,202
+5,Alpine Renault,7.0,+9.571,10.0,No,20220703,24,202
+6,McLaren Mercedes,6.0,+11.943,8.0,No,20220703,9,202
+7,Red Bull Racing RBPT,2.0,+18.777,6.0,No,20220703,3,202
+8,Haas Ferrari,19.0,+18.995,4.0,No,20220703,26,202
+9,Aston Martin Aramco Mercedes,18.0,+22.356,2.0,No,20220703,13,202
+10,Haas Ferrari,17.0,+24.590,1.0,No,20220703,20,202
+11,Aston Martin Aramco Mercedes,20.0,+26.147,0.0,No,20220703,11,202
+12,Williams Mercedes,10.0,+32.511,0.0,No,20220703,21,202
+13,McLaren Mercedes,14.0,+32.817,0.0,No,20220703,5,202
+14,AlphaTauri RBPT,13.0,+40.910,0.0,No,20220703,25,202
+NC,Alpine Renault,15.0,DNF,0.0,No,20220703,12,202
+NC,AlphaTauri RBPT,11.0,DNF,0.0,No,20220703,10,202
+NC,Alfa Romeo Ferrari,12.0,DNF,0.0,No,20220703,2,202
+NC,Mercedes,8.0,DNF,0.0,No,20220703,18,202
+NC,Alfa Romeo Ferrari,9.0,DNF,0.0,No,20220703,30,202
+NC,Williams Mercedes,16.0,DNF,0.0,No,20220703,7,202
+1,Ferrari,2.0,1:24:24.312,25.0,No,20220710,8,174
+2,Red Bull Racing RBPT,1.0,+1.532,19.0,Yes,20220710,3,174
+3,Mercedes,8.0,+41.217,15.0,No,20220710,1,174
+4,Mercedes,4.0,+58.972,12.0,No,20220710,18,174
+5,Alpine Renault,6.0,+68.436,10.0,No,20220710,12,174
+6,Haas Ferrari,9.0,+1 lap,8.0,No,20220710,26,174
+7,McLaren Mercedes,10.0,+1 lap,6.0,No,20220710,9,174
+8,Haas Ferrari,7.0,+1 lap,4.0,No,20220710,20,174
+9,McLaren Mercedes,11.0,+1 lap,2.0,No,20220710,5,174
+10,Alpine Renault,19.0,+1 lap,1.0,No,20220710,24,174
+11,Alfa Romeo Ferrari,20.0,+1 lap,0.0,No,20220710,2,174
+12,Williams Mercedes,15.0,+1 lap,0.0,No,20220710,7,174
+13,Aston Martin Aramco Mercedes,12.0,+1 lap,0.0,No,20220710,11,174
+14,Alfa Romeo Ferrari,13.0,+1 lap,0.0,No,20220710,30,174
+15,AlphaTauri RBPT,14.0,+1 lap,0.0,No,20220710,10,174
+16,AlphaTauri RBPT,16.0,+1 lap,0.0,No,20220710,25,174
+17,Aston Martin Aramco Mercedes,18.0,+1 lap,0.0,No,20220710,13,174
+NC,Ferrari,3.0,DNF,0.0,No,20220710,6,174
+NC,Williams Mercedes,17.0,DNF,0.0,No,20220710,21,174
+NC,Red Bull Racing RBPT,5.0,DNF,0.0,No,20220710,4,174
+1,Red Bull Racing RBPT,2.0,1:30:02.112,25.0,No,20220724,3,96
+2,Mercedes,4.0,+10.587,18.0,No,20220724,1,96
+3,Mercedes,6.0,+16.495,15.0,No,20220724,18,96
+4,Red Bull Racing RBPT,3.0,+17.310,12.0,No,20220724,4,96
+5,Ferrari,19.0,+28.872,11.0,Yes,20220724,6,96
+6,Alpine Renault,7.0,+42.879,8.0,No,20220724,24,96
+7,McLaren Mercedes,5.0,+52.026,6.0,No,20220724,9,96
+8,Alpine Renault,10.0,+56.959,4.0,No,20220724,12,96
+9,McLaren Mercedes,9.0,+60.372,2.0,No,20220724,5,96
+10,Aston Martin Aramco Mercedes,15.0,+62.549,1.0,No,20220724,11,96
+11,Aston Martin Aramco Mercedes,12.0,+65.448,0.0,No,20220724,13,96
+12,AlphaTauri RBPT,14.0,+65.448,0.0,No,20220724,10,96
+13,Williams Mercedes,13.0,+68.565,0.0,No,20220724,7,96
+14,Alfa Romeo Ferrari,11.0,+76.666,0.0,No,20220724,2,96
+15,Haas Ferrari,17.0,+80.394,0.0,No,20220724,26,96
+16,Alfa Romeo Ferrari,16.0,+6 laps,0.0,No,20220724,30,96
+NC,Williams Mercedes,18.0,DNF,0.0,No,20220724,21,96
+NC,Haas Ferrari,20.0,DNF,0.0,No,20220724,20,96
+NC,Ferrari,1.0,DNF,0.0,No,20220724,8,96
+NC,AlphaTauri RBPT,8.0,DNF,0.0,No,20220724,25,96
+1,Red Bull Racing RBPT,10.0,1:39:25.912,25.0,No,20220731,3,131
+2,Mercedes,7.0,+7.834,19.0,Yes,20220731,1,131
+3,Mercedes,1.0,+12.337,15.0,No,20220731,18,131
+4,Ferrari,2.0,+14.579,12.0,No,20220731,6,131
+5,Red Bull Racing RBPT,11.0,+15.688,10.0,No,20220731,4,131
+6,Ferrari,3.0,+16.047,8.0,No,20220731,8,131
+7,McLaren Mercedes,4.0,+78.300,6.0,No,20220731,9,131
+8,Alpine Renault,6.0,+1 lap,4.0,No,20220731,24,131
+9,Alpine Renault,5.0,+1 lap,2.0,No,20220731,12,131
+10,Aston Martin Aramco Mercedes,18.0,+1 lap,1.0,No,20220731,13,131
+11,Aston Martin Aramco Mercedes,14.0,+1 lap,0.0,No,20220731,11,131
+12,AlphaTauri RBPT,20.0,+1 lap,0.0,No,20220731,10,131
+13,Alfa Romeo Ferrari,12.0,+1 lap,0.0,No,20220731,30,131
+14,Haas Ferrari,15.0,+1 lap,0.0,No,20220731,26,131
+15,McLaren Mercedes,9.0,+1 lap,0.0,No,20220731,5,131
+16,Haas Ferrari,13.0,+1 lap,0.0,No,20220731,20,131
+17,Williams Mercedes,17.0,+1 lap,0.0,No,20220731,7,131
+18,Williams Mercedes,19.0,+1 lap,0.0,No,20220731,21,131
+19,AlphaTauri RBPT,16.0,+2 laps,0.0,No,20220731,25,131
+NC,Alfa Romeo Ferrari,8.0,DNF,0.0,No,20220731,2,131
+1,Red Bull Racing RBPT,14.0,1:25:52.894,26.0,Yes,20220828,3,74
+2,Red Bull Racing RBPT,2.0,+17.841,18.0,No,20220828,4,74
+3,Ferrari,1.0,+26.886,15.0,No,20220828,6,74
+4,Mercedes,5.0,+29.140,12.0,No,20220828,18,74
+5,Alpine Renault,3.0,+73.256,10.0,No,20220828,24,74
+6,Ferrari,15.0,+74.936,8.0,No,20220828,8,74
+7,Alpine Renault,16.0,+75.640,6.0,No,20220828,12,74
+8,Aston Martin Aramco Mercedes,10.0,+78.107,4.0,No,20220828,13,74
+9,AlphaTauri RBPT,8.0,+92.181,2.0,No,20220828,10,74
+10,Williams Mercedes,6.0,+101.900,1.0,No,20220828,7,74
+11,Aston Martin Aramco Mercedes,9.0,+103.078,0.0,No,20220828,11,74
+12,McLaren Mercedes,17.0,+104.739,0.0,No,20220828,9,74
+13,AlphaTauri RBPT,20.0,+105.217,0.0,No,20220828,25,74
+14,Alfa Romeo Ferrari,18.0,+106.252,0.0,No,20220828,30,74
+15,McLaren Mercedes,7.0,+107.163,0.0,No,20220828,5,74
+16,Haas Ferrari,12.0,+1 lap,0.0,No,20220828,20,74
+17,Haas Ferrari,19.0,+1 lap,0.0,No,20220828,26,74
+18,Williams Mercedes,11.0,+1 lap,0.0,No,20220828,21,74
+NC,Alfa Romeo Ferrari,13.0,DNF,0.0,No,20220828,2,74
+NC,Mercedes,4.0,DNF,0.0,No,20220828,1,74
+1,Red Bull Racing RBPT,1.0,1:36:42.773,26.0,Yes,20220904,3,101
+2,Mercedes,6.0,+4.071,18.0,No,20220904,18,101
+3,Ferrari,2.0,+10.929,15.0,No,20220904,8,101
+4,Mercedes,4.0,+13.016,12.0,No,20220904,1,101
+5,Red Bull Racing RBPT,5.0,+18.168,10.0,No,20220904,4,101
+6,Alpine Renault,13.0,+18.754,8.0,No,20220904,24,101
+7,McLaren Mercedes,7.0,+19.306,6.0,No,20220904,9,101
+8,Ferrari,3.0,+20.916,4.0,No,20220904,6,101
+9,Alpine Renault,12.0,+21.117,2.0,No,20220904,12,101
+10,Aston Martin Aramco Mercedes,10.0,+22.459,1.0,No,20220904,11,101
+11,AlphaTauri RBPT,11.0,+27.009,0.0,No,20220904,10,101
+12,Williams Mercedes,15.0,+30.390,0.0,No,20220904,7,101
+13,Haas Ferrari,8.0,+32.995,0.0,No,20220904,26,101
+14,Aston Martin Aramco Mercedes,19.0,+36.007,0.0,No,20220904,13,101
+15,Haas Ferrari,18.0,+36.869,0.0,No,20220904,20,101
+16,Alfa Romeo Ferrari,14.0,+37.320,0.0,No,20220904,30,101
+17,McLaren Mercedes,17.0,+37.764,0.0,No,20220904,5,101
+18,Williams Mercedes,20.0,+1 lap,0.0,No,20220904,21,101
+NC,Alfa Romeo Ferrari,16.0,DNF,0.0,No,20220904,2,101
+NC,AlphaTauri RBPT,9.0,DNF,0.0,No,20220904,25,101
+1,Red Bull Racing RBPT,7.0,1:20:27.511,25.0,No,20220911,3,26
+2,Ferrari,1.0,+2.446,18.0,No,20220911,8,26
+3,Mercedes,2.0,+3.405,15.0,No,20220911,18,26
+4,Ferrari,18.0,+5.061,12.0,No,20220911,6,26
+5,Mercedes,19.0,+5.380,10.0,No,20220911,1,26
+6,Red Bull Racing RBPT,13.0,+6.091,9.0,Yes,20220911,4,26
+7,McLaren Mercedes,3.0,+6.207,6.0,No,20220911,9,26
+8,AlphaTauri RBPT,5.0,+6.396,4.0,No,20220911,10,26
+9,Williams Mercedes,8.0,+7.122,2.0,No,20220911,31,26
+10,Alfa Romeo Ferrari,9.0,+7.910,1.0,No,20220911,30,26
+11,Alpine Renault,14.0,+8.323,0.0,No,20220911,12,26
+12,Haas Ferrari,17.0,+8.549,0.0,No,20220911,26,26
+13,Alfa Romeo Ferrari,15.0,+1 lap,0.0,No,20220911,2,26
+14,AlphaTauri RBPT,20.0,+1 lap,0.0,No,20220911,25,26
+15,Williams Mercedes,10.0,+1 lap,0.0,No,20220911,21,26
+16,Haas Ferrari,16.0,+1 lap,0.0,No,20220911,20,26
+NC,McLaren Mercedes,4.0,DNF,0.0,No,20220911,5,26
+NC,Aston Martin Aramco Mercedes,12.0,DNF,0.0,No,20220911,11,26
+NC,Alpine Renault,6.0,DNF,0.0,No,20220911,24,26
+NC,Aston Martin Aramco Mercedes,11.0,DNF,0.0,No,20220911,13,26
+1,Red Bull Racing RBPT,2.0,2:02:20.238,25.0,No,20221002,4,146
+2,Ferrari,1.0,+2.595,18.0,No,20221002,8,146
+3,Ferrari,4.0,+10.305,15.0,No,20221002,6,146
+4,McLaren Mercedes,6.0,+21.133,12.0,No,20221002,9,146
+5,McLaren Mercedes,16.0,+53.282,10.0,No,20221002,5,146
+6,Aston Martin Aramco Mercedes,11.0,+56.330,8.0,No,20221002,11,146
+7,Red Bull Racing RBPT,8.0,+58.825,6.0,No,20221002,3,146
+8,Aston Martin Aramco Mercedes,13.0,+60.032,4.0,No,20221002,13,146
+9,Mercedes,3.0,+61.515,2.0,No,20221002,1,146
+10,AlphaTauri RBPT,7.0,+69.576,1.0,No,20221002,10,146
+11,Alfa Romeo Ferrari,15.0,+88.844,0.0,No,20221002,2,146
+12,Haas Ferrari,9.0,+92.610,0.0,No,20221002,20,146
+13,Haas Ferrari,12.0,+1 lap,0.0,No,20221002,26,146
+14,Mercedes,20.0,+2 laps,0.0,No,20221002,18,146
+NC,AlphaTauri RBPT,10.0,DNF,0.0,No,20221002,25,146
+NC,Alpine Renault,17.0,DNF,0.0,No,20221002,12,146
+NC,Williams Mercedes,18.0,DNF,0.0,No,20221002,7,146
+NC,Alpine Renault,5.0,DNF,0.0,No,20221002,24,146
+NC,Williams Mercedes,19.0,DNF,0.0,No,20221002,21,146
+NC,Alfa Romeo Ferrari,14.0,DNF,0.0,No,20221002,30,146
+1,Red Bull Racing RBPT,1.0,3:01:44.004,25.0,No,20221009,3,206
+2,Red Bull Racing RBPT,4.0,+27.066,18.0,No,20221009,4,206
+3,Ferrari,2.0,+31.763,15.0,No,20221009,8,206
+4,Alpine Renault,5.0,+39.685,12.0,No,20221009,12,206
+5,Mercedes,6.0,+40.326,10.0,No,20221009,1,206
+6,Aston Martin Aramco Mercedes,9.0,+46.358,8.0,No,20221009,13,206
+7,Alpine Renault,7.0,+46.369,6.0,No,20221009,24,206
+8,Mercedes,8.0,+47.661,4.0,No,20221009,18,206
+9,Williams Mercedes,19.0,+70.143,2.0,No,20221009,21,206
+10,McLaren Mercedes,10.0,+70.782,1.0,No,20221009,9,206
+11,McLaren Mercedes,11.0,+72.877,0.0,No,20221009,5,206
+12,Aston Martin Aramco Mercedes,18.0,+73.904,0.0,No,20221009,11,206
+13,AlphaTauri RBPT,13.0,+75.599,0.0,No,20221009,25,206
+14,Haas Ferrari,17.0,+86.016,0.0,No,20221009,20,206
+15,Alfa Romeo Ferrari,12.0,+86.496,0.0,No,20221009,2,206
+16,Alfa Romeo Ferrari,14.0,+87.043,0.0,No,20221009,30,206
+17,Haas Ferrari,15.0,+92.523,0.0,No,20221009,26,206
+18,AlphaTauri RBPT,20.0,+108.091,0.0,No,20221009,10,206
+NC,Ferrari,3.0,DNF,0.0,No,20221009,6,206
+NC,Williams Mercedes,16.0,DNF,0.0,No,20221009,7,206
+1,Red Bull Racing RBPT,2.0,1:42:11.687,25.0,No,20221023,3,87
+2,Mercedes,3.0,+5.023,18.0,No,20221023,1,87
+3,Ferrari,12.0,+7.501,15.0,No,20221023,8,87
+4,Red Bull Racing RBPT,9.0,+8.293,12.0,No,20221023,4,87
+5,Mercedes,4.0,+44.815,11.0,Yes,20221023,18,87
+6,McLaren Mercedes,6.0,+53.785,8.0,No,20221023,9,87
+7,Alpine Renault,14.0,+55.078,6.0,No,20221023,24,87
+8,Aston Martin Aramco Mercedes,10.0,+65.354,4.0,No,20221023,13,87
+9,Haas Ferrari,13.0,+65.834,2.0,No,20221023,20,87
+10,AlphaTauri RBPT,19.0,+70.919,1.0,No,20221023,25,87
+11,Alpine Renault,20.0,+72.875,0.0,No,20221023,12,87
+12,Alfa Romeo Ferrari,18.0,+76.164,0.0,No,20221023,30,87
+13,Williams Mercedes,8.0,+80.057,0.0,No,20221023,7,87
+14,AlphaTauri RBPT,11.0,+81.763,0.0,No,20221023,10,87
+15,Haas Ferrari,16.0,+84.490,0.0,No,20221023,26,87
+16,McLaren Mercedes,15.0,+90.487,0.0,No,20221023,5,87
+17,Williams Mercedes,17.0,+103.588,0.0,No,20221023,21,87
+NC,Aston Martin Aramco Mercedes,5.0,DNF,0.0,No,20221023,11,87
+NC,Alfa Romeo Ferrari,7.0,DNF,0.0,No,20221023,2,87
+NC,Ferrari,1.0,DNF,0.0,No,20221023,6,87
+1,Red Bull Racing RBPT,1.0,1:38:36.729,25.0,No,20221030,3,14
+2,Mercedes,3.0,+15.186,18.0,No,20221030,1,14
+3,Red Bull Racing RBPT,4.0,+18.097,15.0,No,20221030,4,14
+4,Mercedes,2.0,+49.431,13.0,Yes,20221030,18,14
+5,Ferrari,5.0,+58.123,10.0,No,20221030,6,14
+6,Ferrari,7.0,+68.774,8.0,No,20221030,8,14
+7,McLaren Mercedes,11.0,+1 lap,6.0,No,20221030,5,14
+8,Alpine Renault,10.0,+1 lap,4.0,No,20221030,12,14
+9,McLaren Mercedes,8.0,+1 lap,2.0,No,20221030,9,14
+10,Alfa Romeo Ferrari,6.0,+1 lap,1.0,No,20221030,2,14
+11,AlphaTauri RBPT,14.0,+1 lap,0.0,No,20221030,10,14
+12,Williams Mercedes,17.0,+1 lap,0.0,No,20221030,7,14
+13,Alfa Romeo Ferrari,12.0,+1 lap,0.0,No,20221030,30,14
+14,Aston Martin Aramco Mercedes,16.0,+1 lap,0.0,No,20221030,13,14
+15,Aston Martin Aramco Mercedes,20.0,+1 lap,0.0,No,20221030,11,14
+16,Haas Ferrari,15.0,+1 lap,0.0,No,20221030,26,14
+17,Haas Ferrari,19.0,+1 lap,0.0,No,20221030,20,14
+18,Williams Mercedes,18.0,+2 laps,0.0,No,20221030,21,14
+NC,Alpine Renault,9.0,DNF,0.0,No,20221030,24,14
+NC,AlphaTauri RBPT,13.0,DNF,0.0,No,20221030,25,14
+1,Mercedes,1.0,1:38:34.044,26.0,Yes,20221113,18,24
+2,Mercedes,2.0,+1.529,18.0,No,20221113,1,24
+3,Ferrari,7.0,+4.051,15.0,No,20221113,6,24
+4,Ferrari,5.0,+8.441,12.0,No,20221113,8,24
+5,Alpine Renault,17.0,+9.561,10.0,No,20221113,24,24
+6,Red Bull Racing RBPT,3.0,+10.056,8.0,No,20221113,3,24
+7,Red Bull Racing RBPT,4.0,+14.080,6.0,No,20221113,4,24
+8,Alpine Renault,16.0,+18.690,4.0,No,20221113,12,24
+9,Alfa Romeo Ferrari,14.0,+22.552,2.0,No,20221113,2,24
+10,Aston Martin Aramco Mercedes,15.0,+23.552,1.0,No,20221113,11,24
+11,Aston Martin Aramco Mercedes,9.0,+26.183,0.0,No,20221113,13,24
+12,Alfa Romeo Ferrari,13.0,+29.325,0.0,No,20221113,30,24
+13,Haas Ferrari,12.0,+29.899,0.0,No,20221113,26,24
+14,AlphaTauri RBPT,10.0,+31.867,0.0,No,20221113,10,24
+15,Williams Mercedes,19.0,+36.016,0.0,No,20221113,7,24
+16,Williams Mercedes,18.0,+37.038,0.0,No,20221113,21,24
+17,AlphaTauri RBPT,20.0,+1 lap,0.0,No,20221113,25,24
+NC,McLaren Mercedes,6.0,DNF,0.0,No,20221113,9,24
+NC,Haas Ferrari,8.0,DNF,0.0,No,20221113,20,24
+NC,McLaren Mercedes,11.0,DNF,0.0,No,20221113,5,24
+1,Red Bull Racing RBPT,1.0,1:27:45.914,25.0,No,20221120,3,210
+2,Ferrari,3.0,+8.771,18.0,No,20221120,8,210
+3,Red Bull Racing RBPT,2.0,+10.093,15.0,No,20221120,4,210
+4,Ferrari,4.0,+24.892,12.0,No,20221120,6,210
+5,Mercedes,6.0,+35.888,10.0,No,20221120,18,210
+6,McLaren Mercedes,7.0,+56.234,9.0,Yes,20221120,9,210
+7,Alpine Renault,8.0,+57.240,6.0,No,20221120,12,210
+8,Aston Martin Aramco Mercedes,14.0,+76.931,4.0,No,20221120,11,210
+9,McLaren Mercedes,13.0,+83.268,2.0,No,20221120,5,210
+10,Aston Martin Aramco Mercedes,9.0,+83.898,1.0,No,20221120,13,210
+11,AlphaTauri RBPT,11.0,+89.371,0.0,No,20221120,25,210
+12,Alfa Romeo Ferrari,15.0,+1 lap,0.0,No,20221120,30,210
+13,Williams Mercedes,19.0,+1 lap,0.0,No,20221120,7,210
+14,AlphaTauri RBPT,17.0,+1 lap,0.0,No,20221120,10,210
+15,Alfa Romeo Ferrari,18.0,+1 lap,0.0,No,20221120,2,210
+16,Haas Ferrari,12.0,+1 lap,0.0,No,20221120,26,210
+17,Haas Ferrari,16.0,+1 lap,0.0,No,20221120,20,210
+NC,Mercedes,5.0,DNF,0.0,No,20221120,1,210
+NC,Williams Mercedes,20.0,DNF,0.0,No,20221120,21,210
+NC,Alpine Renault,10.0,DNF,0.0,No,20221120,24,210
+1,Red Bull Racing Honda RBPT,1.0,1:33:56.736,25.0,No,20230305,3,34
+2,Red Bull Racing Honda RBPT,2.0,+11.987,18.0,No,20230305,4,34
+3,Aston Martin Aramco Mercedes,5.0,+38.637,15.0,No,20230305,24,34
+4,Ferrari,4.0,+48.052,12.0,No,20230305,6,34
+5,Mercedes,7.0,+50.977,10.0,No,20230305,1,34
+6,Aston Martin Aramco Mercedes,8.0,+54.502,8.0,No,20230305,11,34
+7,Mercedes,6.0,+55.873,6.0,No,20230305,18,34
+8,Alfa Romeo Ferrari,12.0,+72.647,4.0,No,20230305,2,34
+9,Alpine Renault,20.0,+73.753,2.0,No,20230305,10,34
+10,Williams Mercedes,15.0,+89.774,1.0,No,20230305,7,34
+11,AlphaTauri Honda RBPT,14.0,+90.870,0.0,No,20230305,25,34
+12,Williams Mercedes,16.0,+1 lap,0.0,No,20230305,35,34
+13,Haas Ferrari,17.0,+1 lap,0.0,No,20230305,20,34
+14,AlphaTauri Honda RBPT,19.0,+1 lap,0.0,No,20230305,31,34
+15,Haas Ferrari,10.0,+1 lap,0.0,No,20230305,15,34
+16,Alfa Romeo Ferrari,13.0,+1 lap,0.0,Yes,20230305,30,34
+17,McLaren Mercedes,11.0,+2 laps,0.0,No,20230305,9,34
+NC,Alpine Renault,9.0,DNF,0.0,No,20230305,12,34
+NC,Ferrari,3.0,DNF,0.0,No,20230305,8,34
+NC,McLaren Mercedes,18.0,DNF,0.0,No,20230305,33,34
+1,Red Bull Racing Honda RBPT,1.0,1:21:14.894,25.0,No,20230319,4,136
+2,Red Bull Racing Honda RBPT,15.0,+5.335,19.0,Yes,20230319,3,136
+3,Aston Martin Aramco Mercedes,2.0,+20.728,15.0,No,20230319,24,136
+4,Mercedes,3.0,+25.866,12.0,No,20230319,18,136
+5,Mercedes,7.0,+31.065,10.0,No,20230319,1,136
+6,Ferrari,4.0,+35.876,8.0,No,20230319,6,136
+7,Ferrari,12.0,+43.162,6.0,No,20230319,8,136
+8,Alpine Renault,6.0,+52.832,4.0,No,20230319,12,136
+9,Alpine Renault,9.0,+54.747,2.0,No,20230319,10,136
+10,Haas Ferrari,13.0,+64.826,1.0,No,20230319,20,136
+11,AlphaTauri Honda RBPT,16.0,+67.494,0.0,No,20230319,25,136
+12,Haas Ferrari,10.0,+70.588,0.0,No,20230319,15,136
+13,Alfa Romeo Ferrari,11.0,+76.060,0.0,No,20230319,30,136
+14,AlphaTauri Honda RBPT,18.0,+77.478,0.0,No,20230319,31,136
+15,McLaren Mercedes,8.0,+85.021,0.0,No,20230319,33,136
+16,Williams Mercedes,20.0,+86.293,0.0,No,20230319,35,136
+17,McLaren Mercedes,19.0,+86.445,0.0,No,20230319,9,136
+18,Alfa Romeo Ferrari,14.0,+1 lap,0.0,No,20230319,2,136
+NC,Williams Mercedes,17.0,DNF,0.0,No,20230319,7,136
+NC,Aston Martin Aramco Mercedes,5.0,DNF,0.0,No,20230319,11,136
+1,Red Bull Racing Honda RBPT,1.0,2:32:28.371,25.0,No,20230402,3,8
+2,Mercedes,3.0,+0.179,18.0,No,20230402,1,8
+3,Aston Martin Aramco Mercedes,4.0,+0.769,15.0,No,20230402,24,8
+4,Aston Martin Aramco Mercedes,6.0,+3.082,12.0,No,20230402,11,8
+5,Red Bull Racing Honda RBPT,20.0,+3.320,11.0,Yes,20230402,4,8
+6,McLaren Mercedes,13.0,+3.701,8.0,No,20230402,9,8
+7,Haas Ferrari,10.0,+4.939,6.0,No,20230402,15,8
+8,McLaren Mercedes,16.0,+5.382,4.0,No,20230402,33,8
+9,Alfa Romeo Ferrari,17.0,+5.713,2.0,No,20230402,30,8
+10,AlphaTauri Honda RBPT,12.0,+6.052,1.0,No,20230402,25,8
+11,Alfa Romeo Ferrari,19.0,+6.513,0.0,No,20230402,2,8
+12,Ferrari,5.0,+6.594,0.0,No,20230402,6,8
+NC,Alpine Renault,9.0,DNF,0.0,No,20230402,10,8
+NC,Alpine Renault,11.0,DNF,0.0,No,20230402,12,8
+NC,AlphaTauri Honda RBPT,15.0,DNF,0.0,No,20230402,31,8
+NC,Williams Mercedes,18.0,DNF,0.0,No,20230402,35,8
+NC,Haas Ferrari,14.0,DNF,0.0,No,20230402,20,8
+NC,Mercedes,2.0,DNF,0.0,No,20230402,18,8
+NC,Williams Mercedes,8.0,DNF,0.0,No,20230402,7,8
+NC,Ferrari,7.0,DNF,0.0,No,20230402,8,8
+1,Red Bull Racing Honda RBPT,3.0,1:32:42.436,25.0,No,20230430,4,36
+2,Red Bull Racing Honda RBPT,2.0,+2.137,18.0,No,20230430,3,36
+3,Ferrari,1.0,+21.217,15.0,No,20230430,8,36
+4,Aston Martin Aramco Mercedes,6.0,+22.024,12.0,No,20230430,24,36
+5,Ferrari,4.0,+45.491,10.0,No,20230430,6,36
+6,Mercedes,5.0,+46.145,8.0,No,20230430,1,36
+7,Aston Martin Aramco Mercedes,9.0,+51.617,6.0,No,20230430,11,36
+8,Mercedes,11.0,+74.240,5.0,Yes,20230430,18,36
+9,McLaren Mercedes,7.0,+80.376,2.0,No,20230430,9,36
+10,AlphaTauri Honda RBPT,8.0,+83.862,1.0,No,20230430,25,36
+11,McLaren Mercedes,10.0,+86.501,0.0,No,20230430,33,36
+12,Williams Mercedes,12.0,+88.623,0.0,No,20230430,7,36
+13,Haas Ferrari,16.0,+89.729,0.0,No,20230430,20,36
+14,Alpine Renault,17.0,+91.332,0.0,No,20230430,10,36
+15,Alpine Renault,19.0,+97.794,0.0,No,20230430,12,36
+16,Williams Mercedes,14.0,+100.943,0.0,No,20230430,35,36
+17,Haas Ferrari,20.0,+1 lap,0.0,No,20230430,15,36
+18,Alfa Romeo Ferrari,13.0,+1 lap,0.0,No,20230430,2,36
+NC,Alfa Romeo Ferrari,15.0,DNF,0.0,No,20230430,30,36
+NC,AlphaTauri Honda RBPT,18.0,DNF,0.0,No,20230430,31,36
+1,Red Bull Racing Honda RBPT,9.0,1:27:38.241,26.0,Yes,20230507,3,147
+2,Red Bull Racing Honda RBPT,1.0,+5.384,18.0,No,20230507,4,147
+3,Aston Martin Aramco Mercedes,2.0,+26.305,15.0,No,20230507,24,147
+4,Mercedes,6.0,+33.229,12.0,No,20230507,18,147
+5,Ferrari,3.0,+42.511,10.0,No,20230507,6,147
+6,Mercedes,13.0,+51.249,8.0,No,20230507,1,147
+7,Ferrari,7.0,+52.988,6.0,No,20230507,8,147
+8,Alpine Renault,5.0,+55.670,4.0,No,20230507,10,147
+9,Alpine Renault,8.0,+58.123,2.0,No,20230507,12,147
+10,Haas Ferrari,4.0,+62.945,1.0,No,20230507,20,147
+11,AlphaTauri Honda RBPT,17.0,+64.309,0.0,No,20230507,25,147
+12,Aston Martin Aramco Mercedes,18.0,+64.754,0.0,No,20230507,11,147
+13,Alfa Romeo Ferrari,10.0,+71.637,0.0,No,20230507,2,147
+14,Williams Mercedes,11.0,+72.861,0.0,No,20230507,7,147
+15,Haas Ferrari,12.0,+74.950,0.0,No,20230507,15,147
+16,Alfa Romeo Ferrari,14.0,+78.440,0.0,No,20230507,30,147
+17,McLaren Mercedes,16.0,+87.717,0.0,No,20230507,9,147
+18,AlphaTauri Honda RBPT,15.0,+88.949,0.0,No,20230507,31,147
+19,McLaren Mercedes,19.0,+1 lap,0.0,No,20230507,33,147
+20,Williams Mercedes,20.0,+1 lap,0.0,No,20230507,35,147
+1,Red Bull Racing Honda RBPT,1.0,1:48:51.980,25.0,No,20230528,3,57
+2,Aston Martin Aramco Mercedes,2.0,+27.921,18.0,No,20230528,24,57
+3,Alpine Renault,3.0,+36.990,15.0,No,20230528,12,57
+4,Mercedes,5.0,+39.062,13.0,Yes,20230528,1,57
+5,Mercedes,8.0,+56.284,10.0,No,20230528,18,57
+6,Ferrari,6.0,+61.890,8.0,No,20230528,8,57
+7,Alpine Renault,7.0,+62.362,6.0,No,20230528,10,57
+8,Ferrari,4.0,+63.391,4.0,No,20230528,6,57
+9,McLaren Mercedes,10.0,+1 lap,2.0,No,20230528,9,57
+10,McLaren Mercedes,11.0,+1 lap,1.0,No,20230528,33,57
+11,Alfa Romeo Ferrari,15.0,+1 lap,0.0,No,20230528,2,57
+12,AlphaTauri Honda RBPT,12.0,+1 lap,0.0,No,20230528,31,57
+13,Alfa Romeo Ferrari,19.0,+1 lap,0.0,No,20230528,30,57
+14,Williams Mercedes,13.0,+1 lap,0.0,No,20230528,7,57
+15,AlphaTauri Honda RBPT,9.0,+2 laps,0.0,No,20230528,25,57
+16,Red Bull Racing Honda RBPT,20.0,+2 laps,0.0,No,20230528,4,57
+17,Haas Ferrari,18.0,+2 laps,0.0,No,20230528,15,57
+18,Williams Mercedes,16.0,+2 laps,0.0,No,20230528,35,57
+NC,Haas Ferrari,17.0,DNF,0.0,No,20230528,20,57
+NC,Aston Martin Aramco Mercedes,14.0,DNF,0.0,No,20230528,11,57
+1,Red Bull Racing Honda RBPT,1.0,1:27:57.940,26.0,Yes,20230604,3,54
+2,Mercedes,4.0,+24.090,18.0,No,20230604,1,54
+3,Mercedes,12.0,+32.389,15.0,No,20230604,18,54
+4,Red Bull Racing Honda RBPT,11.0,+35.812,12.0,No,20230604,4,54
+5,Ferrari,2.0,+45.698,10.0,No,20230604,6,54
+6,Aston Martin Aramco Mercedes,5.0,+63.320,8.0,No,20230604,11,54
+7,Aston Martin Aramco Mercedes,8.0,+64.127,6.0,No,20230604,24,54
+8,Alpine Renault,6.0,+69.242,4.0,No,20230604,12,54
+9,Alfa Romeo Ferrari,13.0,+71.878,2.0,No,20230604,30,54
+10,Alpine Renault,10.0,+73.530,1.0,No,20230604,10,54
+11,Ferrari,19.0,+74.419,0.0,No,20230604,8,54
+12,AlphaTauri Honda RBPT,15.0,+75.416,0.0,No,20230604,25,54
+13,McLaren Mercedes,9.0,+1 lap,0.0,No,20230604,33,54
+14,AlphaTauri Honda RBPT,14.0,+1 lap,0.0,No,20230604,31,54
+15,Haas Ferrari,7.0,+1 lap,0.0,No,20230604,15,54
+16,Williams Mercedes,18.0,+1 lap,0.0,No,20230604,7,54
+17,McLaren Mercedes,3.0,+1 lap,0.0,No,20230604,9,54
+18,Haas Ferrari,17.0,+1 lap,0.0,No,20230604,20,54
+19,Alfa Romeo Ferrari,16.0,+1 lap,0.0,No,20230604,2,54
+20,Williams Mercedes,20.0,+1 lap,0.0,No,20230604,35,54
+1,Red Bull Racing Honda RBPT,1.0,1:33:58.348,25.0,No,20230618,3,83
+2,Aston Martin Aramco Mercedes,2.0,+9.570,18.0,No,20230618,24,83
+3,Mercedes,3.0,+14.168,15.0,No,20230618,1,83
+4,Ferrari,10.0,+18.648,12.0,No,20230618,8,83
+5,Ferrari,11.0,+21.540,10.0,No,20230618,6,83
+6,Red Bull Racing Honda RBPT,12.0,+51.028,9.0,Yes,20230618,4,83
+7,Williams Mercedes,9.0,+60.813,6.0,No,20230618,7,83
+8,Alpine Renault,6.0,+61.692,4.0,No,20230618,12,83
+9,Aston Martin Aramco Mercedes,16.0,+64.402,2.0,No,20230618,11,83
+10,Alfa Romeo Ferrari,14.0,+64.432,1.0,No,20230618,2,83
+11,McLaren Mercedes,8.0,+65.101,0.0,No,20230618,33,83
+12,Alpine Renault,15.0,+65.249,0.0,No,20230618,10,83
+13,McLaren Mercedes,7.0,+68.363,0.0,No,20230618,9,83
+14,AlphaTauri Honda RBPT,19.0,+73.423,0.0,No,20230618,25,83
+15,Haas Ferrari,5.0,+1 lap,0.0,No,20230618,15,83
+16,Alfa Romeo Ferrari,20.0,+1 lap,0.0,No,20230618,30,83
+17,Haas Ferrari,13.0,+1 lap,0.0,No,20230618,20,83
+18,AlphaTauri Honda RBPT,17.0,+1 lap,0.0,No,20230618,31,83
+NC,Mercedes,4.0,DNF,0.0,No,20230618,18,83
+NC,Williams Mercedes,18.0,DNF,0.0,No,20230618,35,83
+1,Red Bull Racing Honda RBPT,1.0,1:25:33.607,26.0,Yes,20230702,3,174
+2,Ferrari,2.0,+5.155,18.0,No,20230702,8,174
+3,Red Bull Racing Honda RBPT,15.0,+17.188,15.0,No,20230702,4,174
+4,McLaren Mercedes,4.0,+26.327,12.0,No,20230702,9,174
+5,Aston Martin Aramco Mercedes,7.0,+30.317,10.0,No,20230702,24,174
+6,Ferrari,3.0,+31.377,8.0,No,20230702,6,174
+7,Mercedes,11.0,+48.403,6.0,No,20230702,18,174
+8,Mercedes,5.0,+49.196,4.0,No,20230702,1,174
+9,Aston Martin Aramco Mercedes,6.0,+59.043,2.0,No,20230702,11,174
+10,Alpine Renault,9.0,+67.667,1.0,No,20230702,10,174
+11,Williams Mercedes,10.0,+79.767,0.0,No,20230702,7,174
+12,Alfa Romeo Ferrari,17.0,+1 lap,0.0,No,20230702,30,174
+13,Williams Mercedes,18.0,+1 lap,0.0,No,20230702,35,174
+14,Alpine Renault,12.0,+1 lap,0.0,No,20230702,12,174
+15,Alfa Romeo Ferrari,14.0,+1 lap,0.0,No,20230702,2,174
+16,McLaren Mercedes,13.0,+1 lap,0.0,No,20230702,33,174
+17,AlphaTauri Honda RBPT,20.0,+1 lap,0.0,No,20230702,31,174
+18,Haas Ferrari,19.0,+1 lap,0.0,No,20230702,20,174
+19,AlphaTauri Honda RBPT,16.0,+1 lap,0.0,No,20230702,25,174
+NC,Haas Ferrari,8.0,DNF,0.0,No,20230702,15,174
+1,Red Bull Racing Honda RBPT,1.0,1:25:16.938,26.0,Yes,20230709,3,202
+2,McLaren Mercedes,2.0,+3.798,18.0,No,20230709,9,202
+3,Mercedes,7.0,+6.783,15.0,No,20230709,1,202
+4,McLaren Mercedes,3.0,+7.776,12.0,No,20230709,33,202
+5,Mercedes,6.0,+11.206,10.0,No,20230709,18,202
+6,Red Bull Racing Honda RBPT,15.0,+12.882,8.0,No,20230709,4,202
+7,Aston Martin Aramco Mercedes,9.0,+17.193,6.0,No,20230709,24,202
+8,Williams Mercedes,8.0,+17.878,4.0,No,20230709,7,202
+9,Ferrari,4.0,+18.689,2.0,No,20230709,8,202
+10,Ferrari,5.0,+19.448,1.0,No,20230709,6,202
+11,Williams Mercedes,14.0,+23.632,0.0,No,20230709,35,202
+12,Alfa Romeo Ferrari,20.0,+25.830,0.0,No,20230709,2,202
+13,Haas Ferrari,11.0,+26.663,0.0,No,20230709,15,202
+14,Aston Martin Aramco Mercedes,12.0,+27.483,0.0,No,20230709,11,202
+15,Alfa Romeo Ferrari,17.0,+29.820,0.0,No,20230709,30,202
+16,AlphaTauri Honda RBPT,16.0,+31.225,0.0,No,20230709,25,202
+17,AlphaTauri Honda RBPT,18.0,+33.128,0.0,No,20230709,31,202
+NC,Alpine Renault,10.0,DNF,0.0,No,20230709,10,202
+NC,Haas Ferrari,19.0,DNF,0.0,No,20230709,20,202
+NC,Alpine Renault,13.0,DNF,0.0,No,20230709,12,202
+1,Red Bull Racing Honda RBPT,2.0,1:38:08.634,26.0,Yes,20230723,3,131
+2,McLaren Mercedes,3.0,+33.731,18.0,No,20230723,9,131
+3,Red Bull Racing Honda RBPT,9.0,+37.603,15.0,No,20230723,4,131
+4,Mercedes,1.0,+39.134,12.0,No,20230723,1,131
+5,McLaren Mercedes,4.0,+62.572,10.0,No,20230723,33,131
+6,Mercedes,18.0,+65.825,8.0,No,20230723,18,131
+7,Ferrari,6.0,+70.317,6.0,No,20230723,8,131
+8,Ferrari,11.0,+71.073,4.0,No,20230723,6,131
+9,Aston Martin Aramco Mercedes,8.0,+75.709,2.0,No,20230723,24,131
+10,Aston Martin Aramco Mercedes,14.0,+1 lap,1.0,No,20230723,11,131
+11,Williams Mercedes,16.0,+1 lap,0.0,No,20230723,7,131
+12,Alfa Romeo Ferrari,7.0,+1 lap,0.0,No,20230723,2,131
+13,AlphaTauri Honda RBPT,13.0,+1 lap,0.0,No,20230723,5,131
+14,Haas Ferrari,10.0,+1 lap,0.0,No,20230723,15,131
+15,AlphaTauri Honda RBPT,17.0,+1 lap,0.0,No,20230723,25,131
+16,Alfa Romeo Ferrari,5.0,+1 lap,0.0,No,20230723,30,131
+17,Haas Ferrari,19.0,+1 lap,0.0,No,20230723,20,131
+NC,Williams Mercedes,20.0,DNF,0.0,No,20230723,35,131
+NC,Alpine Renault,12.0,DNF,0.0,No,20230723,12,131
+NC,Alpine Renault,15.0,DNF,0.0,No,20230723,10,131
+1,Red Bull Racing Honda RBPT,6.0,1:22:30.450,25.0,No,20230730,3,74
+2,Red Bull Racing Honda RBPT,2.0,+22.305,18.0,No,20230730,4,74
+3,Ferrari,1.0,+32.259,15.0,No,20230730,8,74
+4,Mercedes,3.0,+49.671,13.0,Yes,20230730,1,74
+5,Aston Martin Aramco Mercedes,9.0,+56.184,10.0,No,20230730,24,74
+6,Mercedes,8.0,+63.101,8.0,No,20230730,18,74
+7,McLaren Mercedes,7.0,+73.719,6.0,No,20230730,9,74
+8,Alpine Renault,14.0,+74.719,4.0,No,20230730,12,74
+9,Aston Martin Aramco Mercedes,10.0,+79.340,2.0,No,20230730,11,74
+10,AlphaTauri Honda RBPT,11.0,+80.221,1.0,No,20230730,25,74
+11,Alpine Renault,12.0,+83.084,0.0,No,20230730,10,74
+12,Alfa Romeo Ferrari,13.0,+85.191,0.0,No,20230730,2,74
+13,Alfa Romeo Ferrari,17.0,+95.441,0.0,No,20230730,30,74
+14,Williams Mercedes,15.0,+96.184,0.0,No,20230730,7,74
+15,Haas Ferrari,16.0,+101.754,0.0,No,20230730,20,74
+16,AlphaTauri Honda RBPT,19.0,+103.071,0.0,No,20230730,5,74
+17,Williams Mercedes,18.0,+104.476,0.0,No,20230730,35,74
+18,Haas Ferrari,20.0,+110.450,0.0,No,20230730,15,74
+NC,Ferrari,4.0,DNF,0.0,No,20230730,6,74
+NC,McLaren Mercedes,5.0,DNF,0.0,No,20230730,33,74
+1,Red Bull Racing Honda RBPT,1.0,2:24:04.411,25.0,No,20230827,3,101
+2,Aston Martin Aramco Mercedes,5.0,+3.744,19.0,Yes,20230827,24,101
+3,Alpine Renault,12.0,+7.058,15.0,No,20230827,10,101
+4,Red Bull Racing Honda RBPT,7.0,+10.068,12.0,No,20230827,4,101
+5,Ferrari,6.0,+12.541,10.0,No,20230827,6,101
+6,Mercedes,13.0,+13.209,8.0,No,20230827,1,101
+7,McLaren Mercedes,2.0,+13.232,6.0,No,20230827,9,101
+8,Williams Mercedes,4.0,+15.155,4.0,No,20230827,7,101
+9,McLaren Mercedes,8.0,+16.580,2.0,No,20230827,33,101
+10,Alpine Renault,16.0,+18.346,1.0,No,20230827,12,101
+11,Aston Martin Aramco Mercedes,11.0,+20.087,0.0,No,20230827,11,101
+12,Haas Ferrari,14.0,+20.840,0.0,No,20230827,15,101
+13,AlphaTauri Honda RBPT,19.0,+26.147,0.0,No,20230827,34,101
+14,Alfa Romeo Ferrari,18.0,+27.388,0.0,No,20230827,2,101
+15,AlphaTauri Honda RBPT,17.0,+29.893,0.0,No,20230827,25,101
+16,Haas Ferrari,20.0,+31.410,0.0,No,20230827,20,101
+17,Mercedes,3.0,+55.754,0.0,No,20230827,18,101
+NC,Alfa Romeo Ferrari,15.0,DNF,0.0,No,20230827,30,101
+NC,Ferrari,9.0,DNF,0.0,No,20230827,8,101
+NC,Williams Mercedes,10.0,DNF,0.0,No,20230827,35,101
+1,Red Bull Racing Honda RBPT,2.0,1:13:41.143,25.0,No,20230903,3,26
+2,Red Bull Racing Honda RBPT,5.0,+6.064,18.0,No,20230903,4,26
+3,Ferrari,1.0,+11.193,15.0,No,20230903,6,26
+4,Ferrari,3.0,+11.377,12.0,No,20230903,8,26
+5,Mercedes,4.0,+23.028,10.0,No,20230903,18,26
+6,Mercedes,8.0,+42.679,8.0,No,20230903,1,26
+7,Williams Mercedes,6.0,+45.106,6.0,No,20230903,7,26
+8,McLaren Mercedes,9.0,+45.449,4.0,No,20230903,9,26
+9,Aston Martin Aramco Mercedes,10.0,+46.294,2.0,No,20230903,24,26
+10,Alfa Romeo Ferrari,14.0,+64.056,1.0,No,20230903,2,26
+11,AlphaTauri Honda RBPT,12.0,+70.638,0.0,No,20230903,34,26
+12,McLaren Mercedes,7.0,+73.074,0.0,Yes,20230903,33,26
+13,Williams Mercedes,15.0,+78.557,0.0,No,20230903,35,26
+14,Alfa Romeo Ferrari,16.0,+80.164,0.0,No,20230903,30,26
+15,Alpine Renault,17.0,+82.510,0.0,No,20230903,10,26
+16,Aston Martin Aramco Mercedes,20.0,+87.266,0.0,No,20230903,11,26
+17,Haas Ferrari,13.0,+1 lap,0.0,No,20230903,15,26
+18,Haas Ferrari,19.0,+1 lap,0.0,No,20230903,20,26
+NC,Alpine Renault,18.0,DNF,0.0,No,20230903,12,26
+NC,AlphaTauri Honda RBPT,11.0,DNF,0.0,No,20230903,25,26
+1,Ferrari,1.0,1:46:37.418,25.0,No,20230917,6,146
+2,McLaren Mercedes,4.0,+0.812,18.0,No,20230917,9,146
+3,Mercedes,5.0,+1.269,16.0,Yes,20230917,1,146
+4,Ferrari,3.0,+21.177,12.0,No,20230917,8,146
+5,Red Bull Racing Honda RBPT,11.0,+21.441,10.0,No,20230917,3,146
+6,Alpine Renault,12.0,+38.441,8.0,No,20230917,10,146
+7,McLaren Mercedes,17.0,+41.479,6.0,No,20230917,33,146
+8,Red Bull Racing Honda RBPT,13.0,+54.534,4.0,No,20230917,4,146
+9,AlphaTauri Honda RBPT,10.0,+65.918,2.0,No,20230917,34,146
+10,Haas Ferrari,6.0,+72.116,1.0,No,20230917,20,146
+11,Williams Mercedes,14.0,+73.417,0.0,No,20230917,7,146
+12,Alfa Romeo Ferrari,19.0,+83.649,0.0,No,20230917,30,146
+13,Haas Ferrari,9.0,+85.201,0.0,No,20230917,15,146
+14,Williams Mercedes,18.0,+86.889,0.0,No,20230917,35,146
+15,Aston Martin Aramco Mercedes,7.0,+87.603,0.0,No,20230917,24,146
+NC,Mercedes,2.0,DNF,0.0,No,20230917,18,146
+NC,Alfa Romeo Ferrari,16.0,DNF,0.0,No,20230917,2,146
+NC,Alpine Renault,8.0,DNF,0.0,No,20230917,12,146
+NC,AlphaTauri Honda RBPT,15.0,DNF,0.0,No,20230917,25,146
+NC,Aston Martin Aramco Mercedes,20.0,DNF,0.0,No,20230917,11,146
+1,Red Bull Racing Honda RBPT,1.0,1:30:58.421,26.0,Yes,20230924,3,206
+2,McLaren Mercedes,3.0,+19.387,18.0,No,20230924,9,206
+3,McLaren Mercedes,2.0,+36.494,15.0,No,20230924,33,206
+4,Ferrari,4.0,+43.998,12.0,No,20230924,8,206
+5,Mercedes,7.0,+49.376,10.0,No,20230924,1,206
+6,Ferrari,6.0,+50.221,8.0,No,20230924,6,206
+7,Mercedes,8.0,+57.659,6.0,No,20230924,18,206
+8,Aston Martin Aramco Mercedes,10.0,+74.725,4.0,No,20230924,24,206
+9,Alpine Renault,14.0,+79.678,2.0,No,20230924,12,206
+10,Alpine Renault,12.0,+83.155,1.0,No,20230924,10,206
+11,AlphaTauri Honda RBPT,11.0,+1 lap,0.0,No,20230924,34,206
+12,AlphaTauri Honda RBPT,9.0,+1 lap,0.0,No,20230924,25,206
+13,Alfa Romeo Ferrari,19.0,+1 lap,0.0,No,20230924,30,206
+14,Haas Ferrari,18.0,+1 lap,0.0,No,20230924,15,206
+15,Haas Ferrari,15.0,+1 lap,0.0,No,20230924,20,206
+NC,Williams Mercedes,13.0,DNF,0.0,No,20230924,7,206
+NC,Williams Mercedes,20.0,DNF,0.0,No,20230924,35,206
+NC,Aston Martin Aramco Mercedes,17.0,DNF,0.0,No,20230924,11,206
+NC,Red Bull Racing Honda RBPT,5.0,DNF,0.0,No,20230924,4,206
+NC,Alfa Romeo Ferrari,16.0,DNF,0.0,No,20230924,2,206
+1,Red Bull Racing Honda RBPT,1.0,1:27:39.168,26.0,Yes,20231008,3,144
+2,McLaren Mercedes,6.0,+4.833,18.0,No,20231008,33,144
+3,McLaren Mercedes,10.0,+5.969,15.0,No,20231008,9,144
+4,Mercedes,2.0,+34.119,12.0,No,20231008,18,144
+5,Ferrari,5.0,+38.976,10.0,No,20231008,8,144
+6,Aston Martin Aramco Mercedes,4.0,+49.032,8.0,No,20231008,24,144
+7,Alpine Renault,8.0,+62.390,6.0,No,20231008,12,144
+8,Alfa Romeo Ferrari,9.0,+66.563,4.0,No,20231008,2,144
+9,Alfa Romeo Ferrari,19.0,+76.127,2.0,No,20231008,30,144
+10,Red Bull Racing Honda RBPT,20.0,+80.181,1.0,No,20231008,4,144
+11,Aston Martin Aramco Mercedes,16.0,+81.652,0.0,No,20231008,11,144
+12,Alpine Renault,7.0,+82.300,0.0,No,20231008,10,144
+13,Williams Mercedes,13.0,+91.014,0.0,No,20231008,7,144
+14,Haas Ferrari,18.0,+1 lap,0.0,No,20231008,20,144
+15,AlphaTauri Honda RBPT,11.0,+1 lap,0.0,No,20231008,25,144
+16,Haas Ferrari,14.0,+1 lap,0.0,No,20231008,15,144
+17,AlphaTauri Honda RBPT,17.0,+1 lap,0.0,No,20231008,34,144
+NC,Williams Mercedes,15.0,DNF,0.0,No,20231008,35,144
+NC,Mercedes,3.0,DNF,0.0,No,20231008,1,144
+NC,Ferrari,12.0,DNF,0.0,No,20231008,6,144
+1,Red Bull Racing Honda RBPT,6.0,1:35:21.362,25.0,No,20231022,3,87
+DQ,Mercedes,3.0,+2.225,0.0,No,20231022,1,87
+2,McLaren Mercedes,2.0,+10.730,18.0,No,20231022,9,87
+3,Ferrari,4.0,+15.134,15.0,No,20231022,6,87
+4,Red Bull Racing Honda RBPT,9.0,+18.460,12.0,No,20231022,4,87
+DQ,Ferrari,1.0,+24.662,0.0,No,20231022,8,87
+5,Mercedes,5.0,+24.999,10.0,No,20231022,18,87
+6,Alpine Renault,7.0,+47.996,8.0,No,20231022,10,87
+7,Aston Martin Aramco Mercedes,20.0,+48.696,6.0,No,20231022,11,87
+8,AlphaTauri Honda RBPT,11.0,+74.385,5.0,Yes,20231022,25,87
+9,Williams Mercedes,15.0,+86.714,2.0,No,20231022,7,87
+10,Williams Mercedes,16.0,+87.998,1.0,No,20231022,35,87
+11,Haas Ferrari,18.0,+89.904,0.0,No,20231022,15,87
+12,Alfa Romeo Ferrari,13.0,+98.601,0.0,No,20231022,2,87
+13,Alfa Romeo Ferrari,12.0,+1 lap,0.0,No,20231022,30,87
+14,Haas Ferrari,17.0,+1 lap,0.0,No,20231022,20,87
+15,AlphaTauri Honda RBPT,14.0,+1 lap,0.0,No,20231022,5,87
+NC,Aston Martin Aramco Mercedes,19.0,DNF,0.0,No,20231022,24,87
+NC,McLaren Mercedes,10.0,DNF,0.0,No,20231022,33,87
+NC,Alpine Renault,8.0,DNF,0.0,No,20231022,12,87
+1,Red Bull Racing Honda RBPT,3.0,2:02:30.814,25.0,No,20231029,3,14
+2,Mercedes,6.0,+13.875,19.0,Yes,20231029,1,14
+3,Ferrari,1.0,+23.124,15.0,No,20231029,8,14
+4,Ferrari,2.0,+27.154,12.0,No,20231029,6,14
+5,McLaren Mercedes,17.0,+33.266,10.0,No,20231029,9,14
+6,Mercedes,8.0,+41.020,8.0,No,20231029,18,14
+7,AlphaTauri Honda RBPT,4.0,+41.570,6.0,No,20231029,5,14
+8,McLaren Mercedes,7.0,+43.104,4.0,No,20231029,33,14
+9,Williams Mercedes,14.0,+48.573,2.0,No,20231029,7,14
+10,Alpine Renault,15.0,+62.879,1.0,No,20231029,12,14
+11,Alpine Renault,11.0,+66.208,0.0,No,20231029,10,14
+12,AlphaTauri Honda RBPT,18.0,+78.982,0.0,No,20231029,25,14
+13,Haas Ferrari,12.0,+80.309,0.0,No,20231029,15,14
+14,Alfa Romeo Ferrari,10.0,+81.676,0.0,No,20231029,30,14
+15,Alfa Romeo Ferrari,9.0,+85.597,0.0,No,20231029,2,14
+NC,Williams Mercedes,19.0,DNF,0.0,No,20231029,35,14
+NC,Aston Martin Aramco Mercedes,20.0,DNF,0.0,No,20231029,11,14
+NC,Aston Martin Aramco Mercedes,13.0,DNF,0.0,No,20231029,24,14
+NC,Haas Ferrari,16.0,DNF,0.0,No,20231029,20,14
+NC,Red Bull Racing Honda RBPT,5.0,DNF,0.0,No,20231029,4,14
+1,Red Bull Racing Honda RBPT,1.0,1:56:48.894,25.0,No,20231105,3,24
+2,McLaren Mercedes,6.0,+8.227,19.0,Yes,20231105,9,24
+3,Aston Martin Aramco Mercedes,4.0,+34.155,15.0,No,20231105,24,24
+4,Red Bull Racing Honda RBPT,9.0,+34.208,12.0,No,20231105,4,24
+5,Aston Martin Aramco Mercedes,3.0,+40.845,10.0,No,20231105,11,24
+6,Ferrari,7.0,+50.188,8.0,No,20231105,6,24
+7,Alpine Renault,15.0,+56.093,6.0,No,20231105,10,24
+8,Mercedes,5.0,+62.859,4.0,No,20231105,1,24
+9,AlphaTauri Honda RBPT,16.0,+69.880,2.0,No,20231105,25,24
+10,Alpine Renault,14.0,+1 lap,1.0,No,20231105,12,24
+11,Williams Mercedes,19.0,+1 lap,0.0,No,20231105,35,24
+12,Haas Ferrari,11.0,+1 lap,0.0,No,20231105,15,24
+13,AlphaTauri Honda RBPT,17.0,+1 lap,0.0,No,20231105,5,24
+14,McLaren Mercedes,10.0,+2 laps,0.0,No,20231105,33,24
+NC,Mercedes,8.0,DNF,0.0,No,20231105,18,24
+NC,Alfa Romeo Ferrari,18.0,DNF,0.0,No,20231105,2,24
+NC,Alfa Romeo Ferrari,20.0,DNF,0.0,No,20231105,30,24
+NC,Haas Ferrari,12.0,DNF,0.0,No,20231105,20,24
+NC,Williams Mercedes,13.0,DNF,0.0,No,20231105,7,24
+NC,Ferrari,2.0,DNF,0.0,No,20231105,8,24
+1,Red Bull Racing Honda RBPT,2.0,1:29:08.289,25.0,No,20231118,3,141
+2,Ferrari,1.0,+2.070,18.0,No,20231118,8,141
+3,Red Bull Racing Honda RBPT,11.0,+2.241,15.0,No,20231118,4,141
+4,Alpine Renault,16.0,+18.665,12.0,No,20231118,12,141
+5,Aston Martin Aramco Mercedes,19.0,+20.067,10.0,No,20231118,11,141
+6,Ferrari,12.0,+20.834,8.0,No,20231118,6,141
+7,Mercedes,10.0,+21.755,6.0,No,20231118,1,141
+8,Mercedes,3.0,+23.091,4.0,No,20231118,18,141
+9,Aston Martin Aramco Mercedes,9.0,+25.964,2.0,No,20231118,24,141
+10,McLaren Mercedes,18.0,+29.496,2.0,Yes,20231118,33,141
+11,Alpine Renault,4.0,+34.270,0.0,No,20231118,10,141
+12,Williams Mercedes,5.0,+43.398,0.0,No,20231118,7,141
+13,Haas Ferrari,8.0,+44.825,0.0,No,20231118,20,141
+14,AlphaTauri Honda RBPT,14.0,+48.525,0.0,No,20231118,5,141
+15,Alfa Romeo Ferrari,17.0,+50.162,0.0,No,20231118,30,141
+16,Williams Mercedes,6.0,+50.882,0.0,No,20231118,35,141
+17,Alfa Romeo Ferrari,7.0,+85.350,0.0,No,20231118,2,141
+NC,AlphaTauri Honda RBPT,20.0,DNF,0.0,No,20231118,25,141
+NC,Haas Ferrari,13.0,DNF,0.0,No,20231118,15,141
+NC,McLaren Mercedes,15.0,DNF,0.0,No,20231118,9,141
+1,Red Bull Racing Honda RBPT,1.0,1:27:02.624,26.0,Yes,20231126,3,210
+2,Ferrari,2.0,+17.993,18.0,No,20231126,8,210
+3,Mercedes,4.0,+20.328,15.0,No,20231126,18,210
+4,Red Bull Racing Honda RBPT,9.0,+21.453,12.0,No,20231126,4,210
+5,McLaren Mercedes,5.0,+24.284,10.0,No,20231126,9,210
+6,McLaren Mercedes,3.0,+31.487,8.0,No,20231126,33,210
+7,Aston Martin Aramco Mercedes,7.0,+39.512,6.0,No,20231126,24,210
+8,AlphaTauri Honda RBPT,6.0,+43.088,4.0,No,20231126,25,210
+9,Mercedes,11.0,+44.424,2.0,No,20231126,1,210
+10,Aston Martin Aramco Mercedes,13.0,+55.632,1.0,No,20231126,11,210
+11,AlphaTauri Honda RBPT,15.0,+56.229,0.0,No,20231126,5,210
+12,Alpine Renault,12.0,+66.373,0.0,No,20231126,12,210
+13,Alpine Renault,10.0,+70.360,0.0,No,20231126,10,210
+14,Williams Mercedes,14.0,+73.184,0.0,No,20231126,7,210
+15,Haas Ferrari,8.0,+83.696,0.0,No,20231126,15,210
+16,Williams Mercedes,20.0,+87.791,0.0,No,20231126,35,210
+17,Alfa Romeo Ferrari,19.0,+89.422,0.0,No,20231126,30,210
+NC,Ferrari,16.0,DNF,0.0,No,20231126,6,210
+19,Alfa Romeo Ferrari,18.0,+1 lap,0.0,No,20231126,2,210
+20,Haas Ferrari,17.0,+1 lap,0.0,No,20231126,20,210
+1,Red Bull Racing Honda RBPT,1.0,1:31:44.742,26.0,Yes,20240302,3,34
+2,Red Bull Racing Honda RBPT,5.0,+22.457,18.0,No,20240302,4,34
+3,Ferrari,4.0,+25.110,15.0,No,20240302,6,34
+4,Ferrari,2.0,+39.669,12.0,No,20240302,8,34
+5,Mercedes,3.0,+46.788,10.0,No,20240302,18,34
+6,McLaren Mercedes,7.0,+48.458,8.0,No,20240302,9,34
+7,Mercedes,9.0,+50.324,6.0,No,20240302,1,34
+8,McLaren Mercedes,8.0,+56.082,4.0,No,20240302,33,34
+9,Aston Martin Aramco Mercedes,6.0,+74.887,2.0,No,20240302,24,34
+10,Aston Martin Aramco Mercedes,12.0,+93.216,1.0,No,20240302,11,34
+11,Kick Sauber Ferrari,17.0,+1 lap,0.0,No,20240302,30,34
+12,Haas Ferrari,15.0,+1 lap,0.0,No,20240302,20,34
+13,RB Honda RBPT,14.0,+1 lap,0.0,No,20240302,5,34
+14,RB Honda RBPT,11.0,+1 lap,0.0,No,20240302,25,34
+15,Williams Mercedes,13.0,+1 lap,0.0,No,20240302,7,34
+16,Haas Ferrari,10.0,+1 lap,0.0,No,20240302,15,34
+17,Alpine Renault,19.0,+1 lap,0.0,No,20240302,12,34
+18,Alpine Renault,20.0,+1 lap,0.0,No,20240302,10,34
+19,Kick Sauber Ferrari,16.0,+1 lap,0.0,No,20240302,2,34
+20,Williams Mercedes,18.0,+2 laps,0.0,No,20240302,35,34
+1,Red Bull Racing Honda RBPT,1.0,1:20:43.273,25.0,No,20240309,3,136
+2,Red Bull Racing Honda RBPT,3.0,+13.643,18.0,No,20240309,4,136
+3,Ferrari,2.0,+18.639,16.0,Yes,20240309,8,136
+4,McLaren Mercedes,5.0,+32.007,12.0,No,20240309,33,136
+5,Aston Martin Aramco Mercedes,4.0,+35.759,10.0,No,20240309,24,136
+6,Mercedes,7.0,+39.936,8.0,No,20240309,18,136
+7,Ferrari,11.0,+42.679,6.0,No,20240309,36,136
+8,McLaren Mercedes,6.0,+45.708,4.0,No,20240309,9,136
+9,Mercedes,8.0,+47.391,2.0,No,20240309,1,136
+10,Haas Ferrari,15.0,+76.996,1.0,No,20240309,15,136
+11,Williams Mercedes,12.0,+88.354,0.0,No,20240309,7,136
+12,Haas Ferrari,13.0,+105.737,0.0,No,20240309,20,136
+13,Alpine Renault,17.0,+1 lap,0.0,No,20240309,12,136
+14,Williams Mercedes,19.0,+1 lap,0.0,No,20240309,35,136
+15,RB Honda RBPT,9.0,+1 lap,0.0,No,20240309,25,136
+16,RB Honda RBPT,14.0,+1 lap,0.0,No,20240309,5,136
+17,Kick Sauber Ferrari,16.0,+1 lap,0.0,No,20240309,2,136
+18,Kick Sauber Ferrari,20.0,+1 lap,0.0,No,20240309,30,136
+NC,Aston Martin Aramco Mercedes,10.0,DNF,0.0,No,20240309,11,136
+NC,Alpine Renault,18.0,DNF,0.0,No,20240309,10,136
+1,Ferrari,2.0,1:20:26.843,25.0,No,20240324,6,8
+2,Ferrari,4.0,+2.366,19.0,Yes,20240324,8,8
+3,McLaren Mercedes,3.0,+5.904,15.0,No,20240324,9,8
+4,McLaren Mercedes,5.0,+35.770,12.0,No,20240324,33,8
+5,Red Bull Racing Honda RBPT,6.0,+56.309,10.0,No,20240324,4,8
+6,Aston Martin Aramco Mercedes,9.0,+93.222,8.0,No,20240324,11,8
+7,RB Honda RBPT,8.0,+95.601,6.0,No,20240324,25,8
+8,Aston Martin Aramco Mercedes,10.0,+100.992,4.0,No,20240324,24,8
+9,Haas Ferrari,16.0,+104.553,2.0,No,20240324,15,8
+10,Haas Ferrari,14.0,+1 lap,1.0,No,20240324,20,8
+11,Williams Mercedes,12.0,+1 lap,0.0,No,20240324,7,8
+12,RB Honda RBPT,18.0,+1 lap,0.0,No,20240324,5,8
+13,Alpine Renault,17.0,+1 lap,0.0,No,20240324,10,8
+14,Kick Sauber Ferrari,13.0,+1 lap,0.0,No,20240324,2,8
+15,Kick Sauber Ferrari,19.0,+1 lap,0.0,No,20240324,30,8
+16,Alpine Renault,15.0,+1 lap,0.0,No,20240324,12,8
+NC,Mercedes,7.0,DNF,0.0,No,20240324,18,8
+NC,Mercedes,11.0,DNF,0.0,No,20240324,1,8
+NC,Red Bull Racing Honda RBPT,1.0,DNF,0.0,No,20240324,3,8
+1,Red Bull Racing Honda RBPT,1.0,1:54:23.566,26.0,Yes,20240407,3,206
+2,Red Bull Racing Honda RBPT,2.0,+12.535,18.0,No,20240407,4,206
+3,Ferrari,4.0,+20.866,15.0,No,20240407,6,206
+4,Ferrari,8.0,+26.522,12.0,No,20240407,8,206
+5,McLaren Mercedes,3.0,+29.700,10.0,No,20240407,9,206
+6,Aston Martin Aramco Mercedes,5.0,+44.272,8.0,No,20240407,24,206
+7,Mercedes,9.0,+45.951,6.0,No,20240407,18,206
+8,McLaren Mercedes,6.0,+47.525,4.0,No,20240407,33,206
+9,Mercedes,7.0,+48.626,2.0,No,20240407,1,206
+10,RB Honda RBPT,10.0,+1 lap,1.0,No,20240407,25,206
+11,Haas Ferrari,12.0,+1 lap,0.0,No,20240407,15,206
+12,Aston Martin Aramco Mercedes,16.0,+1 lap,0.0,No,20240407,11,206
+13,Haas Ferrari,18.0,+1 lap,0.0,No,20240407,20,206
+14,Kick Sauber Ferrari,13.0,+1 lap,0.0,No,20240407,2,206
+15,Alpine Renault,15.0,+1 lap,0.0,No,20240407,12,206
+16,Alpine Renault,17.0,+1 lap,0.0,No,20240407,10,206
+17,Williams Mercedes,19.0,+1 lap,0.0,No,20240407,35,206
+NC,Kick Sauber Ferrari,20.0,DNF,0.0,No,20240407,30,206
+NC,RB Honda RBPT,11.0,DNF,0.0,No,20240407,5,206
+NC,Williams Mercedes,14.0,DNF,0.0,No,20240407,7,206
+1,Red Bull Racing Honda RBPT,1.0,1:40:52.554,25.0,No,20240421,3,185
+2,McLaren Mercedes,4.0,+13.773,18.0,No,20240421,9,185
+3,Red Bull Racing Honda RBPT,2.0,+19.160,15.0,No,20240421,4,185
+4,Ferrari,6.0,+23.623,12.0,No,20240421,8,185
+5,Ferrari,7.0,+33.983,10.0,No,20240421,6,185
+6,Mercedes,8.0,+38.724,8.0,No,20240421,18,185
+7,Aston Martin Aramco Mercedes,3.0,+43.414,7.0,Yes,20240421,24,185
+8,McLaren Mercedes,5.0,+56.198,4.0,No,20240421,33,185
+9,Mercedes,18.0,+57.986,2.0,No,20240421,1,185
+10,Haas Ferrari,9.0,+60.476,1.0,No,20240421,15,185
+11,Alpine Renault,13.0,+62.812,0.0,No,20240421,12,185
+12,Williams Mercedes,14.0,+65.506,0.0,No,20240421,7,185
+13,Alpine Renault,15.0,+69.223,0.0,No,20240421,10,185
+14,Kick Sauber Ferrari,16.0,+71.689,0.0,No,20240421,30,185
+15,Aston Martin Aramco Mercedes,11.0,+82.786,0.0,No,20240421,11,185
+16,Haas Ferrari,17.0,+87.533,0.0,No,20240421,20,185
+17,Williams Mercedes,20.0,+95.110,0.0,No,20240421,35,185
+NC,RB Honda RBPT,12.0,DNF,0.0,No,20240421,5,185
+NC,RB Honda RBPT,19.0,DNF,0.0,No,20240421,25,185
+NC,Kick Sauber Ferrari,10.0,DNF,0.0,No,20240421,2,185
+1,McLaren Mercedes,5.0,1:30:49.876,25.0,No,20240505,9,147
+2,Red Bull Racing Honda RBPT,1.0,+7.612,18.0,No,20240505,3,147
+3,Ferrari,2.0,+9.920,15.0,No,20240505,8,147
+4,Red Bull Racing Honda RBPT,4.0,+14.650,12.0,No,20240505,4,147
+5,Ferrari,3.0,+16.407,10.0,No,20240505,6,147
+6,Mercedes,8.0,+16.585,8.0,No,20240505,1,147
+7,RB Honda RBPT,10.0,+26.185,6.0,No,20240505,25,147
+8,Mercedes,7.0,+34.789,4.0,No,20240505,18,147
+9,Aston Martin Aramco Mercedes,15.0,+37.107,2.0,No,20240505,24,147
+10,Alpine Renault,13.0,+39.746,1.0,No,20240505,12,147
+11,Haas Ferrari,9.0,+40.789,0.0,No,20240505,15,147
+12,Alpine Renault,12.0,+44.958,0.0,No,20240505,10,147
+13,McLaren Mercedes,6.0,+49.756,0.0,Yes,20240505,33,147
+14,Kick Sauber Ferrari,19.0,+49.979,0.0,No,20240505,30,147
+15,RB Honda RBPT,20.0,+50.956,0.0,No,20240505,5,147
+16,Kick Sauber Ferrari,16.0,+52.356,0.0,No,20240505,2,147
+17,Aston Martin Aramco Mercedes,11.0,+55.173,0.0,No,20240505,11,147
+18,Williams Mercedes,14.0,+76.091,0.0,No,20240505,7,147
+19,Haas Ferrari,18.0,+84.683,0.0,No,20240505,20,147
+NC,Williams Mercedes,17.0,DNF,0.0,No,20240505,35,147
+1,Red Bull Racing Honda RBPT,1.0,1:25:25.252,25.0,No,20240519,3,20
+2,McLaren Mercedes,2.0,+0.725,18.0,No,20240519,9,20
+3,Ferrari,3.0,+7.916,15.0,No,20240519,8,20
+4,McLaren Mercedes,5.0,+14.132,12.0,No,20240519,33,20
+5,Ferrari,4.0,+22.325,10.0,No,20240519,6,20
+6,Mercedes,8.0,+35.104,8.0,No,20240519,1,20
+7,Mercedes,6.0,+47.154,7.0,Yes,20240519,18,20
+8,Red Bull Racing Honda RBPT,11.0,+54.776,4.0,No,20240519,4,20
+9,Aston Martin Aramco Mercedes,13.0,+79.556,2.0,No,20240519,11,20
+10,RB Honda RBPT,7.0,+1 lap,1.0,No,20240519,25,20
+11,Haas Ferrari,10.0,+1 lap,0.0,No,20240519,15,20
+12,Haas Ferrari,18.0,+1 lap,0.0,No,20240519,20,20
+13,RB Honda RBPT,9.0,+1 lap,0.0,No,20240519,5,20
+14,Alpine Renault,12.0,+1 lap,0.0,No,20240519,12,20
+15,Kick Sauber Ferrari,17.0,+1 lap,0.0,No,20240519,30,20
+16,Alpine Renault,15.0,+1 lap,0.0,No,20240519,10,20
+17,Williams Mercedes,19.0,+1 lap,0.0,No,20240519,35,20
+18,Kick Sauber Ferrari,16.0,+1 lap,0.0,No,20240519,2,20
+19,Aston Martin Aramco Mercedes,20.0,+1 lap,0.0,No,20240519,24,20
+NC,Williams Mercedes,14.0,DNF,0.0,No,20240519,7,20
+1,Ferrari,1.0,2:23:15.554,25.0,No,20240526,8,57
+2,McLaren Mercedes,2.0,+7.152,18.0,No,20240526,33,57
+3,Ferrari,3.0,+7.585,15.0,No,20240526,6,57
+4,McLaren Mercedes,4.0,+8.650,12.0,No,20240526,9,57
+5,Mercedes,5.0,+13.309,10.0,No,20240526,18,57
+6,Red Bull Racing Honda RBPT,6.0,+13.853,8.0,No,20240526,3,57
+7,Mercedes,7.0,+14.908,7.0,Yes,20240526,1,57
+8,RB Honda RBPT,8.0,+1 lap,4.0,No,20240526,25,57
+9,Williams Mercedes,9.0,+1 lap,2.0,No,20240526,7,57
+10,Alpine Renault,10.0,+1 lap,1.0,No,20240526,10,57
+11,Aston Martin Aramco Mercedes,14.0,+2 laps,0.0,No,20240526,24,57
+12,RB Honda RBPT,12.0,+2 laps,0.0,No,20240526,5,57
+13,Kick Sauber Ferrari,17.0,+2 laps,0.0,No,20240526,2,57
+14,Aston Martin Aramco Mercedes,13.0,+2 laps,0.0,No,20240526,11,57
+15,Williams Mercedes,15.0,+2 laps,0.0,No,20240526,35,57
+16,Kick Sauber Ferrari,18.0,+2 laps,0.0,No,20240526,30,57
+NC,Alpine Renault,11.0,DNF,0.0,No,20240526,12,57
+NC,Red Bull Racing Honda RBPT,16.0,DNF,0.0,No,20240526,4,57
+NC,Haas Ferrari,19.0,DNF,0.0,No,20240526,15,57
+NC,Haas Ferrari,20.0,DNF,0.0,No,20240526,20,57
+1,Red Bull Racing Honda RBPT,2.0,1:45:47.927,25.0,No,20240609,3,83
+2,McLaren Mercedes,3.0,+3.879,18.0,No,20240609,9,83
+3,Mercedes,1.0,+4.317,15.0,No,20240609,18,83
+4,Mercedes,7.0,+4.915,13.0,Yes,20240609,1,83
+5,McLaren Mercedes,4.0,+10.199,10.0,No,20240609,33,83
+6,Aston Martin Aramco Mercedes,6.0,+17.510,8.0,No,20240609,24,83
+7,Aston Martin Aramco Mercedes,9.0,+23.625,6.0,No,20240609,11,83
+8,RB Honda RBPT,5.0,+28.672,4.0,No,20240609,5,83
+9,Alpine Renault,15.0,+30.021,2.0,No,20240609,10,83
+10,Alpine Renault,18.0,+30.313,1.0,No,20240609,12,83
+11,Haas Ferrari,17.0,+30.824,0.0,No,20240609,15,83
+12,Haas Ferrari,14.0,+31.253,0.0,No,20240609,20,83
+13,Kick Sauber Ferrari,19.0,+40.487,0.0,No,20240609,2,83
+14,RB Honda RBPT,8.0,+52.694,0.0,No,20240609,25,83
+15,Kick Sauber Ferrari,20.0,+1 lap,0.0,No,20240609,30,83
+NC,Ferrari,12.0,DNF,0.0,No,20240609,6,83
+NC,Williams Mercedes,10.0,DNF,0.0,No,20240609,7,83
+NC,Red Bull Racing Honda RBPT,16.0,DNF,0.0,No,20240609,4,83
+NC,Ferrari,11.0,DNF,0.0,No,20240609,8,83
+NC,Williams Mercedes,13.0,DNF,0.0,No,20240609,35,83
+1,Red Bull Racing Honda RBPT,2.0,1:28:20.227,25.0,No,20240623,3,54
+2,McLaren Mercedes,1.0,+2.219,19.0,Yes,20240623,9,54
+3,Mercedes,3.0,+17.790,15.0,No,20240623,1,54
+4,Mercedes,4.0,+22.320,12.0,No,20240623,18,54
+5,Ferrari,5.0,+22.709,10.0,No,20240623,8,54
+6,Ferrari,6.0,+31.028,8.0,No,20240623,6,54
+7,McLaren Mercedes,9.0,+33.760,6.0,No,20240623,33,54
+8,Red Bull Racing Honda RBPT,11.0,+59.524,4.0,No,20240623,4,54
+9,Alpine Renault,7.0,+62.025,2.0,No,20240623,10,54
+10,Alpine Renault,8.0,+71.889,1.0,No,20240623,12,54
+11,Haas Ferrari,13.0,+79.215,0.0,No,20240623,15,54
+12,Aston Martin Aramco Mercedes,10.0,+1 lap,0.0,No,20240623,24,54
+13,Kick Sauber Ferrari,15.0,+1 lap,0.0,No,20240623,30,54
+14,Aston Martin Aramco Mercedes,14.0,+1 lap,0.0,No,20240623,11,54
+15,RB Honda RBPT,18.0,+1 lap,0.0,No,20240623,5,54
+16,Kick Sauber Ferrari,12.0,+1 lap,0.0,No,20240623,2,54
+17,Haas Ferrari,16.0,+1 lap,0.0,No,20240623,20,54
+18,Williams Mercedes,20.0,+1 lap,0.0,No,20240623,7,54
+19,RB Honda RBPT,17.0,+1 lap,0.0,No,20240623,25,54
+20,Williams Mercedes,19.0,+2 laps,0.0,No,20240623,35,54
+1,Mercedes,3.0,1:24:22.798,25.0,No,20240630,18,174
+2,McLaren Mercedes,7.0,+1.906,18.0,No,20240630,33,174
+3,Ferrari,4.0,+4.533,15.0,No,20240630,6,174
+4,Mercedes,5.0,+23.142,12.0,No,20240630,1,174
+5,Red Bull Racing Honda RBPT,1.0,+37.253,10.0,No,20240630,3,174
+6,Haas Ferrari,9.0,+54.088,8.0,No,20240630,15,174
+7,Red Bull Racing Honda RBPT,8.0,+54.672,6.0,No,20240630,4,174
+8,Haas Ferrari,12.0,+60.355,4.0,No,20240630,20,174
+9,RB Honda RBPT,11.0,+61.169,2.0,No,20240630,5,174
+10,Alpine Renault,13.0,+61.766,1.0,No,20240630,10,174
+11,Ferrari,6.0,+67.056,0.0,No,20240630,8,174
+12,Alpine Renault,10.0,+68.325,0.0,No,20240630,12,174
+13,Aston Martin Aramco Mercedes,17.0,+1 lap,0.0,No,20240630,11,174
+14,RB Honda RBPT,14.0,+1 lap,0.0,No,20240630,25,174
+15,Williams Mercedes,16.0,+1 lap,0.0,No,20240630,7,174
+16,Kick Sauber Ferrari,18.0,+1 lap,0.0,No,20240630,2,174
+17,Kick Sauber Ferrari,20.0,+1 lap,0.0,No,20240630,30,174
+18,Aston Martin Aramco Mercedes,15.0,+1 lap,0.0,Yes,20240630,24,174
+19,Williams Mercedes,19.0,+2 laps,0.0,No,20240630,35,174
+20,McLaren Mercedes,2.0,+7 laps,0.0,No,20240630,9,174
+1,Mercedes,2.0,1:22:27.059,25.0,No,20240707,1,202
+2,Red Bull Racing Honda RBPT,4.0,+1.465,18.0,No,20240707,3,202
+3,McLaren Mercedes,3.0,+7.547,15.0,No,20240707,9,202
+4,McLaren Mercedes,5.0,+12.429,12.0,No,20240707,33,202
+5,Ferrari,7.0,+47.318,11.0,Yes,20240707,6,202
+6,Haas Ferrari,6.0,+55.722,8.0,No,20240707,15,202
+7,Aston Martin Aramco Mercedes,8.0,+56.569,6.0,No,20240707,11,202
+8,Aston Martin Aramco Mercedes,10.0,+63.577,4.0,No,20240707,24,202
+9,Williams Mercedes,9.0,+68.387,2.0,No,20240707,7,202
+10,RB Honda RBPT,13.0,+79.303,1.0,No,20240707,25,202
+11,Williams Mercedes,12.0,+88.960,0.0,No,20240707,35,202
+12,Haas Ferrari,17.0,+90.153,0.0,No,20240707,20,202
+13,RB Honda RBPT,15.0,+1 lap,0.0,No,20240707,5,202
+14,Ferrari,11.0,+1 lap,0.0,No,20240707,8,202
+15,Kick Sauber Ferrari,16.0,+1 lap,0.0,No,20240707,2,202
+16,Alpine Renault,18.0,+2 laps,0.0,No,20240707,12,202
+17,Red Bull Racing Honda RBPT,20.0,+2 laps,0.0,No,20240707,4,202
+18,Kick Sauber Ferrari,14.0,+2 laps,0.0,No,20240707,30,202
+NC,Mercedes,1.0,DNF,0.0,No,20240707,18,202
+NC,Alpine Renault,19.0,DNF,0.0,No,20240707,10,202
+1,McLaren Mercedes,2.0,1:38:01.989,25.0,No,20240721,33,131
+2,McLaren Mercedes,1.0,+2.141,18.0,No,20240721,9,131
+3,Mercedes,5.0,+14.880,15.0,No,20240721,1,131
+4,Ferrari,6.0,+19.686,12.0,No,20240721,8,131
+5,Red Bull Racing Honda RBPT,3.0,+21.349,10.0,No,20240721,3,131
+6,Ferrari,4.0,+23.073,8.0,No,20240721,6,131
+7,Red Bull Racing Honda RBPT,16.0,+39.792,6.0,No,20240721,4,131
+8,Mercedes,17.0,+42.368,5.0,Yes,20240721,18,131
+9,RB Honda RBPT,10.0,+77.259,2.0,No,20240721,25,131
+10,Aston Martin Aramco Mercedes,8.0,+77.976,1.0,No,20240721,11,131
+11,Aston Martin Aramco Mercedes,7.0,+82.460,0.0,No,20240721,24,131
+12,RB Honda RBPT,9.0,+1 lap,0.0,No,20240721,5,131
+13,Haas Ferrari,11.0,+1 lap,0.0,No,20240721,15,131
+14,Williams Mercedes,13.0,+1 lap,0.0,No,20240721,7,131
+15,Haas Ferrari,15.0,+1 lap,0.0,No,20240721,20,131
+16,Kick Sauber Ferrari,12.0,+1 lap,0.0,No,20240721,2,131
+17,Williams Mercedes,14.0,+1 lap,0.0,No,20240721,35,131
+18,Alpine Renault,19.0,+1 lap,0.0,No,20240721,12,131
+19,Kick Sauber Ferrari,18.0,+1 lap,0.0,No,20240721,30,131
+NC,Alpine Renault,20.0,DNF,0.0,No,20240721,10,131
+DQ,Mercedes,6.0,1:19:57.040,0.0,No,20240728,18,74
+1,Mercedes,3.0,+0.526,25.0,No,20240728,1,74
+2,McLaren Mercedes,5.0,+1.173,18.0,No,20240728,33,74
+3,Ferrari,1.0,+8.549,15.0,No,20240728,8,74
+4,Red Bull Racing Honda RBPT,11.0,+9.226,12.0,No,20240728,3,74
+5,McLaren Mercedes,4.0,+9.850,10.0,No,20240728,9,74
+6,Ferrari,7.0,+19.795,8.0,No,20240728,6,74
+7,Red Bull Racing Honda RBPT,2.0,+3.195,7.0,Yes,20240728,4,74
+8,Aston Martin Aramco Mercedes,8.0,+49.963,4.0,No,20240728,24,74
+9,Alpine Renault,9.0,+52.552,2.0,No,20240728,12,74
+10,RB Honda RBPT,13.0,+54.926,1.0,No,20240728,5,74
+11,Aston Martin Aramco Mercedes,15.0,+63.011,0.0,No,20240728,11,74
+12,Williams Mercedes,10.0,+63.651,0.0,No,20240728,7,74
+13,Alpine Renault,12.0,+64.365,0.0,No,20240728,10,74
+14,Haas Ferrari,17.0,+66.631,0.0,No,20240728,20,74
+15,Kick Sauber Ferrari,14.0,+70.638,0.0,No,20240728,2,74
+16,RB Honda RBPT,20.0,+76.737,0.0,No,20240728,25,74
+17,Williams Mercedes,18.0,+86.057,0.0,No,20240728,35,74
+18,Haas Ferrari,16.0,+88.833,0.0,No,20240728,15,74
+NC,Kick Sauber Ferrari,19.0,DNF,0.0,No,20240728,30,74
+1,McLaren Mercedes,1.0,1:30:45.519,26.0,Yes,20240825,9,101
+2,Red Bull Racing Honda RBPT,2.0,+22.896,18.0,No,20240825,3,101
+3,Ferrari,6.0,+25.439,15.0,No,20240825,8,101
+4,McLaren Mercedes,3.0,+27.337,12.0,No,20240825,33,101
+5,Ferrari,10.0,+32.137,10.0,No,20240825,6,101
+6,Red Bull Racing Honda RBPT,5.0,+39.542,8.0,No,20240825,4,101
+7,Mercedes,4.0,+44.617,6.0,No,20240825,18,101
+8,Mercedes,14.0,+49.599,4.0,No,20240825,1,101
+9,Alpine Renault,9.0,+1 lap,2.0,No,20240825,10,101
+10,Aston Martin Aramco Mercedes,7.0,+1 lap,1.0,No,20240825,24,101
+11,Haas Ferrari,12.0,+1 lap,0.0,No,20240825,15,101
+12,RB Honda RBPT,13.0,+1 lap,0.0,No,20240825,5,101
+13,Aston Martin Aramco Mercedes,8.0,+1 lap,0.0,No,20240825,11,101
+14,Williams Mercedes,19.0,+1 lap,0.0,No,20240825,7,101
+15,Alpine Renault,15.0,+1 lap,0.0,No,20240825,12,101
+16,Williams Mercedes,18.0,+1 lap,0.0,No,20240825,35,101
+17,RB Honda RBPT,11.0,+1 lap,0.0,No,20240825,25,101
+18,Haas Ferrari,20.0,+1 lap,0.0,No,20240825,20,101
+19,Kick Sauber Ferrari,16.0,+2 laps,0.0,No,20240825,2,101
+20,Kick Sauber Ferrari,17.0,+2 laps,0.0,No,20240825,30,101
+1,Ferrari,4.0,1:14:40.727,25.0,No,20240901,8,26
+2,McLaren Mercedes,2.0,+2.664,18.0,No,20240901,33,26
+3,McLaren Mercedes,1.0,+6.153,16.0,Yes,20240901,9,26
+4,Ferrari,5.0,+15.621,12.0,No,20240901,6,26
+5,Mercedes,6.0,+22.820,10.0,No,20240901,1,26
+6,Red Bull Racing Honda RBPT,7.0,+37.932,8.0,No,20240901,3,26
+7,Mercedes,3.0,+39.715,6.0,No,20240901,18,26
+8,Red Bull Racing Honda RBPT,8.0,+54.148,4.0,No,20240901,4,26
+9,Williams Mercedes,9.0,+67.456,2.0,No,20240901,7,26
+10,Haas Ferrari,13.0,+68.302,1.0,No,20240901,20,26
+11,Aston Martin Aramco Mercedes,11.0,+68.495,0.0,No,20240901,24,26
+12,Williams Mercedes,18.0,+81.308,0.0,No,20240901,37,26
+13,RB Honda RBPT,12.0,+93.452,0.0,No,20240901,5,26
+14,Alpine Renault,15.0,+1 lap,0.0,No,20240901,12,26
+15,Alpine Renault,14.0,+1 lap,0.0,No,20240901,10,26
+16,Kick Sauber Ferrari,19.0,+1 lap,0.0,No,20240901,2,26
+17,Haas Ferrari,10.0,+1 lap,0.0,No,20240901,15,26
+18,Kick Sauber Ferrari,20.0,+1 lap,0.0,No,20240901,30,26
+19,Aston Martin Aramco Mercedes,17.0,+1 lap,0.0,No,20240901,11,26
+NC,RB Honda RBPT,16.0,DNF,0.0,No,20240901,25,26
+1,McLaren Mercedes,2.0,1:32:58.007,25.0,No,20240915,33,36
+2,Ferrari,1.0,+10.910,18.0,No,20240915,8,36
+3,Mercedes,5.0,+31.328,15.0,No,20240915,18,36
+4,McLaren Mercedes,15.0,+36.142,13.0,Yes,20240915,9,36
+5,Red Bull Racing Honda RBPT,6.0,+77.098,10.0,No,20240915,3,36
+6,Aston Martin Aramco Mercedes,7.0,+85.468,8.0,No,20240915,24,36
+7,Williams Mercedes,9.0,+87.396,6.0,No,20240915,7,36
+8,Williams Mercedes,8.0,+89.541,4.0,No,20240915,37,36
+9,Mercedes,19.0,+92.401,2.0,No,20240915,1,36
+10,Haas Ferrari,10.0,+93.127,1.0,No,20240915,36,36
+11,Haas Ferrari,12.0,+93.465,0.0,No,20240915,15,36
+12,Alpine Renault,18.0,+117.189,0.0,No,20240915,10,36
+13,RB Honda RBPT,14.0,+146.907,0.0,No,20240915,5,36
+14,Kick Sauber Ferrari,17.0,+148.841,0.0,No,20240915,30,36
+15,Alpine Renault,20.0,+1 lap,0.0,No,20240915,12,36
+16,Kick Sauber Ferrari,16.0,+1 lap,0.0,No,20240915,2,36
+NC,Red Bull Racing Honda RBPT,4.0,DNF,0.0,No,20240915,4,36
+NC,Ferrari,3.0,DNF,0.0,No,20240915,6,36
+NC,Aston Martin Aramco Mercedes,13.0,DNF,0.0,No,20240915,11,36
+NC,RB Honda RBPT,11.0,DNF,0.0,No,20240915,25,36
+1,McLaren Mercedes,1.0,1:40:52.571,25.0,No,20240922,9,146
+2,Red Bull Racing Honda RBPT,2.0,+20.945,18.0,No,20240922,3,146
+3,McLaren Mercedes,5.0,+41.823,15.0,No,20240922,33,146
+4,Mercedes,4.0,+61.040,12.0,No,20240922,18,146
+5,Ferrari,9.0,+62.430,10.0,No,20240922,8,146
+6,Mercedes,3.0,+85.248,8.0,No,20240922,1,146
+7,Ferrari,10.0,+96.039,6.0,No,20240922,6,146
+8,Aston Martin Aramco Mercedes,7.0,+1 lap,4.0,No,20240922,24,146
+9,Haas Ferrari,6.0,+1 lap,2.0,No,20240922,15,146
+10,Red Bull Racing Honda RBPT,13.0,+1 lap,1.0,No,20240922,4,146
+11,Williams Mercedes,12.0,+1 lap,0.0,No,20240922,37,146
+12,RB Honda RBPT,8.0,+1 lap,0.0,No,20240922,25,146
+13,Alpine Renault,15.0,+1 lap,0.0,No,20240922,12,146
+14,Aston Martin Aramco Mercedes,17.0,+1 lap,0.0,No,20240922,11,146
+15,Kick Sauber Ferrari,20.0,+1 lap,0.0,No,20240922,30,146
+16,Kick Sauber Ferrari,19.0,+1 lap,0.0,No,20240922,2,146
+17,Alpine Renault,18.0,+1 lap,0.0,No,20240922,10,146
+18,RB Honda RBPT,16.0,+1 lap,0.0,Yes,20240922,5,146
+NC,Haas Ferrari,14.0,DNF,0.0,No,20240922,20,146
+NC,Williams Mercedes,11.0,DNF,0.0,No,20240922,7,146
+1,Ferrari,4.0,1:35:09.639,25.0,No,20241020,8,87
+2,Ferrari,3.0,+8.562,18.0,No,20241020,6,87
+3,Red Bull Racing Honda RBPT,2.0,+19.412,15.0,No,20241020,3,87
+4,McLaren Mercedes,1.0,+20.354,12.0,No,20241020,9,87
+5,McLaren Mercedes,5.0,+21.921,10.0,No,20241020,33,87
+6,Mercedes,20.0,+56.295,8.0,No,20241020,18,87
+7,Red Bull Racing Honda RBPT,9.0,+59.072,6.0,No,20241020,4,87
+8,Haas Ferrari,11.0,+62.957,4.0,No,20241020,15,87
+9,RB Honda RBPT,19.0,+70.563,2.0,No,20241020,34,87
+10,Williams Mercedes,15.0,+71.979,1.0,No,20241020,37,87
+11,Haas Ferrari,8.0,+79.782,0.0,No,20241020,20,87
+12,Alpine Renault,6.0,+90.558,0.0,No,20241020,10,87
+13,Aston Martin Aramco Mercedes,7.0,+1 lap,0.0,No,20241020,24,87
+14,RB Honda RBPT,10.0,+1 lap,0.0,No,20241020,25,87
+15,Aston Martin Aramco Mercedes,13.0,+1 lap,0.0,No,20241020,11,87
+16,Williams Mercedes,14.0,+1 lap,0.0,No,20241020,7,87
+17,Kick Sauber Ferrari,16.0,+1 lap,0.0,No,20241020,2,87
+18,Alpine Renault,12.0,+1 lap,0.0,Yes,20241020,12,87
+19,Kick Sauber Ferrari,18.0,+1 lap,0.0,No,20241020,30,87
+NC,Mercedes,17.0,DNF,0.0,No,20241020,1,87
+1,Ferrari,1.0,1:40:55.800,25.0,No,20241027,6,14
+2,McLaren Mercedes,3.0,+4.705,18.0,No,20241027,9,14
+3,Ferrari,4.0,+34.387,16.0,Yes,20241027,8,14
+4,Mercedes,6.0,+44.780,12.0,No,20241027,1,14
+5,Mercedes,5.0,+48.536,10.0,No,20241027,18,14
+6,Red Bull Racing Honda RBPT,2.0,+59.558,8.0,No,20241027,3,14
+7,Haas Ferrari,7.0,+63.642,6.0,No,20241027,20,14
+8,McLaren Mercedes,17.0,+64.928,4.0,No,20241027,33,14
+9,Haas Ferrari,10.0,+1 lap,2.0,No,20241027,15,14
+10,Alpine Renault,8.0,+1 lap,1.0,No,20241027,10,14
+11,Aston Martin Aramco Mercedes,14.0,+1 lap,0.0,No,20241027,11,14
+12,Williams Mercedes,16.0,+1 lap,0.0,No,20241027,37,14
+13,Alpine Renault,20.0,+1 lap,0.0,No,20241027,12,14
+14,Kick Sauber Ferrari,15.0,+1 lap,0.0,No,20241027,2,14
+15,Kick Sauber Ferrari,19.0,+1 lap,0.0,No,20241027,30,14
+16,RB Honda RBPT,12.0,+1 lap,0.0,No,20241027,34,14
+17,Red Bull Racing Honda RBPT,18.0,+1 lap,0.0,No,20241027,4,14
+NC,Aston Martin Aramco Mercedes,13.0,DNF,0.0,No,20241027,24,14
+NC,Williams Mercedes,9.0,DNF,0.0,No,20241027,7,14
+NC,RB Honda RBPT,11.0,DNF,0.0,No,20241027,25,14
+1,Red Bull Racing Honda RBPT,17.0,2:06:54.430,26.0,Yes,20241103,3,24
+2,Alpine Renault,4.0,+19.477,18.0,No,20241103,12,24
+3,Alpine Renault,13.0,+22.532,15.0,No,20241103,10,24
+4,Mercedes,2.0,+23.265,12.0,No,20241103,18,24
+5,Ferrari,6.0,+30.177,10.0,No,20241103,8,24
+6,McLaren Mercedes,1.0,+31.372,8.0,No,20241103,9,24
+7,RB Honda RBPT,3.0,+42.056,6.0,No,20241103,25,24
+8,McLaren Mercedes,8.0,+44.943,4.0,No,20241103,33,24
+9,RB Honda RBPT,5.0,+50.452,2.0,No,20241103,34,24
+10,Mercedes,14.0,+50.753,1.0,No,20241103,1,24
+11,Red Bull Racing Honda RBPT,12.0,+51.531,0.0,No,20241103,4,24
+12,Haas Ferrari,15.0,+57.085,0.0,No,20241103,36,24
+13,Kick Sauber Ferrari,11.0,+63.588,0.0,No,20241103,2,24
+14,Aston Martin Aramco Mercedes,9.0,+78.049,0.0,No,20241103,24,24
+15,Kick Sauber Ferrari,19.0,+79.649,0.0,No,20241103,30,24
+NC,Ferrari,20.0,DNF,0.0,No,20241103,6,24
+NC,Williams Mercedes,16.0,DNF,0.0,No,20241103,37,24
+NC,Williams Mercedes,7.0,DNF,0.0,No,20241103,7,24
+NC,Aston Martin Aramco Mercedes,10.0,DNF,0.0,No,20241103,11,24
+DQ,Haas Ferrari,18.0,DSQ,0.0,No,20241103,15,24
+1,Mercedes,1.0,1:22:05.969,25.0,No,20241123,18,141
+2,Mercedes,10.0,+7.313,18.0,No,20241123,1,141
+3,Ferrari,2.0,+11.906,15.0,No,20241123,6,141
+4,Ferrari,4.0,+14.283,12.0,No,20241123,8,141
+5,Red Bull Racing Honda RBPT,5.0,+16.582,10.0,No,20241123,3,141
+6,McLaren Mercedes,6.0,+43.385,9.0,Yes,20241123,9,141
+7,McLaren Mercedes,8.0,+51.365,6.0,No,20241123,33,141
+8,Haas Ferrari,9.0,+59.808,4.0,No,20241123,15,141
+9,RB Honda RBPT,7.0,+62.808,2.0,No,20241123,25,141
+10,Red Bull Racing Honda RBPT,15.0,+63.114,1.0,No,20241123,4,141
+11,Aston Martin Aramco Mercedes,16.0,+69.195,0.0,No,20241123,24,141
+12,Haas Ferrari,12.0,+69.803,0.0,No,20241123,20,141
+13,Kick Sauber Ferrari,13.0,+74.085,0.0,No,20241123,30,141
+14,Williams Mercedes,20.0,+75.172,0.0,No,20241123,37,141
+15,Aston Martin Aramco Mercedes,18.0,+84.102,0.0,No,20241123,11,141
+16,RB Honda RBPT,14.0,+91.005,0.0,No,20241123,34,141
+17,Alpine Renault,11.0,+1 lap,0.0,No,20241123,12,141
+18,Kick Sauber Ferrari,19.0,+1 lap,0.0,No,20241123,2,141
+NC,Williams Mercedes,17.0,DNF,0.0,No,20241123,7,141
+NC,Alpine Renault,3.0,DNF,0.0,No,20241123,10,141
+1,Red Bull Racing Honda RBPT,2.0,1:31:05.323,25.0,No,20241201,3,144
+2,Ferrari,5.0,+6.031,18.0,No,20241201,8,144
+3,McLaren Mercedes,4.0,+6.819,15.0,No,20241201,33,144
+4,Mercedes,1.0,+14.104,12.0,No,20241201,18,144
+5,Alpine Renault,11.0,+16.782,10.0,No,20241201,10,144
+6,Ferrari,7.0,+17.476,8.0,No,20241201,6,144
+7,Aston Martin Aramco Mercedes,8.0,+19.867,6.0,No,20241201,24,144
+8,Kick Sauber Ferrari,12.0,+25.360,4.0,No,20241201,30,144
+9,Haas Ferrari,10.0,+32.177,2.0,No,20241201,20,144
+10,McLaren Mercedes,3.0,+35.762,2.0,Yes,20241201,9,144
+11,Kick Sauber Ferrari,13.0,+50.243,0.0,No,20241201,2,144
+12,Mercedes,6.0,+56.122,0.0,No,20241201,1,144
+13,RB Honda RBPT,14.0,+61.100,0.0,No,20241201,25,144
+14,RB Honda RBPT,17.0,+62.656,0.0,No,20241201,34,144
+15,Williams Mercedes,16.0,+1 lap,0.0,No,20241201,7,144
+NC,Haas Ferrari,18.0,DNF,0.0,No,20241201,15,144
+NC,Red Bull Racing Honda RBPT,9.0,DNF,0.0,No,20241201,4,144
+NC,Aston Martin Aramco Mercedes,15.0,DNF,0.0,No,20241201,11,144
+NC,Williams Mercedes,19.0,DNF,0.0,No,20241201,37,144
+NC,Alpine Renault,20.0,DNF,0.0,No,20241201,12,144
+1,McLaren Mercedes,1.0,1:26:33.291,25.0,No,20241208,9,210
+2,Ferrari,3.0,+5.832,18.0,No,20241208,6,210
+3,Ferrari,19.0,+31.928,15.0,No,20241208,8,210
+4,Mercedes,16.0,+36.483,12.0,No,20241208,1,210
+5,Mercedes,6.0,+37.538,10.0,No,20241208,18,210
+6,Red Bull Racing Honda RBPT,4.0,+49.847,8.0,No,20241208,3,210
+7,Alpine Renault,5.0,+72.560,6.0,No,20241208,10,210
+8,Haas Ferrari,7.0,+75.554,4.0,No,20241208,15,210
+9,Aston Martin Aramco Mercedes,8.0,+82.373,2.0,No,20241208,24,210
+10,McLaren Mercedes,2.0,+83.821,1.0,No,20241208,33,210
+11,Williams Mercedes,18.0,+1 lap,0.0,No,20241208,7,210
+12,RB Honda RBPT,11.0,+1 lap,0.0,No,20241208,25,210
+13,Kick Sauber Ferrari,15.0,+1 lap,0.0,No,20241208,30,210
+14,Aston Martin Aramco Mercedes,13.0,+1 lap,0.0,No,20241208,11,210
+15,Alpine Renault,17.0,+1 lap,0.0,No,20241208,38,210
+16,Haas Ferrari,14.0,+1 lap,0.0,Yes,20241208,20,210
+NC,RB Honda RBPT,12.0,DNF,0.0,No,20241208,34,210
+NC,Kick Sauber Ferrari,9.0,DNF,0.0,No,20241208,2,210
+NC,Williams Mercedes,20.0,DNF,0.0,No,20241208,37,210
+NC,Red Bull Racing Honda RBPT,10.0,DNF,0.0,No,20241208,4,210
